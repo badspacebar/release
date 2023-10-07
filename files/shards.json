@@ -12,12 +12,6 @@
                 "id": "Demon_Aio_"
             },
             {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.1692,
-                "win_rate": 0.6471
-            },
-            {
                 "name": "Hanbot Beasty ",
                 "id": "hanbot_beasty",
                 "pick_rate": 0.0149,
@@ -88,12 +82,6 @@
                 "id": "Demon_Aio_"
             },
             {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0606,
-                "win_rate": 0.6667
-            },
-            {
                 "name": "JUST - AIO",
                 "id": "JUST_AIO",
                 "pick_rate": 0.0101,
@@ -128,12 +116,6 @@
                 "id": "Demon_Aio_"
             },
             {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0088,
-                "win_rate": 1
-            },
-            {
                 "name": "JUST - AIO",
                 "id": "JUST_AIO",
                 "pick_rate": 0.0088,
@@ -166,12 +148,6 @@
             {
                 "name": "DemonAIO",
                 "id": "Demon_Aio_"
-            },
-            {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0155,
-                "win_rate": 0.3333
             },
             {
                 "name": "Hanbot Beasty ",
@@ -282,12 +258,6 @@
                 "id": "Demon_Aio_"
             },
             {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0123,
-                "win_rate": 0.5
-            },
-            {
                 "name": "JUST - AIO",
                 "id": "JUST_AIO",
                 "pick_rate": 0.0307,
@@ -334,10 +304,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.5385,
                 "win_rate": 0.619
-            },
-            {
-                "name": "Fx",
-                "id": "Fx"
             },
             {
                 "name": "JUST - AIO",
@@ -406,12 +372,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0191,
                 "win_rate": 0.8333
-            },
-            {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0318,
-                "win_rate": 0.7
             },
             {
                 "name": "Hanbot Beasty ",
@@ -676,12 +636,6 @@
                 "win_rate": 0.8571
             },
             {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.1728,
-                "win_rate": 0.5
-            },
-            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0926,
@@ -717,12 +671,6 @@
     },
     "Camille": {
         "shards": [
-            {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0339,
-                "win_rate": 0.5
-            },
             {
                 "name": "IntAIO",
                 "id": "intnner_cn"
@@ -828,12 +776,6 @@
             {
                 "name": "DemonAIO",
                 "id": "Demon_Aio_"
-            },
-            {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0108,
-                "win_rate": 0.6154
             },
             {
                 "name": "GG AIO",
@@ -1098,12 +1040,6 @@
                 "win_rate": 1
             },
             {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0364,
-                "win_rate": 1
-            },
-            {
                 "name": "IntAIO",
                 "id": "intnner_cn"
             },
@@ -1130,12 +1066,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0225,
                 "win_rate": 0.4
-            },
-            {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0315,
-                "win_rate": 0.5714
             },
             {
                 "name": "Hanbot Beasty ",
@@ -1252,12 +1182,6 @@
                 "id": "archer",
                 "pick_rate": 0.009,
                 "win_rate": 1
-            },
-            {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.018,
-                "win_rate": 0.8333
             },
             {
                 "name": "GG AIO",
@@ -1404,10 +1328,6 @@
                 "id": "Demon_Aio_"
             },
             {
-                "name": "Fx",
-                "id": "Fx"
-            },
-            {
                 "name": "Healer AIO",
                 "id": "Healer_A.I.O.",
                 "pick_rate": 0.8279,
@@ -1446,12 +1366,6 @@
             {
                 "name": "DemonAIO",
                 "id": "Demon_Aio_"
-            },
-            {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0025,
-                "win_rate": 0
             },
             {
                 "name": "IntAIO",
@@ -1494,12 +1408,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.225,
                 "win_rate": 0.3333
-            },
-            {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.025,
-                "win_rate": 1
             },
             {
                 "name": "JUST - AIO",
@@ -1648,12 +1556,6 @@
                 "id": "archer"
             },
             {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0048,
-                "win_rate": 0.5
-            },
-            {
                 "name": "GG AIO",
                 "id": "GG AIO",
                 "pick_rate": 0.1367,
@@ -1716,12 +1618,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0275,
                 "win_rate": 0.6842
-            },
-            {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0108,
-                "win_rate": 0.6667
             },
             {
                 "name": "GG AIO",
@@ -1821,12 +1717,6 @@
     "Jax": {
         "shards": [
             {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0084,
-                "win_rate": 1
-            },
-            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0168,
@@ -1871,12 +1761,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0138,
                 "win_rate": 0.5
-            },
-            {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0759,
-                "win_rate": 0.6364
             },
             {
                 "name": "IntAIO",
@@ -1959,12 +1843,6 @@
                 "id": "Demon_Aio_"
             },
             {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0909,
-                "win_rate": 0
-            },
-            {
                 "name": "JUST - AIO",
                 "id": "JUST_AIO",
                 "pick_rate": 0.8182,
@@ -2023,12 +1901,6 @@
                 "win_rate": 0.6055
             },
             {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.1219,
-                "win_rate": 0.3968
-            },
-            {
                 "name": "[HGVip]AIO",
                 "id": "HuangGuanVipAIO",
                 "pick_rate": 0.0754,
@@ -2057,12 +1929,6 @@
                 "id": "archer",
                 "pick_rate": 0.0023,
                 "win_rate": 1
-            },
-            {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0069,
-                "win_rate": 0.8333
             },
             {
                 "name": "GG AIO",
@@ -2112,12 +1978,6 @@
     },
     "JarvanIV": {
         "shards": [
-            {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0225,
-                "win_rate": 0.8
-            },
             {
                 "name": "RXing",
                 "id": "RXing",
@@ -2193,12 +2053,6 @@
                 "win_rate": 0.4
             },
             {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0132,
-                "win_rate": 0.5
-            },
-            {
                 "name": "GG AIO",
                 "id": "GG AIO",
                 "pick_rate": 0.0429,
@@ -2271,10 +2125,6 @@
                 "win_rate": 0.6522
             },
             {
-                "name": "Fx",
-                "id": "Fx"
-            },
-            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0667,
@@ -2329,12 +2179,6 @@
     "Illaoi": {
         "shards": [
             {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.4186,
-                "win_rate": 0.5556
-            },
-            {
                 "name": "Healer AIO",
                 "id": "Healer_A.I.O.",
                 "pick_rate": 0.4651,
@@ -2383,12 +2227,6 @@
                 "win_rate": 0.3333
             },
             {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.027,
-                "win_rate": 0.6667
-            },
-            {
                 "name": "Kornis AIO",
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.7748,
@@ -2417,12 +2255,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.029,
                 "win_rate": 0.3043
-            },
-            {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0101,
-                "win_rate": 0.5
             },
             {
                 "name": "GG AIO",
@@ -2501,12 +2333,6 @@
                 "win_rate": 0.5294
             },
             {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0189,
-                "win_rate": 0.6667
-            },
-            {
                 "name": "Healer AIO",
                 "id": "Healer_A.I.O.",
                 "pick_rate": 0.805,
@@ -2549,12 +2375,6 @@
                 "win_rate": 0.7115
             },
             {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0102,
-                "win_rate": 0.6667
-            },
-            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0068,
@@ -2583,12 +2403,6 @@
                 "id": "archer",
                 "pick_rate": 0.2195,
                 "win_rate": 0.5556
-            },
-            {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0244,
-                "win_rate": 1
             },
             {
                 "name": "Healer AIO",
@@ -2651,12 +2465,6 @@
                 "win_rate": 0.5
             },
             {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0121,
-                "win_rate": 0
-            },
-            {
                 "name": "GG AIO",
                 "id": "GG AIO",
                 "pick_rate": 0.2903,
@@ -2717,12 +2525,6 @@
                 "win_rate": 0.5806
             },
             {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.1489,
-                "win_rate": 0.4286
-            },
-            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0851,
@@ -2756,12 +2558,6 @@
                 "name": "ArcherAIO",
                 "id": "archer",
                 "pick_rate": 0.0053,
-                "win_rate": 0.5
-            },
-            {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0106,
                 "win_rate": 0.5
             },
             {
@@ -2805,12 +2601,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.1055,
                 "win_rate": 0.48
-            },
-            {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0844,
-                "win_rate": 0.6
             },
             {
                 "name": "Healer AIO",
@@ -2875,12 +2665,6 @@
                 "id": "archer"
             },
             {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.006,
-                "win_rate": 1
-            },
-            {
                 "name": "Healer AIO",
                 "id": "Healer_A.I.O.",
                 "pick_rate": 0.8393,
@@ -2911,12 +2695,6 @@
                 "win_rate": 0.5455
             },
             {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.012,
-                "win_rate": 0
-            },
-            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.1647,
@@ -2934,12 +2712,6 @@
     },
     "Qiyana": {
         "shards": [
-            {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0235,
-                "win_rate": 0
-            },
             {
                 "name": "Kiri AIO",
                 "id": "KiriAIO",
@@ -3031,12 +2803,6 @@
                 "win_rate": 1
             },
             {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0096,
-                "win_rate": 1
-            },
-            {
                 "name": "GG AIO",
                 "id": "GG AIO",
                 "pick_rate": 0.0481,
@@ -3113,12 +2879,6 @@
                 "win_rate": 0.6667
             },
             {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0256,
-                "win_rate": 0.5
-            },
-            {
                 "name": "Mage AIO",
                 "id": "Mage AIO",
                 "pick_rate": 0.1068,
@@ -3148,12 +2908,6 @@
     },
     "LeeSin": {
         "shards": [
-            {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0132,
-                "win_rate": 0.4
-            },
             {
                 "name": "IntAIO",
                 "id": "intnner_cn",
@@ -3205,12 +2959,6 @@
             {
                 "name": "ArcherAIO",
                 "id": "archer"
-            },
-            {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0345,
-                "win_rate": 0.5714
             },
             {
                 "name": "GG AIO",
@@ -3339,12 +3087,6 @@
                 "win_rate": 0.5
             },
             {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0048,
-                "win_rate": 0.3333
-            },
-            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0063,
@@ -3468,12 +3210,6 @@
     },
     "Lux": {
         "shards": [
-            {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.1704,
-                "win_rate": 0.5283
-            },
             {
                 "name": "Healer AIO",
                 "id": "Healer_A.I.O.",
@@ -3617,12 +3353,6 @@
                 "win_rate": 1
             },
             {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.7,
-                "win_rate": 0.5
-            },
-            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.1,
@@ -3649,12 +3379,6 @@
             {
                 "name": "ArcherAIO",
                 "id": "archer",
-                "pick_rate": 0.0047,
-                "win_rate": 1
-            },
-            {
-                "name": "Fx",
-                "id": "Fx",
                 "pick_rate": 0.0047,
                 "win_rate": 1
             },
@@ -3885,12 +3609,6 @@
                 "win_rate": 0.6444
             },
             {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0235,
-                "win_rate": 0.5714
-            },
-            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0168,
@@ -3939,12 +3657,6 @@
                 "win_rate": 0.7
             },
             {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0058,
-                "win_rate": 1
-            },
-            {
                 "name": "IntAIO",
                 "id": "intnner_cn"
             },
@@ -3977,12 +3689,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0526,
                 "win_rate": 1
-            },
-            {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.2895,
-                "win_rate": 0.5455
             },
             {
                 "name": "IntAIO",
@@ -4127,12 +3833,6 @@
                 "win_rate": 0
             },
             {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0714,
-                "win_rate": 0.25
-            },
-            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0179,
@@ -4167,12 +3867,6 @@
                 "win_rate": 0.7692
             },
             {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.2258,
-                "win_rate": 0.5714
-            },
-            {
                 "name": "JUST - AIO",
                 "id": "JUST_AIO",
                 "pick_rate": 0.2258,
@@ -4195,12 +3889,6 @@
                 "id": "Hanbot Poppy",
                 "pick_rate": 0.9,
                 "win_rate": 0.7778
-            },
-            {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.1,
-                "win_rate": 0
             },
             {
                 "name": "IntAIO",
@@ -4257,10 +3945,6 @@
             {
                 "name": "ArcherAIO",
                 "id": "archer"
-            },
-            {
-                "name": "Fx",
-                "id": "Fx"
             },
             {
                 "name": "IntAIO",
@@ -4399,12 +4083,6 @@
     "Ryze": {
         "shards": [
             {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0063,
-                "win_rate": 1
-            },
-            {
                 "name": "JUST - AIO",
                 "id": "JUST_AIO",
                 "pick_rate": 0.019,
@@ -4449,12 +4127,6 @@
             {
                 "name": "DemonAIO",
                 "id": "Demon_Aio_"
-            },
-            {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0508,
-                "win_rate": 0.6667
             },
             {
                 "name": "Hanbot Beasty ",
@@ -4745,10 +4417,6 @@
                 "win_rate": 0.7778
             },
             {
-                "name": "Fx",
-                "id": "Fx"
-            },
-            {
                 "name": "GG AIO",
                 "id": "GG AIO",
                 "pick_rate": 0.0446,
@@ -4831,10 +4499,6 @@
                 "win_rate": 0.875
             },
             {
-                "name": "Fx",
-                "id": "Fx"
-            },
-            {
                 "name": "Healer AIO",
                 "id": "Healer_A.I.O.",
                 "pick_rate": 0.746,
@@ -4871,12 +4535,6 @@
                 "win_rate": 0.625
             },
             {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.023,
-                "win_rate": 1
-            },
-            {
                 "name": "Hanbot Beasty ",
                 "id": "hanbot_beasty",
                 "pick_rate": 0.023,
@@ -4907,12 +4565,6 @@
                 "win_rate": 0.3333
             },
             {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0625,
-                "win_rate": 0.25
-            },
-            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0313,
@@ -4941,12 +4593,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0326,
                 "win_rate": 0.8333
-            },
-            {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0054,
-                "win_rate": 1
             },
             {
                 "name": "Hanbot Beasty ",
@@ -5011,12 +4657,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0601,
                 "win_rate": 0.7273
-            },
-            {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0273,
-                "win_rate": 0.8
             },
             {
                 "name": "IntAIO",
@@ -5147,12 +4787,6 @@
                 "win_rate": 0.8889
             },
             {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.023,
-                "win_rate": 0.5385
-            },
-            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0088,
@@ -5253,10 +4887,6 @@
                 "id": "archer",
                 "pick_rate": 0.0812,
                 "win_rate": 0.6182
-            },
-            {
-                "name": "Fx",
-                "id": "Fx"
             },
             {
                 "name": "IntAIO",
@@ -5375,12 +5005,6 @@
                 "win_rate": 0.4286
             },
             {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0352,
-                "win_rate": 0.7632
-            },
-            {
                 "name": "GG AIO",
                 "id": "GG AIO",
                 "pick_rate": 0.0111,
@@ -5453,12 +5077,6 @@
     "Velkoz": {
         "shards": [
             {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0215,
-                "win_rate": 1
-            },
-            {
                 "name": "Hanbot Beasty ",
                 "id": "hanbot_beasty"
             },
@@ -5485,12 +5103,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0082,
                 "win_rate": 1
-            },
-            {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0328,
-                "win_rate": 0.5
             },
             {
                 "name": "GG AIO",
@@ -5557,12 +5169,6 @@
                 "id": "cno1_aio",
                 "pick_rate": 0.0433,
                 "win_rate": 0.7273
-            },
-            {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.061,
-                "win_rate": 0.8065
             },
             {
                 "name": "IntAIO",
@@ -5679,12 +5285,6 @@
                 "id": "Demon_Aio_"
             },
             {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0141,
-                "win_rate": 0.7778
-            },
-            {
                 "name": "GG AIO",
                 "id": "GG AIO",
                 "pick_rate": 0.4429,
@@ -5791,12 +5391,6 @@
                 "win_rate": 0.6667
             },
             {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0469,
-                "win_rate": 0.5217
-            },
-            {
                 "name": "GG AIO",
                 "id": "GG AIO",
                 "pick_rate": 0.0898,
@@ -5869,12 +5463,6 @@
     "Zoe": {
         "shards": [
             {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.0139,
-                "win_rate": 0.5
-            },
-            {
                 "name": "Kiri AIO",
                 "id": "KiriAIO",
                 "pick_rate": 0.6528,
@@ -5922,12 +5510,6 @@
     },
     "Briar": {
         "shards": [
-            {
-                "name": "Fx",
-                "id": "Fx",
-                "pick_rate": 0.619,
-                "win_rate": 0.5641
-            },
             {
                 "name": "Nyx",
                 "id": "Nyx_AIO",
