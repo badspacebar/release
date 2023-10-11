@@ -2320,6 +2320,10 @@
                 "win_rate": 0.6321
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "Nyx",
                 "id": "Nyx_AIO",
                 "pick_rate": 0.7391,
