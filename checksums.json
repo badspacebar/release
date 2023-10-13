@@ -26,7 +26,7 @@
         "Alexis Auth.shard": "99a8e417a099bfb8ee9e59dfa600eeef",
         "Healer Utility.shard": "9a1aeba70959db7d0d222e9d0ad5bc83",
         "[Viktor]AIO.shard": "d91f2b1a292e86af615548655f4214f9",
-        "[BrianSharp] Successfull.shard": "3d5aed1c371824451f750e2ad9dd8412",
+        "[BrianSharp] Successfull.shard": "052b12d57cc65422ab296c738dd565e9",
         "Alexis Gank Alerter.shard": "91e79bcd4856a78069b8462b959a4378",
         "ArcherAIO.shard": "18dad635df4468936bb93564a342b75f",
         "Activator by Kornis.shard": "9f09544d341b261763df2cb4446c8ae6",
@@ -37,5 +37,5 @@
         "RXing.shard": "141622d2b6aae50db3ca2cfd49eaff05"
     },
     "bot_5.dll": "5c9a4752d18ba0574c3a9c8b57e9876a",
-    "shards.json": "02e0f29e551fe6a0dceb7cbea7fbdcc9"
+    "shards.json": "75b41a53a1d2762942e32ce4229705a5"
 }
