@@ -3461,6 +3461,10 @@
                 "win_rate": 0.6182
             },
             {
+                "name": "Mage AIO",
+                "id": "Mage AIO"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0079,
