@@ -22,7 +22,7 @@
         "Alexis Awareness.shard": "c0d35d00ac69db1f62940725910908d1",
         "Alexis AIO .shard": "f2de2a5b6628121ee30746114da899cb",
         "[HGVip]AIO.shard": "5080533a688cb47ca0de70332cab1958",
-        "[HGPro]AIO.shard": "861d1486d88a646b3508ef6a120ea554",
+        "[HGPro]AIO.shard": "6f1830a0c8bb2a034f17648d7272285b",
         "Alexis Auth.shard": "99a8e417a099bfb8ee9e59dfa600eeef",
         "Healer Utility.shard": "9a1aeba70959db7d0d222e9d0ad5bc83",
         "[Viktor]AIO.shard": "d91f2b1a292e86af615548655f4214f9",
@@ -30,12 +30,12 @@
         "Alexis Gank Alerter.shard": "91e79bcd4856a78069b8462b959a4378",
         "ArcherAIO.shard": "18dad635df4468936bb93564a342b75f",
         "Activator by Kornis.shard": "9f09544d341b261763df2cb4446c8ae6",
-        "Mage AIO.shard": "077cbd7b8b2854be29ddf8ef58dfc313",
+        "Mage AIO.shard": "f51736a6864bd5e4bf5320ddaf83f51c",
         "MasterAio.shard": "c0c5f26caaa4816b8b83b27179fa4009",
         "Kiri AIO.shard": "678947ee06030d8c880d665b7a9921fa",
         "DemonAIO.shard": "c57450a380b9f9cdce00e2b22ded6e1b",
         "RXing.shard": "141622d2b6aae50db3ca2cfd49eaff05"
     },
     "bot_5.dll": "90ad5c20c14ae894347bb19da1e916da",
-    "shards.json": "ed13a2b3bbc3fd5230c5b80434167b90"
+    "shards.json": "eacdd470d17ae0df5bce2cc8f91cd432"
 }
