@@ -3001,6 +3001,10 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.7349,
                 "win_rate": 0.541
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             }
         ],
         "pick_rate": 0.0323,
