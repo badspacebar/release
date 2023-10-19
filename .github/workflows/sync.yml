@@ -1,0 +1,17 @@
+# .github/workflows/sync.yml
+name: Sync Fork
+
+on:
+  push:
+  schedule:
+    - cron: '0 * * * *'
+jobs:
+  repo-sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: TG908/fork-sync@v1.1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          owner: badspacebar
+          head: master
+          base: master
