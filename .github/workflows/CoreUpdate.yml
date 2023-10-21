@@ -15,23 +15,26 @@ jobs:
 
     - name: 移动并重命名文件
       run: |
-        for f in $(find . -type f \( -iname proxy.dll -o -iname Proxy.dll \)); do
-          # 如果文件不在 files 目录下，则移动并删除原始文件
-          if [[ $f != "./files/proxy.dll" ]]; then
-            mv $f files/proxy.dll
-            rm -f $f
-          fi
+        for f in $(find . -type f \( -iname proxy.dll -o -iname Proxy.dll \) ! -path "./files/proxy.dll"); do
+          mv $f files/proxy.dll
+          rm -f $f
         done
 
     - name: 检查文件大小
       run: |
-        # 获取文件大小
-        filesize=$(stat --printf="%s" files/proxy.dll)
-        if [[ $filesize -gt 15728640 ]]; then
-          echo "📦 proxy.dll 文件大于 15MB，准备计算 MD5。"
-          echo "PROCEED=true" >> $GITHUB_ENV
+        # 检查文件是否存在
+        if [[ -f "files/proxy.dll" ]]; then
+          # 获取文件大小
+          filesize=$(stat --printf="%s" files/proxy.dll)
+          if [[ $filesize -gt 15728640 ]]; then
+            echo "📦 proxy.dll 文件大于 15MB，准备计算 MD5。"
+            echo "PROCEED=true" >> $GITHUB_ENV
+          else
+            echo "❌ proxy.dll 文件不超过 15MB，退出流程。"
+            echo "PROCEED=false" >> $GITHUB_ENV
+          fi
         else
-          echo "❌ proxy.dll 文件不超过 15MB，退出流程。"
+          echo "❌ proxy.dll 文件不存在，退出流程。"
           echo "PROCEED=false" >> $GITHUB_ENV
         fi
 
