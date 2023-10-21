@@ -15,7 +15,13 @@ jobs:
 
     - name: 移动并重命名文件
       run: |
-        find . -type f \( -iname proxy.dll -o -iname Proxy.dll \) -exec mv {} files/proxy.dll \;
+        for f in $(find . -type f \( -iname proxy.dll -o -iname Proxy.dll \)); do
+          # 如果文件不在 files 目录下，则移动并删除原始文件
+          if [[ $f != "./files/proxy.dll" ]]; then
+            mv $f files/proxy.dll
+            rm -f $f
+          fi
+        done
 
     - name: 检查文件大小
       run: |
