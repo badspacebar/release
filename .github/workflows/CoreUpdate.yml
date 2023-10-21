@@ -7,7 +7,7 @@ on:
       - 'files/Proxy.dll'
 
 jobs:
-  check_and_generate_md5:
+  CoreUpdate_generate_md5:
     runs-on: ubuntu-latest
     steps:
     - name: 检出仓库
