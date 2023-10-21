@@ -30,6 +30,6 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add kik-shards.json
-        git commit -m "Update kik-shards.json"
+        git add kik-shards.ini
+        git commit -m "Update kik-shards.ini"
         git push
