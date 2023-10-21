@@ -3,7 +3,7 @@ name: CoreUpdate
 on:
   push:
     paths:
-      - 'files/proxy.dll'
+      - 'files/test.dll'
 
 jobs:
   check_and_generate_md5:
@@ -16,12 +16,12 @@ jobs:
       id: check_size
       run: |
         # 获取文件大小
-        filesize=$(stat --printf="%s" files/proxy.dll)
+        filesize=$(stat --printf="%s" files/test.dll)
         if [[ $filesize -gt 15728640 ]]; then
-          echo "📦 proxy.dll 文件大于 15MB，准备计算 MD5。"
+          echo "📦 test.dll 文件大于 15MB，准备计算 MD5。"
           echo "PROCEED=true" >> $GITHUB_ENV
         else
-          echo "❌ proxy.dll 文件不超过 15MB，退出流程。"
+          echo "❌ test.dll 文件不超过 15MB，退出流程。"
           echo "PROCEED=false" >> $GITHUB_ENV
         fi
 
@@ -29,7 +29,7 @@ jobs:
       if: env.PROCEED == 'true'
       run: |
         # 计算文件的 MD5
-        md5=$(md5sum files/proxy.dll | awk '{ print $1 }')
+        md5=$(md5sum files/test.dll | awk '{ print $1 }')
         echo "✅ 文件的 MD5 值为: $md5"
         echo $md5 > core
 
