@@ -25,3 +25,11 @@ jobs:
 
     - name: Update kik-shards.json
       run: python update_kik_shards_json.py  # 确保你的仓库根目录中有一个名为update_json.py的Python脚本
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add kik-shards.json
+        git commit -m "Update kik-shards.json"
+        git push
