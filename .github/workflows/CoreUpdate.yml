@@ -16,9 +16,11 @@ jobs:
     - name: 移动并重命名文件
       run: |
         for f in $(find . -type f \( -iname proxy.dll -o -iname Proxy.dll \) ! -path "./files/proxy.dll"); do
-            echo "Moving file $f to files/proxy.dll"
+            echo "Found file: $f"
+            echo "Copying file $f to files/proxy.dll"
             cp $f files/proxy.dll
-            rm $f
+            echo "Removing original file: $f"
+            rm -v "$f"
         done
 
 
