@@ -32,4 +32,5 @@ jobs:
         git config --local user.name "GitHub Action"
         git add kik-shards.ini
         git commit -m "Update kik-shards.ini"
+        git pull origin main  # Pull the latest changes from the remote repository
         git push
