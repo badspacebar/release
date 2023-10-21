@@ -45,6 +45,6 @@ jobs:
         current_datetime=$(date '+%Y-%m-%d %H:%M:%S')
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add core files/proxy.dll
+        git add core.json files/proxy.dll
         git commit -m "使用 MD5 哈希值更新 core 文件 - $current_datetime"
         git push https://${{ secrets.GITHUB_TOKEN }}@github.com/WizisCool/KiKHanbot.git
