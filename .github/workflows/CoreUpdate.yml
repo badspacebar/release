@@ -1,0 +1,51 @@
+name: CoreUpdate
+
+on:
+  push:
+    paths:
+      - 'files/proxy.dll'
+
+jobs:
+  check_and_generate_md5:
+    runs-on: ubuntu-latest
+    steps:
+    - name: 检出仓库
+      uses: actions/checkout@v2
+
+    - name: 检查文件大小
+      id: check_size
+      run: |
+        # 获取文件大小
+        filesize=$(stat --printf="%s" files/proxy.dll)
+        if [[ $filesize -gt 15728640 ]]; then
+          echo "📦 proxy.dll 文件大于 15MB，准备计算 MD5。"
+          echo "PROCEED=true" >> $GITHUB_ENV
+        else
+          echo "❌ proxy.dll 文件不超过 15MB，退出流程。"
+          echo "PROCEED=false" >> $GITHUB_ENV
+        fi
+
+    - name: 计算 MD5 并输出到 core 文件
+      if: env.PROCEED == 'true'
+      run: |
+        # 计算文件的 MD5
+        md5=$(md5sum files/proxy.dll | awk '{ print $1 }')
+        echo "✅ 文件的 MD5 值为: $md5"
+        echo $md5 > core
+
+    - name: 设置 SSH 密钥
+      if: env.PROCEED == 'true'
+      run: |
+        echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+        chmod 600 ~/.ssh/id_rsa
+        ssh-keyscan github.com >> ~/.ssh/known_hosts
+
+    - name: 提交并推送 MD5 更新
+      if: env.PROCEED == 'true'
+      run: |
+        current_date=$(date '+%Y-%m-%d')
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add core
+        git commit -m "使用 MD5 哈希值更新 core 文件 - $current_date"
+        git push origin HEAD
