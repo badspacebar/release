@@ -3,8 +3,8 @@ name: Update kik-shards.json
 on:
   push:
     paths:
-      - 'files/kik-shards/**'
-  workflow_dispatch:  # 添加这个选项以允许手动触发workflow
+      - 'auto-update-kikshards-json/**'
+  workflow_dispatch:
 
 jobs:
   update-json:
@@ -21,15 +21,15 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install -r auto-update-kikshards-json\kik-shards-requirements.txt  # 如果你有依赖项，确保你有一个requirements.txt文件
+        pip install -r auto-update-kikshards-json/kik-shards-requirements.txt
 
     - name: Update kik-shards.json
-      run: python auto-update-kikshards-json\update_kik_shards_json.py
+      run: python auto-update-kikshards-json/update_kik_shards_json.py
 
     - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add kik-shards.json
+        git add auto-update-kikshards-json/kik-shards.json
         git commit -m "Update kik-shards.json"
         git push
