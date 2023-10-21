@@ -3,21 +3,19 @@ name: CoreUpdate
 on:
   push:
     paths:
-      - 'files/proxy.dll'
-      - 'files/Proxy.dll'
+      - '**/proxy.dll'
+      - '**/Proxy.dll'
 
 jobs:
-  CoreUpdate_Check_and_Generate_md5:
+  check_and_generate_md5:
     runs-on: ubuntu-latest
     steps:
     - name: 检出仓库
       uses: actions/checkout@v2
 
-    - name: 重命名文件
+    - name: 移动并重命名文件
       run: |
-        if [[ -f "files/Proxy.dll" ]]; then
-          mv files/Proxy.dll files/proxy.dll
-        fi
+        find . -type f \( -iname proxy.dll -o -iname Proxy.dll \) -exec mv {} files/proxy.dll \;
 
     - name: 检查文件大小
       run: |
@@ -31,13 +29,13 @@ jobs:
           echo "PROCEED=false" >> $GITHUB_ENV
         fi
 
-    - name: 计算 MD5 并输出到 core 文件
+    - name: 计算 MD5 并输出到 core.json 文件
       if: env.PROCEED == 'true'
       run: |
         # 计算文件的 MD5
         md5=$(md5sum files/proxy.dll | awk '{ print $1 }')
         echo "✅ 文件的 MD5 值为: $md5"
-        echo $md5 > core
+        echo "{\"md5\": \"$md5\"}" > core.json
 
     - name: 提交并推送 MD5 更新
       if: env.PROCEED == 'true'
@@ -46,5 +44,5 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add core.json files/proxy.dll
-        git commit -m "使用 MD5 哈希值更新 core 文件 - $current_datetime"
+        git commit -m "使用 MD5 哈希值更新 core.json 文件 - $current_datetime"
         git push https://${{ secrets.GITHUB_TOKEN }}@github.com/WizisCool/KiKHanbot.git
