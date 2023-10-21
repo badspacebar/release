@@ -42,7 +42,10 @@ jobs:
         # 计算文件的 MD5
         md5=$(md5sum files/proxy.dll | awk '{ print $1 }')
         echo "✅ 文件的 MD5 值为: $md5"
+        # 先删除现有的 core.json 文件，确保它将被重新创建
+        rm -f core.json
         echo "{\"md5\": \"$md5\"}" > core.json
+
 
     - name: 提交并推送 MD5 更新
       if: env.PROCEED == 'true'
@@ -51,5 +54,10 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add -A
-        git commit -m "使用 MD5 哈希值更新 core.json 文件 - $current_datetime"
-        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/WizisCool/KiKHanbot.git
+        # 检查是否有更改
+        if git diff-index --quiet HEAD --; then
+          echo "没有任何更改，跳过提交和推送步骤。"
+        else
+          git commit -m "使用 MD5 哈希值更新 core.json 文件 - $current_datetime"
+          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/WizisCool/KiKHanbot.git
+        fi
