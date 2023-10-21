@@ -33,13 +33,6 @@ jobs:
         echo "✅ 文件的 MD5 值为: $md5"
         echo $md5 > core
 
-    - name: 设置 SSH 密钥
-      if: env.PROCEED == 'true'
-      run: |
-        echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
-        chmod 600 ~/.ssh/id_rsa
-        ssh-keyscan github.com >> ~/.ssh/known_hosts
-
     - name: 提交并推送 MD5 更新
       if: env.PROCEED == 'true'
       run: |
@@ -48,4 +41,4 @@ jobs:
         git config --local user.name "GitHub Action"
         git add core
         git commit -m "使用 MD5 哈希值更新 core 文件 - $current_date"
-        git push origin HEAD
+        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/WizisCool/KiKHanbot.git
