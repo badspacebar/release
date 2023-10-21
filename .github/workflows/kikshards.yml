@@ -24,4 +24,4 @@ jobs:
         pip install -r kik-shards-requirements.txt  # 如果你有依赖项，确保你有一个requirements.txt文件
 
     - name: Update kik-shards.json
-      run: python update_json.py  # 确保你的仓库根目录中有一个名为update_json.py的Python脚本
+      run: python update_kik_shards_json.py  # 确保你的仓库根目录中有一个名为update_json.py的Python脚本
