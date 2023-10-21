@@ -22,19 +22,13 @@ jobs:
 
     - name: 检查文件大小
       run: |
-        # 检查文件是否存在
-        if [[ -f "files/proxy.dll" ]]; then
-          # 获取文件大小
-          filesize=$(stat --printf="%s" files/proxy.dll)
-          if [[ $filesize -gt 15728640 ]]; then
-            echo "📦 proxy.dll 文件大于 15MB，准备计算 MD5。"
-            echo "PROCEED=true" >> $GITHUB_ENV
-          else
-            echo "❌ proxy.dll 文件不超过 15MB，退出流程。"
-            echo "PROCEED=false" >> $GITHUB_ENV
-          fi
+        # 获取文件大小
+        filesize=$(stat --printf="%s" files/proxy.dll)
+        if [[ $filesize -gt 15728640 ]]; then
+          echo "📦 proxy.dll 文件大于 15MB，准备计算 MD5。"
+          echo "PROCEED=true" >> $GITHUB_ENV
         else
-          echo "❌ proxy.dll 文件不存在，退出流程。"
+          echo "❌ proxy.dll 文件不超过 15MB，退出流程。"
           echo "PROCEED=false" >> $GITHUB_ENV
         fi
 
