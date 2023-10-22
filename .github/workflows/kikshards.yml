@@ -33,12 +33,9 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add kik-shards.ini
-        if git diff --staged --quiet; then
-          echo "No changes to commit"
-        else
+        if ! git diff --staged --quiet; then
           git commit -m "Update kik-shards.ini"
           git push https://$GITHUB_TOKEN@github.com/WizisCool/KiKHanbot.git HEAD:master
+        else
+          echo "没有变更提交"
         fi
-        git commit -m "Update kik-shards.ini"
-        git push https://$GITHUB_TOKEN@github.com/WizisCool/KiKHanbot.git HEAD:master
-    

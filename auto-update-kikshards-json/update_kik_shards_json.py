@@ -14,6 +14,7 @@ def get_file_info(file_path, existing_descriptions=None):
     # Use the existing descriptions if available, else use appropriate defaults
     chinese_description = existing_descriptions.get(filename, {}).get('chinese_description', '等待添加')
     english_description = existing_descriptions.get(filename, {}).get('english_description', 'To be added')
+    level = existing_descriptions.get(filename, {}).get('level', 'low')  # Add level with default as 'low'
 
     return {
         'filename': filename,
@@ -21,7 +22,8 @@ def get_file_info(file_path, existing_descriptions=None):
         'chinese_name': chinese_name,
         'english_name': english_name,
         'chinese_description': chinese_description,
-        'english_description': english_description
+        'english_description': english_description,
+        'level': level  # Include level in the returned info
     }
 
 def calculate_md5(file_path):
@@ -47,7 +49,8 @@ def get_existing_descriptions(ini_path='kik-shards.ini'):
         if filename:
             descriptions[filename] = {
                 'chinese_description': config[section].get('chinese_description', '等待添加'),
-                'english_description': config[section].get('english_description', 'To be added')
+                'english_description': config[section].get('english_description', 'To be added'),
+                'level': config[section].get('level', 'low')  # Read level from the INI file
             }
     return descriptions
 
@@ -65,7 +68,8 @@ def create_ini_config(file_info_list):
             'chinese_name': file_info['chinese_name'],
             'english_name': file_info['english_name'],
             'chinese_description': file_info['chinese_description'],
-            'english_description': file_info['english_description']
+            'english_description': file_info['english_description'],
+            'level': file_info['level']  # Write level to the INI file
         }
     
     return config
