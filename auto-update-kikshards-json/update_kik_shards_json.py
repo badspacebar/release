@@ -2,18 +2,26 @@ import os
 import configparser
 import hashlib
 
-def get_file_info(file_path):
+def get_file_info(file_path, existing_descriptions=None):
+    if existing_descriptions is None:
+        existing_descriptions = {}
+
     filename = os.path.basename(file_path)
     english_name = filename.rsplit('.', 1)[0]
     chinese_name = english_name  # Assuming the Chinese name is the same as the English name
     md5_hash = calculate_md5(file_path)  # Calculate MD5 hash
+
+    # Use the existing descriptions if available, else use 'To be added'
+    chinese_description = existing_descriptions.get(filename, {}).get('chinese_description', 'To be added')
+    english_description = existing_descriptions.get(filename, {}).get('english_description', 'To be added')
+
     return {
         'filename': filename,
         'md5': md5_hash,
         'chinese_name': chinese_name,
         'english_name': english_name,
-        'chinese_description': 'To be added',
-        'english_description': 'To be added'
+        'chinese_description': chinese_description,
+        'english_description': english_description
     }
 
 def calculate_md5(file_path):
@@ -25,6 +33,23 @@ def calculate_md5(file_path):
                 break
             md5.update(data)
     return md5.hexdigest()
+
+def get_existing_descriptions(ini_path='kik-shards.ini'):
+    if not os.path.exists(ini_path):
+        return {}
+
+    config = configparser.ConfigParser()
+    config.read(ini_path)
+
+    descriptions = {}
+    for section in config.sections():
+        filename = config[section].get('filename')
+        if filename:
+            descriptions[filename] = {
+                'chinese_description': config[section].get('chinese_description', 'To be added'),
+                'english_description': config[section].get('english_description', 'To be added')
+            }
+    return descriptions
 
 def create_ini_config(file_info_list):
     # Sort the file_info_list alphabetically, but keep filenames starting with "KiK" at the front.
@@ -46,11 +71,13 @@ def create_ini_config(file_info_list):
     return config
 
 def main():
+    existing_descriptions = get_existing_descriptions()
+
     file_info_list = []
     for root, dirs, files in os.walk('files/kik-shards'):
         for file in files:
             file_path = os.path.join(root, file)
-            file_info = get_file_info(file_path)
+            file_info = get_file_info(file_path, existing_descriptions)
             file_info_list.append(file_info)
     
     config = create_ini_config(file_info_list)
