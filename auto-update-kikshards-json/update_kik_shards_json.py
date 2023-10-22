@@ -27,9 +27,12 @@ def calculate_md5(file_path):
     return md5.hexdigest()
 
 def create_ini_config(file_info_list):
+    # Sort the file_info_list alphabetically, but keep filenames starting with "KiK" at the front.
+    sorted_file_info = sorted(file_info_list, key=lambda x: (not x['filename'].startswith('KiK'), x['filename']))
+    
     config = configparser.ConfigParser()
     
-    for idx, file_info in enumerate(file_info_list, start=1):
+    for idx, file_info in enumerate(sorted_file_info, start=1):
         section_name = f'File{idx}'
         config[section_name] = {
             'filename': file_info['filename'],
