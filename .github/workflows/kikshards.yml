@@ -2,8 +2,10 @@ name: Update kik-shards.json
 
 on:
   push:
+    branches:
+      - master
     paths:
-      - 'auto-update-kikshards-json/**'
+      - '**.shard'
   workflow_dispatch:
 
 jobs:
