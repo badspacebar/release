@@ -1,4 +1,4 @@
-name: Update kik-shards.json
+name: Update kik-shards
 
 on:
   push:
