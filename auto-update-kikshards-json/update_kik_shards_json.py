@@ -11,8 +11,8 @@ def get_file_info(file_path, existing_descriptions=None):
     chinese_name = english_name  # Assuming the Chinese name is the same as the English name
     md5_hash = calculate_md5(file_path)  # Calculate MD5 hash
 
-    # Use the existing descriptions if available, else use 'To be added'
-    chinese_description = existing_descriptions.get(filename, {}).get('chinese_description', 'To be added')
+    # Use the existing descriptions if available, else use appropriate defaults
+    chinese_description = existing_descriptions.get(filename, {}).get('chinese_description', '等待添加')
     english_description = existing_descriptions.get(filename, {}).get('english_description', 'To be added')
 
     return {
@@ -46,7 +46,7 @@ def get_existing_descriptions(ini_path='kik-shards.ini'):
         filename = config[section].get('filename')
         if filename:
             descriptions[filename] = {
-                'chinese_description': config[section].get('chinese_description', 'To be added'),
+                'chinese_description': config[section].get('chinese_description', '等待添加'),
                 'english_description': config[section].get('english_description', 'To be added')
             }
     return descriptions
