@@ -1,17 +1,27 @@
-name: Auto Merge
+name: Sync and Auto Merge
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # every 30 minutes
-  workflow_dispatch: # 也可以手动触发
+    - cron: '*/30 * * * *'  # 每30分钟运行一次
+  workflow_dispatch:  # 允许手动触发
 
 jobs:
-  merge-me:
-    name: Merge me!
+  sync:
     runs-on: ubuntu-latest
     steps:
-      - if: ${{ github.event.workflow_run.conclusion == 'success' }}
-        name: Merge me!
-        uses: ridedott/merge-me-action@v2.8.35
+      - uses: tgymnich/fork-sync@v1.8
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # 或者使用你的自定义令牌，如 GITHUB_TOKEN_WORKAROUND
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          owner: WizisCool
+          base: master
+          head: master
+
+  automerge:
+    needs: sync  # 仅在 sync 任务成功完成后运行
+    runs-on: ubuntu-latest
+    steps:
+      - if: ${{ github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule' && github.repository == github.event.repository.full_name) }}
+        name: Merge me!
+        uses: ridedott/merge-me-action@v2
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
