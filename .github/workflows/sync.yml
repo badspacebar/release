@@ -2,17 +2,20 @@ name: Sync Fork
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # every 30 minutes
-  workflow_dispatch: # on button click
+    - cron: '*/30 * * * *' # 每30分钟一次
+  workflow_dispatch: # 点击按钮手动触发
 
 jobs:
   sync:
-
     runs-on: ubuntu-latest
 
     steps:
-      - uses: tgymnich/fork-sync@v1.8
+      - name: Checkout代码
+        uses: actions/checkout@v2
+
+      - name: 同步fork
+        uses: tgymnich/fork-sync@v1.8
         with:
-          owner: llvm
+          owner: badspacebar
           base: master
           head: master
