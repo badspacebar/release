@@ -1,17 +1,19 @@
 name: Sync Fork
 
 on:
-  push:
   schedule:
     - cron: '*/30 * * * *' # every 30 minutes
   workflow_dispatch: # on button click
+
 jobs:
-  repo-sync:
+  sync:
+
     runs-on: ubuntu-latest
+
     steps:
-      - uses: TG908/fork-sync@v1.1
+      - uses: tgymnich/fork-sync@v1.8
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           owner: badspacebar
-          head: master
           base: master
+          head: master
