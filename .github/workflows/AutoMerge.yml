@@ -1,28 +1,53 @@
-name: Sync and Auto Merge
+name: 'Upstream Sync'
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # 每30分钟运行一次
-  workflow_dispatch:  # 允许手动触发
+    - cron:  '0 7 * * 1,4'
+    # scheduled at 07:00 every Monday and Thursday
+
+  workflow_dispatch:  # click the button on Github repo!
 
 jobs:
-  sync:
+  sync_latest_from_upstream:
     runs-on: ubuntu-latest
-    steps:
-      - uses: tgymnich/fork-sync@v1.8
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          owner: WizisCool
-          base: master
-          head: master
-          ignore_fail: true
+    name: Sync latest commits from upstream repo
 
-  automerge:
-    needs: sync  # 仅在 sync 任务成功完成后运行
-    runs-on: ubuntu-latest
     steps:
-      - if: ${{ github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule' && github.repository == github.event.repository.full_name) }}
-        name: Merge me!
-        uses: ridedott/merge-me-action@v2
-        with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    # REQUIRED step
+    # Step 1: run a standard checkout action, provided by github
+    - name: Checkout target repo
+      uses: actions/checkout@v3
+      with:
+        # optional: set the branch to checkout,
+        # sync action checks out your 'target_sync_branch' anyway
+        ref:  master
+        # REQUIRED if your upstream repo is private (see wiki)
+        persist-credentials: false
+
+    # REQUIRED step
+    # Step 2: run the sync action
+    - name: Sync upstream changes
+      id: sync
+      uses: aormsby/Fork-Sync-With-Upstream-action@v3.4
+      with:
+        target_sync_branch: master
+        # REQUIRED 'target_repo_token' exactly like this!
+        target_repo_token: ${{ secrets.GITHUB_TOKEN }}
+        upstream_sync_branch: master
+        upstream_sync_repo: badspacebar/release
+        # upstream_repo_access_token: ${{ secrets.UPSTREAM_REPO_SECRET }}
+
+        # Set test_mode true to run tests instead of the true action!!
+        test_mode: true
+      
+    # Step 3: Display a sample message based on the sync output var 'has_new_commits'
+    - name: New commits found
+      if: steps.sync.outputs.has_new_commits == 'true'
+      run: echo "New commits were found to sync."
+    
+    - name: No new commits
+      if: steps.sync.outputs.has_new_commits == 'false'
+      run: echo "There were no new commits."
+      
+    - name: Show value of 'has_new_commits'
+      run: echo ${{ steps.sync.outputs.has_new_commits }}
