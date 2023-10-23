@@ -12,8 +12,8 @@ jobs:
       - uses: tgymnich/fork-sync@v1.8
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          owner: badspacebar
-          repo: release
+          owner: WizisCool
+          repo: KiKHanbot
           base: master 
           head: master
           auto_merge: true
