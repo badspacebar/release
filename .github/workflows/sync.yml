@@ -16,8 +16,7 @@ jobs:
       - name: 同步fork
         uses: tgymnich/fork-sync@v1.8
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          owner: badspacebar # 设置 fork 的仓库的所有者
+          token: ${{ secrets.PERSONAL_TOKEN }}
           repo: release # 设置fork 的仓库名称
           base: master # 设置上游仓库的分支
           head: master # 设置fork 的分支
