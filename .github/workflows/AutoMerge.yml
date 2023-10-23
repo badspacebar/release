@@ -2,32 +2,15 @@ name: Auto Merge
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # 每30分钟运行一次
-  workflow_dispatch: # 也可以手动触发
+    - cron: '*/30 * * * *'  # every 30 minutes
 
 jobs:
-  sync:
+  merge-me:
+    name: Merge me!
     runs-on: ubuntu-latest
-    
     steps:
-      # 首先检出你的仓库
-      - name: Checkout
-        uses: actions/checkout@v2
-        
-      # 创建一个拉取请求来同步上游仓库的更改
-      - name: Create Pull Request
-        uses: repo-sync/pull-request@v2
+      - if: ${{ github.event.workflow_run.conclusion == 'success' }}
+        name: Merge me!
+        uses: ridedott/merge-me-action@v2.8.35
         with:
-          source_branch: "badspacebar:master"  # 上游仓库的分支
-          destination_branch: "master"  # 你的仓库的分支
-          pr_title: "Syncing fork with upstream"  # 拉取请求的标题
-          pr_label: "automerge"  # 用于触发自动合并的标签
-          github_token: ${{ secrets.GITHUB_TOKEN }}  # 使用默认的 GitHub Token
-
-      # 自动合并标签为 automerge 的拉取请求
-      - name: Auto Merge
-        uses: ridedott/merge-me-action@v2
-        with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # 使用默认的 GitHub Token
-          MERGE_LABELS: "automerge"  # 当拉取请求有此标签时才合并
-          MERGE_METHOD: "merge"  # 选择合并方法: merge, squash 或 rebase
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # 或者使用你的自定义令牌，如 GITHUB_TOKEN_WORKAROUND
