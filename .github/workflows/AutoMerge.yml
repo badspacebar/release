@@ -3,6 +3,7 @@ name: Auto Merge
 on:
   schedule:
     - cron: '*/30 * * * *'  # every 30 minutes
+  workflow_dispatch: # 也可以手动触发
 
 jobs:
   merge-me:
