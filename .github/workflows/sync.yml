@@ -16,3 +16,4 @@ jobs:
           repo: release
           base: master 
           head: master
+          auto_merge: true
