@@ -15,6 +15,7 @@ jobs:
           owner: WizisCool
           base: master
           head: master
+          ignore_fail: true
 
   automerge:
     needs: sync  # 仅在 sync 任务成功完成后运行
