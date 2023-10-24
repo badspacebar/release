@@ -13,8 +13,9 @@ jobs:
       # 📘 检出当前的代码并获取完整的Git历史
       - name: '📥 检出'
         uses: actions/checkout@v2
-        
-  
+        with:
+          fetch-depth: 0
+
       # 🚀 将代码同步到GitLab
       - name: '🔄 同步到GitLab'
         uses: pixta-dev/repository-mirroring-action@v1
