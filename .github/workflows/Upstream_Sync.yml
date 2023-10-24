@@ -25,10 +25,10 @@ jobs:
       uses: aormsby/Fork-Sync-With-Upstream-action@v3.4
       with:
         target_sync_branch: master
-        target_repo_token: ${{ secrets.GITHUB_TOKEN }}
+        target_repo_token: ${{ secrets.API_TOKEN }}
         upstream_sync_branch: master
         upstream_sync_repo: badspacebar/release
-        test_mode: false
+        test_mode: true
       
     # 第3步: 基于同步输出显示消息
     - name: 发现新的提交 🆕
