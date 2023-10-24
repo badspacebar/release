@@ -1,0 +1,11 @@
+下載中文壓縮包後解壓到league of legends文件夾內 只需文件夾裡面包括（saves和shards）
+确保缓存助手为开启状态
+config 
+[app]
+configer=1
+默认为旧走砍
+缓存助手加载第一次可能会自动显示hanbot的官方evade，你需要第一次手动选择[Viktor]eavde 
+然后点击重载
+最新的HanBot 加载[Viktor]eavde 不会自动加载hanbotevade2.0你需要手动去开启他，然后重载hanbot
+开启Alexis Awareness可以看到技能时间显示，默认不会自动加载
+PS：如果你缓存助手显示的脚本为空，请重新打开游戏，在训练模式测试无误后开始游玩！
