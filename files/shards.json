@@ -734,6 +734,10 @@
                 "win_rate": 0.4444
             },
             {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            },
+            {
                 "name": "[HGVip]AIO",
                 "id": "HuangGuanVipAIO",
                 "pick_rate": 0.4506,
@@ -1014,6 +1018,10 @@
             {
                 "name": "RXing",
                 "id": "RXing"
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             }
         ],
         "pick_rate": 0.0084,
@@ -1820,6 +1828,10 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0145,
                 "win_rate": 0.85
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             }
         ],
         "pick_rate": 0.2196,
@@ -3053,6 +3065,10 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.7349,
                 "win_rate": 0.541
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             }
         ],
         "pick_rate": 0.0323,
