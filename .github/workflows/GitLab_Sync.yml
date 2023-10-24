@@ -1,18 +1,22 @@
-name: 'GitLab_Sync'
+name: 'GitLab_Sync 🔄'
 
-on: [push, delete]
-workflow_dispatch:
+# 当仓库有任何新的更改时触发，或者手动触发
+on: 
+  push:
+  workflow_dispatch:
 
 jobs:
   mirror_to_gitlab:
     runs-on: ubuntu-latest
+
     steps:
-      - name: 'Checkout'
-        uses: actions/checkout@v1
-      - name: 'Mirror to gitlab'
+      # 📘 检出当前的代码
+      - name: '📥 检出'
+        uses: actions/checkout@v2
+
+      # 🚀 将代码同步到GitLab
+      - name: '🔄 同步到GitLab'
         uses: pixta-dev/repository-mirroring-action@v1
         with:
-          target_repo_url:
-            git@jihulab.com:WizisCool/KiKHanbot.git
-          ssh_private_key:
-            ${{ secrets.GITLAB_KEY }}
+          target_repo_url: git@jihulab.com:WizisCool/KiKHanbot.git
+          ssh_private_key: ${{ secrets.GITLAB_KEY }}
