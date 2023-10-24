@@ -1,4 +1,4 @@
-name: 'GitLab_Sync' 🔄
+name: 'GitLab_Sync🔄'
 
 # 当仓库有任何新的更改时触发，或者手动触发
 on: 
@@ -22,3 +22,4 @@ jobs:
         with:
           target_repo_url: git@jihulab.com:WizisCool/KiKHanbot.git
           ssh_private_key: ${{ secrets.GITLAB_KEY }}
+  
