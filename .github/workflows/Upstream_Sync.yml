@@ -9,18 +9,18 @@ on:
 jobs:
   sync_latest_from_upstream:
     runs-on: ubuntu-latest
-    name: Sync latest commits from upstream repo 🚀
+    name: 从上游仓库同步最新提交 🚀
 
     steps:
     # 第1步: 标准的代码检出
-    - name: Checkout target repo 📦
+    - name: 检出目标仓库 📦
       uses: actions/checkout@v3
       with:
         ref: master
         persist-credentials: false
 
     # 第2步: 同步上游的改变
-    - name: Sync upstream changes 🔄
+    - name: 同步上游更改 🔄
       id: sync
       uses: aormsby/Fork-Sync-With-Upstream-action@v3.4
       with:
@@ -31,11 +31,11 @@ jobs:
         test_mode: false
       
     # 第3步: 基于同步输出显示消息
-    - name: New commits found 🆕
+    - name: 发现新的提交 🆕
       if: steps.sync.outputs.has_new_commits == 'true'
       run: echo "🎉 有新的提交需要同步。"
     
-    - name: No new commits ℹ️
+    - name: 没有新的提交 ℹ️
       if: steps.sync.outputs.has_new_commits == 'false'
       run: echo "ℹ️ 没有新的提交。"
       
