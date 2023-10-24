@@ -1,6 +1,7 @@
 name: 'GitLab_Sync'
 
 on: [push, delete]
+workflow_dispatch:
 
 jobs:
   mirror_to_gitlab:
