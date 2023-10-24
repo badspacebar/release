@@ -10,9 +10,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # 使用Turnstyle确保在同一时间只有一个"GitLab_Sync"工作流在执行
+      - name: '🔒 等待前一个GitLab_Sync工作流完成'
+        uses: softprops/turnstyle@v1
+        with:
+          same-branch-only: 'false' # 是否只针对相同分支的工作流。设置为'false'意味着此行为适用于所有分支。
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
       # 📘 检出当前的代码并获取完整的Git历史
       - name: '📥 检出'
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
