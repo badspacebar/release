@@ -15,6 +15,7 @@ jobs:
         uses: softprops/turnstyle@v1
         with:
           same-branch-only: 'false' # 是否只针对相同分支的工作流。设置为'false'意味着此行为适用于所有分支。
+          poll-interval-seconds: 5  # 设置为每5秒检查一次
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
