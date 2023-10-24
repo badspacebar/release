@@ -2,7 +2,7 @@ name: '上游自动同步 🔄'
 
 on:
   schedule:
-    - cron:  '*/15 * * * *'
+    - cron:  '*/30 * * * *'
 
   workflow_dispatch:
 
