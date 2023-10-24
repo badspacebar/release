@@ -1,4 +1,4 @@
-name: CoreUpdate
+name: 核心更新 🔄
 
 on:
   push:
@@ -10,10 +10,12 @@ jobs:
   check_and_generate_md5:
     runs-on: ubuntu-latest
     steps:
-    - name: 检出仓库
+    # 第1步: 检出代码
+    - name: 检出仓库 📦
       uses: actions/checkout@v2
 
-    - name: 移动并重命名文件
+    # 第2步: 查找所有与 proxy.dll 相关的文件并进行重命名和移动
+    - name: 移动并重命名文件 📂
       run: |
         for f in $(find . -type f \( -iname proxy.dll -o -iname Proxy.dll \) ! -path "./files/proxy.dll"); do
             echo "Found file: $f"
@@ -23,10 +25,9 @@ jobs:
             rm -v "$f"
         done
 
-
-    - name: 检查文件大小
+    # 第3步: 检查文件大小并决定是否继续
+    - name: 检查文件大小 🔍
       run: |
-        # 获取文件大小
         filesize=$(stat --printf="%s" files/proxy.dll)
         if [[ $filesize -gt 15728640 ]]; then
           echo "📦 proxy.dll 文件大于 15MB，准备计算 MD5。"
@@ -36,25 +37,23 @@ jobs:
           echo "PROCEED=false" >> $GITHUB_ENV
         fi
 
-    - name: 计算 MD5 并输出到 core.json 文件
+    # 第4步: 如果文件大于15MB，计算其 MD5 哈希并输出到 core.json 文件
+    - name: 计算 MD5 并输出到 core.json 文件 🛠️
       if: env.PROCEED == 'true'
       run: |
-        # 计算文件的 MD5
         md5=$(md5sum files/proxy.dll | awk '{ print $1 }')
         echo "✅ 文件的 MD5 值为: $md5"
-        # 先删除现有的 core.json 文件，确保它将被重新创建
         rm -f core.json
         echo "{\"md5\": \"$md5\"}" > core.json
 
-
-    - name: 提交并推送 MD5 更新
+    # 第5步: 提交并推送 MD5 更新
+    - name: 提交并推送 MD5 更新 ⬆️
       if: env.PROCEED == 'true'
       run: |
         current_datetime=$(date '+%Y-%m-%d %H:%M:%S')
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add -A
-        # 检查是否有更改
         if git diff-index --quiet HEAD --; then
           echo "没有任何更改，跳过提交和推送步骤。"
         else
