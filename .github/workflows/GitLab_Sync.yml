@@ -1,4 +1,4 @@
-name: 'GitLab_Sync 🔄'
+name: 'GitLab_Sync' 🔄
 
 # 当仓库有任何新的更改时触发，或者手动触发
 on: 
@@ -10,9 +10,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 📘 检出当前的代码
+      # 📘 检出当前的代码并获取完整的Git历史
       - name: '📥 检出'
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
 
       # 🚀 将代码同步到GitLab
       - name: '🔄 同步到GitLab'
