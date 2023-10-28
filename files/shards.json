@@ -921,7 +921,7 @@
             },
             {
                 "name": "Nyx",
-                "id": "Nyx_AIO"
+                "id": "Klee_AIO"
             },
             {
                 "name": "RXing",
@@ -1134,6 +1134,10 @@
             {
                 "name": "Mage AIO",
                 "id": "Mage AIO"
+            },
+            {
+                "name": "Nyx",
+                "id": "Klee_AIO"
             },
             {
                 "name": "SA_AIO",
@@ -2188,9 +2192,7 @@
             },
             {
                 "name": "Nyx",
-                "id": "Nyx_AIO",
-                "pick_rate": 0.7391,
-                "win_rate": 0.7391
+                "id": "Klee_AIO"
             },
             {
                 "name": "SA_AIO",
@@ -2819,6 +2821,10 @@
                 "id": "MasterAio"
             },
             {
+                "name": "Nyx",
+                "id": "Klee_AIO"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0161,
@@ -2857,6 +2863,10 @@
                 "id": "intnner_cn",
                 "pick_rate": 0.0851,
                 "win_rate": 0.5
+            },
+            {
+                "name": "Nyx",
+                "id": "Klee_AIO"
             },
             {
                 "name": "RXing",
@@ -4199,6 +4209,10 @@
                 "id": "MasterAio"
             },
             {
+                "name": "Nyx",
+                "id": "Klee_AIO"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.1447,
@@ -4695,6 +4709,10 @@
                 "id": "MasterAio"
             },
             {
+                "name": "Nyx",
+                "id": "Klee_AIO"
+            },
+            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.0377,
@@ -4982,7 +5000,7 @@
             },
             {
                 "name": "Nyx",
-                "id": "Nyx_AIO"
+                "id": "Klee_AIO"
             },
             {
                 "name": "SA_AIO",
@@ -5532,7 +5550,7 @@
             },
             {
                 "name": "Nyx",
-                "id": "Nyx_AIO"
+                "id": "Klee_AIO"
             },
             {
                 "name": "SA_AIO",
@@ -5992,9 +6010,7 @@
             },
             {
                 "name": "Nyx",
-                "id": "Nyx_AIO",
-                "pick_rate": 0.0235,
-                "win_rate": 0.8
+                "id": "Klee_AIO"
             },
             {
                 "name": "RXing",
@@ -6216,9 +6232,7 @@
             },
             {
                 "name": "Nyx",
-                "id": "Nyx_AIO",
-                "pick_rate": 0.2222,
-                "win_rate": 0.5
+                "id": "Klee_AIO"
             },
             {
                 "name": "RXing",
