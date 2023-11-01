@@ -1288,6 +1288,10 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.3225,
                 "win_rate": 0.6061
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             }
         ],
         "pick_rate": 0.0113,
@@ -3705,6 +3709,10 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0488,
                 "win_rate": 0.4375
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             }
         ],
         "pick_rate": 0.0055,
@@ -3897,6 +3905,10 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0545,
                 "win_rate": 0.68
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             }
         ],
         "pick_rate": 0.016,
@@ -4815,6 +4827,10 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.9367,
                 "win_rate": 0.6149
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             }
         ],
         "pick_rate": 0.0027,
@@ -5437,6 +5453,10 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0591,
                 "win_rate": 0.6585
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             }
         ],
         "pick_rate": 0.0117,
@@ -5719,6 +5739,10 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0335,
                 "win_rate": 0.6923
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             }
         ],
         "pick_rate": 0.006,
