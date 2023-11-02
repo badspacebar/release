@@ -1,7 +1,7 @@
 {
     "shards": {
         "[Viktor]Evade.shard": "80e36d8e53ae9e7c9897f60f7323b366",
-        "Nyx.shard": "d74b46dc1f86cbf5311646a825d2aade",
+        "Nyx.shard": "51a980b2eabd20582479a38128ef6822",
         "[Viktor]Utility.shard": "ad110aa252bbf3466b4d4784dd70b2f3",
         "GG AIO.shard": "9a9991b2a192ba40703b8f5fe64363ea",
         "CNo1Smite.shard": "861bb4006f5d630fd11d613ee621a671",
@@ -37,5 +37,5 @@
         "RXing.shard": "d2e04c481d2c5098d87df641d5d94cc4"
     },
     "bot_5.dll": "5528f76381709565f4f411f9150daf29",
-    "shards.json": "3a140aaded7903c9d5953abe895a55e9"
+    "shards.json": "13c6f9eae8e3cfcfee8b51ea61775912"
 }
