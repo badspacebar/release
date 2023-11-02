@@ -548,6 +548,10 @@
                 "win_rate": 0.6071
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.1438,
@@ -5947,6 +5951,10 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.061,
                 "win_rate": 0.6585
+            },
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
             },
             {
                 "name": "Nyx",
