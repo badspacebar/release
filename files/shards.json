@@ -384,6 +384,10 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.1754,
                 "win_rate": 0.5
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             }
         ],
         "pick_rate": 0.0034,
@@ -1734,6 +1738,10 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.126,
                 "win_rate": 0.6531
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             }
         ],
         "pick_rate": 0.0141,
@@ -2413,6 +2421,10 @@
                 "win_rate": 0.75
             },
             {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            },
+            {
                 "name": "[HGPro]AIO",
                 "id": "[HGPro]AIO",
                 "pick_rate": 0.0141,
@@ -2629,6 +2641,10 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.8764,
                 "win_rate": 0.6339
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             }
         ],
         "pick_rate": 0.0106,
@@ -4263,6 +4279,10 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0776,
                 "win_rate": 0.6579
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             }
         ],
         "pick_rate": 0.0085,
@@ -4323,6 +4343,10 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0914,
                 "win_rate": 0.6373
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             }
         ],
         "pick_rate": 0.0183,
@@ -4555,6 +4579,10 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.1782,
                 "win_rate": 0.7105
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             }
         ],
         "pick_rate": 0.0134,
