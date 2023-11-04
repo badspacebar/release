@@ -1118,6 +1118,10 @@
                 "win_rate": 0.6023
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.0206,
@@ -1696,6 +1700,10 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.0465,
                 "win_rate": 0.5845
+            },
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
             },
             {
                 "name": "[Viktor]AIO",
@@ -2599,6 +2607,10 @@
                 "id": "intnner_cn",
                 "pick_rate": 0.0288,
                 "win_rate": 0.8333
+            },
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
             },
             {
                 "name": "RXing",
@@ -5149,6 +5161,10 @@
                 "id": "intnner_cn",
                 "pick_rate": 0.0096,
                 "win_rate": 0.3611
+            },
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
             },
             {
                 "name": "SA_AIO",
