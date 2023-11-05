@@ -1,7 +1,6 @@
 {
     "shards": {
         "[Viktor]Evade.shard": "80e36d8e53ae9e7c9897f60f7323b366",
-        "Nyx.shard": "69565fa5f6bf0397ee2203cea779039e",
         "[Viktor]Utility.shard": "ad110aa252bbf3466b4d4784dd70b2f3",
         "GG AIO.shard": "9a9991b2a192ba40703b8f5fe64363ea",
         "CNo1Smite.shard": "823a66843262293848c73cde612eee78",
@@ -12,6 +11,7 @@
         "IntAIO.shard": "c293e1f2a56194c42431aa573393b600",
         "JUST - AIO.shard": "44a4ce3d50c4a3735dd64979421da1bf",
         "Gank Alerter by Kornis.shard": "8c12d6a14c58acf11afd4cf06c0fc7a6",
+        "KleeAIO.shard": "69565fa5f6bf0397ee2203cea779039e",
         "CNo1Utility.shard": "01a46dd0e121f6d962faa1ecb1ea401c",
         "BaseUlt by Kornis.shard": "1d1a1dc39f71274ff58320a7bb6b98f6",
         "Alexis BaseUlt.shard": "566d2154d4c8fafff0fc402bae92d2d3",
@@ -37,5 +37,5 @@
         "RXing.shard": "d2e04c481d2c5098d87df641d5d94cc4"
     },
     "bot_5.dll": "edd9e9e699fe54fb9fffaadc3abd4bf4",
-    "shards.json": "a8ae1312c9f55a0911b43c52ce315ff4"
+    "shards.json": "26c72a994efe9c6dd324c519882f27d7"
 }
