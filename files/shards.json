@@ -44,6 +44,10 @@
                 "win_rate": 0.5588
             },
             {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            },
+            {
                 "name": "[Viktor]AIO",
                 "id": "[Viktor]Aatrox",
                 "pick_rate": 0.1651,
