@@ -1,0 +1,62 @@
+name: 核心更新 🔄
+
+on:
+  push:
+    paths:
+      - '**/proxy.dll'
+      - '**/Proxy.dll'
+
+jobs:
+  check_and_generate_md5:
+    runs-on: ubuntu-latest
+    steps:
+    # 第1步: 检出代码
+    - name: 检出仓库 📦
+      uses: actions/checkout@v2
+
+    # 第2步: 查找所有与 proxy.dll 相关的文件并进行重命名和移动
+    - name: 移动并重命名文件 📂
+      run: |
+        for f in $(find . -type f \( -iname proxy.dll -o -iname Proxy.dll \) ! -path "./files/proxy.dll"); do
+            echo "Found file: $f"
+            echo "Copying file $f to files/proxy.dll"
+            cp $f files/proxy.dll
+            echo "Removing original file: $f"
+            rm -v "$f"
+        done
+
+    # 第3步: 检查文件大小并决定是否继续
+    - name: 检查文件大小 🔍
+      run: |
+        filesize=$(stat --printf="%s" files/proxy.dll)
+        if [[ $filesize -gt 15728640 ]]; then
+          echo "📦 proxy.dll 文件大于 15MB，准备计算 MD5。"
+          echo "PROCEED=true" >> $GITHUB_ENV
+        else
+          echo "❌ proxy.dll 文件不超过 15MB，退出流程。"
+          echo "PROCEED=false" >> $GITHUB_ENV
+        fi
+
+    # 第4步: 如果文件大于15MB，计算其 MD5 哈希并输出到 core.json 文件
+    - name: 计算 MD5 并输出到 core.json 文件 🛠️
+      if: env.PROCEED == 'true'
+      run: |
+        md5=$(md5sum files/proxy.dll | awk '{ print $1 }')
+        echo "✅ 文件的 MD5 值为: $md5"
+        rm -f core.json
+        echo "{\"md5\": \"$md5\"}" > core.json
+
+    # 第5步: 提交并推送 MD5 更新
+    - name: 提交并推送 MD5 更新 ⬆️
+      if: env.PROCEED == 'true'
+      run: |
+        current_datetime=$(date '+%Y-%m-%d %H:%M:%S')
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add -A
+        if git diff-index --quiet HEAD --; then
+          echo "没有任何更改，跳过提交和推送步骤。"
+        else
+          git commit -m "使用 MD5 哈希值更新 core.json 文件 - $current_datetime"
+          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/WizisCool/KiKHanbot.git
+        fi
