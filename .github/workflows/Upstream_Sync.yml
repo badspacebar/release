@@ -1,0 +1,51 @@
+name: '上游自动同步 🔄'
+
+on:
+  schedule:
+    - cron:  '*/30 * * * *'
+
+  workflow_dispatch:
+
+jobs:
+  sync_latest_from_upstream:
+    runs-on: ubuntu-latest
+    name: 从上游仓库同步最新提交 🚀
+
+    steps:
+    # 第1步: 标准的代码检出
+    - name: 检出目标仓库 📦
+      uses: actions/checkout@v3
+      with:
+        ref: master
+        persist-credentials: false
+
+    # 第2步: 同步上游的改变
+    - name: 同步上游更改 🔄
+      id: sync
+      uses: aormsby/Fork-Sync-With-Upstream-action@v3.4
+      with:
+        target_sync_branch: master
+        target_repo_token: ${{ secrets.GITHUB_TOKEN }}
+        upstream_sync_branch: master
+        upstream_sync_repo: badspacebar/release
+        test_mode: false
+      
+    # 第3步: 基于同步输出显示消息
+    - name: 发现新的提交 🆕
+      if: steps.sync.outputs.has_new_commits == 'true'
+      run: echo "🎉 有新的提交需要同步。"
+    
+    - name: 没有新的提交 ℹ️
+      if: steps.sync.outputs.has_new_commits == 'false'
+      run: echo "ℹ️ 没有新的提交。"
+      
+    - name: 显示 'has_new_commits' 的值 🔍
+      run: echo ${{ steps.sync.outputs.has_new_commits }}
+
+    - name: 触发 GitLab_Sync🔄 工作流
+      run: |
+        curl -X POST -H "Authorization: token ${{ secrets.API_TOKEN }}" \
+        -H "Accept: application/vnd.github.v3+json" \
+        https://api.github.com/repos/${{ github.repository }}/actions/workflows/GitLab_Sync.yml/dispatches \
+        -d '{"ref":"master"}'
+

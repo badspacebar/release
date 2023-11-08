@@ -1,0 +1,46 @@
+name: 更新 kik-shards 🔄
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - '**.shard'
+  workflow_dispatch:
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+    steps:
+    # 第1步: 检出代码
+    - name: 检出代码 📦
+      uses: actions/checkout@v2
+
+    # 第2步: 设置Python环境
+    - name: 设置 Python 🐍
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+
+    # 第3步: 安装依赖
+    - name: 安装依赖 🛠️
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r auto-update-kikshards-json/kik-shards-requirements.txt
+
+    # 第4步: 更新 kik-shards.json
+    - name: 更新 kik-shards.json 🔄
+      run: python auto-update-kikshards-json/update_kik_shards_json.py
+
+    # 第5步: 提交并推送变更
+    - name: 提交并推送变更 ⬆️
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add kik-shards.ini
+        if ! git diff --staged --quiet; then
+          git commit -m "更新 kik-shards.ini"
+          git push https://$GITHUB_TOKEN@github.com/WizisCool/KiKHanbot.git HEAD:master
+        else
+          echo "没有变更提交"
+        fi
