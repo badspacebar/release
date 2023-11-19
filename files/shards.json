@@ -4649,6 +4649,10 @@
                 "win_rate": 0.6333
             },
             {
+                "name": "KleeAIO",
+                "id": "Klee_AIO"
+            },
+            {
                 "name": "Mage AIO",
                 "id": "Mage AIO",
                 "pick_rate": 0.2689,
