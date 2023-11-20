@@ -1264,6 +1264,10 @@
                 "win_rate": 0.611
             },
             {
+                "name": "luna-aio",
+                "id": "harmony_release"
+            },
+            {
                 "name": "Mage AIO",
                 "id": "Mage AIO",
                 "pick_rate": 0.0237,
@@ -2038,6 +2042,10 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.7387,
                 "win_rate": 0.7069
+            },
+            {
+                "name": "luna-aio",
+                "id": "harmony_release"
             },
             {
                 "name": "Mage AIO",
@@ -4661,6 +4669,10 @@
                 "id": "Klee_AIO"
             },
             {
+                "name": "luna-aio",
+                "id": "harmony_release"
+            },
+            {
                 "name": "Mage AIO",
                 "id": "Mage AIO",
                 "pick_rate": 0.2689,
@@ -6491,6 +6503,10 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.0756,
                 "win_rate": 0.761
+            },
+            {
+                "name": "luna-aio",
+                "id": "harmony_release"
             },
             {
                 "name": "SA_AIO",
