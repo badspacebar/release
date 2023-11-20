@@ -2351,12 +2351,6 @@
                 "win_rate": 0.4783
             },
             {
-                "name": "CNo1AIO",
-                "id": "cno1_aio",
-                "pick_rate": 0.1615,
-                "win_rate": 0.6495
-            },
-            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0136,
@@ -3205,10 +3199,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.2484,
                 "win_rate": 0.5889
-            },
-            {
-                "name": "[BrianSharp] Successfull",
-                "id": "Brian"
             }
         ],
         "pick_rate": 0.0338,
@@ -4191,6 +4181,10 @@
                 "win_rate": 0.4865
             },
             {
+                "name": "KleeAIO",
+                "id": "Klee_AIO"
+            },
+            {
                 "name": "Kornis AIO",
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.767,
@@ -4653,6 +4647,10 @@
                 "id": "JUST_AIO",
                 "pick_rate": 0.0492,
                 "win_rate": 0.6333
+            },
+            {
+                "name": "KleeAIO",
+                "id": "Klee_AIO"
             },
             {
                 "name": "Mage AIO",
@@ -5705,6 +5703,10 @@
                 "id": "intnner_cn",
                 "pick_rate": 0.112,
                 "win_rate": 0.599
+            },
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
             },
             {
                 "name": "SA_AIO",
