@@ -5,7 +5,7 @@ on:
     paths:
       - '**/proxy.dll'
       - '**/Proxy.dll'
-
+  workflow_dispatch:   
 jobs:
   check_and_generate_md5:
     runs-on: ubuntu-latest
