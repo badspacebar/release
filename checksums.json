@@ -13,7 +13,7 @@
         "Gank Alerter by Kornis.shard": "8c12d6a14c58acf11afd4cf06c0fc7a6",
         "KleeAIO.shard": "3c8d2fc4e5ba826da1c24ffe1bf0ab1f",
         "CNo1Utility.shard": "a2ae36f3158b69029cb729700a700ca2",
-        "luna-aio.shard": "8b6b8471e9ec2e5f831aee0d978eb2a2",
+        "luna-aio.shard": "23327b49fa81ca18e08d79fbefb6df01",
         "BaseUlt by Kornis.shard": "1d1a1dc39f71274ff58320a7bb6b98f6",
         "Alexis BaseUlt.shard": "566d2154d4c8fafff0fc402bae92d2d3",
         "Alexis Activator.shard": "a807845af79737ecbf4d234043feac88",
@@ -39,5 +39,5 @@
         "CXJ AIO.shard": "3e9a684d1c2f52e22c79a36dafa17dd9"
     },
     "bot_5.dll": "95c975cfe972167c571678510b93827c",
-    "shards.json": "99436f3cc88ca698617b132663cbd6c3"
+    "shards.json": "5dfd2ea32294d4524b8a0ad7b8f8587f"
 }
