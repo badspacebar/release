@@ -3205,12 +3205,6 @@
                 "win_rate": 0.5714
             },
             {
-                "name": "KleeAIO",
-                "id": "Klee_AIO",
-                "pick_rate": 0.0377,
-                "win_rate": 0.4634
-            },
-            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.0442,
@@ -3997,10 +3991,6 @@
                 "id": "KiriAIO",
                 "pick_rate": 0.4915,
                 "win_rate": 0.7071
-            },
-            {
-                "name": "KleeAIO",
-                "id": "Klee_AIO"
             },
             {
                 "name": "Mage AIO",
