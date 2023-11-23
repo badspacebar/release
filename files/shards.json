@@ -2737,6 +2737,10 @@
                 "win_rate": 0.6522
             },
             {
+                "name": "luna-aio",
+                "id": "~ LunaAIO"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0075,
@@ -2772,6 +2776,10 @@
     },
     "Viego": {
         "shards": [
+            {
+                "name": "luna-aio",
+                "id": "~ LunaAIO"
+            },
             {
                 "name": "RXing",
                 "id": "RXing",
