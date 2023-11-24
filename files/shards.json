@@ -1746,6 +1746,10 @@
                 "win_rate": 0.6667
             },
             {
+                "name": "[HGPro]AIO",
+                "id": "[HGPro]AIO"
+            },
+            {
                 "name": "[Viktor]AIO",
                 "id": "[Viktor]Darius",
                 "pick_rate": 0.0618,
