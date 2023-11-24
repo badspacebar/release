@@ -6111,6 +6111,10 @@
     "TwistedFate": {
         "shards": [
             {
+                "name": "Fx",
+                "id": "Fx"
+            },
+            {
                 "name": "Kiri AIO",
                 "id": "KiriAIO",
                 "pick_rate": 0.7506,
