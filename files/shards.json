@@ -4043,6 +4043,10 @@
                 "win_rate": 0.7071
             },
             {
+                "name": "KleeAIO",
+                "id": "Klee_AIO"
+            },
+            {
                 "name": "Mage AIO",
                 "id": "Mage AIO",
                 "pick_rate": 0.086,
@@ -4367,6 +4371,10 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.8455,
                 "win_rate": 0.631
+            },
+            {
+                "name": "RXing",
+                "id": "RXing"
             },
             {
                 "name": "SA_AIO",
@@ -5613,6 +5621,10 @@
                 "id": "MasterAio"
             },
             {
+                "name": "RXing",
+                "id": "RXing"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.03,
@@ -5921,6 +5933,10 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.0787,
                 "win_rate": 0.614
+            },
+            {
+                "name": "luna-aio",
+                "id": "~ LunaAIO"
             },
             {
                 "name": "RXing",
