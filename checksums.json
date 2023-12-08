@@ -18,7 +18,7 @@
         "Alexis BaseUlt.shard": "566d2154d4c8fafff0fc402bae92d2d3",
         "Alexis Activator.shard": "a807845af79737ecbf4d234043feac88",
         "KleeUtils.shard": "31177bad9a2b470c4ad2b0ee5f0198aa",
-        "Fx.shard": "1c760e56486d4a62e6509d61ed6e3d98",
+        "Fx.shard": "4fde12823c6a03bd82e26f18ed50c22a",
         "Tracker by Kornis.shard": "63ae3020b96cc46451adff16c7932d9a",
         "SA_AIO.shard": "a13c0b57c7271a84e22d9d517aa1292a",
         "Alexis Awareness.shard": "c0d35d00ac69db1f62940725910908d1",
@@ -40,5 +40,5 @@
         "CXJ AIO.shard": "a6202c4587466da847a83b6c3bcd6305"
     },
     "bot_5.dll": "8a0cab888ef556ed7605bfae60feda13",
-    "shards.json": "1c5ef926171451d74caf4214efd6be1a"
+    "shards.json": "d936ad47ccc029d905462da564739727"
 }
