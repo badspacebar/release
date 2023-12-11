@@ -7127,6 +7127,10 @@
     "Hwei": {
         "shards": [
             {
+                "name": "CNo1AIO",
+                "id": "cno1_aio"
+            },
+            {
                 "name": "CXJ AIO",
                 "id": "CXJ_AIO"
             },
