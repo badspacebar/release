@@ -5875,6 +5875,10 @@
                 "win_rate": 0.6494
             },
             {
+                "name": "luna-aio",
+                "id": "~ LunaAIO"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.2026,
