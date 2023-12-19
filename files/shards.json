@@ -376,6 +376,10 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.9421,
                 "win_rate": 0.5531
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             }
         ],
         "pick_rate": 0.0031,
@@ -4273,6 +4277,10 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.1047,
                 "win_rate": 0.5278
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             }
         ],
         "pick_rate": 0.0111,
