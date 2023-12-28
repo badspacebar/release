@@ -1340,6 +1340,10 @@
                 "win_rate": 0.5819
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.0042,
@@ -2164,6 +2168,10 @@
                 "id": "Mage AIO",
                 "pick_rate": 0.0025,
                 "win_rate": 0.6579
+            },
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
             },
             {
                 "name": "SA_AIO",
@@ -4257,6 +4265,10 @@
                 "win_rate": 0.5625
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.0147,
@@ -4947,6 +4959,10 @@
                 "win_rate": 0
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0008,
@@ -5155,6 +5171,10 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.8924,
                 "win_rate": 0.601
+            },
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
             },
             {
                 "name": "SA_AIO",
@@ -5575,6 +5595,10 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.0286,
                 "win_rate": 0.68
+            },
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
             },
             {
                 "name": "SA_AIO",
@@ -6277,6 +6301,10 @@
                 "id": "intnner_cn",
                 "pick_rate": 0.0105,
                 "win_rate": 0.411
+            },
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
             },
             {
                 "name": "SA_AIO",
