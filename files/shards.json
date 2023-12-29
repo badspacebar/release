@@ -2444,6 +2444,10 @@
                 "win_rate": 0.5833
             },
             {
+                "name": "[HGPro]AIO",
+                "id": "[HGPro]AIO"
+            },
+            {
                 "name": "[Viktor]AIO",
                 "id": "[Viktor]Kayn",
                 "pick_rate": 0.7502,
@@ -3444,6 +3448,10 @@
                 "id": "MasterAio",
                 "pick_rate": 0.0087,
                 "win_rate": 0.6557
+            },
+            {
+                "name": "[HGPro]AIO",
+                "id": "[HGPro]AIO"
             },
             {
                 "name": "[Viktor]AIO",
