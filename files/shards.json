@@ -1228,6 +1228,10 @@
                 "id": "Healer_A.I.O.",
                 "pick_rate": 1,
                 "win_rate": 0.5932
+            },
+            {
+                "name": "RXing",
+                "id": "RXing"
             }
         ],
         "pick_rate": 0.0023,
