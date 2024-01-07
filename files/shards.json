@@ -8,6 +8,10 @@
                 "win_rate": 0.6439
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "DemonAIO",
                 "id": "Demon_Aio_",
                 "pick_rate": 0.0115,
@@ -44,10 +48,6 @@
                 "win_rate": 0.5978
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0168,
@@ -72,6 +72,10 @@
                 "win_rate": 0.64
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.119,
@@ -82,10 +86,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.7766,
                 "win_rate": 0.6263
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             }
         ],
         "pick_rate": 0.0121,
@@ -98,6 +98,10 @@
                 "id": "Creator of Elo - Azir",
                 "pick_rate": 0.8508,
                 "win_rate": 0.7168
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "DemonAIO",
@@ -124,10 +128,6 @@
                 "win_rate": 0.6226
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0042,
@@ -150,6 +150,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0149,
                 "win_rate": 0.65
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "DemonAIO",
@@ -188,10 +192,6 @@
                 "win_rate": 0.7714
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0089,
@@ -208,6 +208,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0524,
                 "win_rate": 0.625
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "DemonAIO",
@@ -258,10 +262,6 @@
                 "win_rate": 0.7778
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0127,
@@ -278,6 +278,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0129,
                 "win_rate": 0.6154
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "IntAIO",
@@ -304,10 +308,6 @@
                 "win_rate": 0.6571
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.003,
@@ -326,6 +326,10 @@
                 "win_rate": 0.7143
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0971,
@@ -336,10 +340,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0873,
                 "win_rate": 0.5714
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[Viktor]AIO",
@@ -358,6 +358,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0678,
                 "win_rate": 0.5034
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "DemonAIO",
@@ -384,10 +388,6 @@
                 "win_rate": 0.5293
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[Viktor]AIO",
                 "id": "[Viktor]Akali",
                 "pick_rate": 0.6392,
@@ -400,6 +400,10 @@
     "Galio": {
         "shards": [
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0114,
@@ -410,10 +414,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.9811,
                 "win_rate": 0.5483
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -432,6 +432,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.5782,
                 "win_rate": 0.6164
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Fx",
@@ -458,10 +462,6 @@
                 "win_rate": 0.5429
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0052,
@@ -478,6 +478,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0143,
                 "win_rate": 0.5714
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "DemonAIO",
@@ -502,10 +506,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.0663,
                 "win_rate": 0.5846
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -536,6 +536,10 @@
                 "id": "CXJ_AIO",
                 "pick_rate": 0.0131,
                 "win_rate": 0.7143
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Fx",
@@ -586,10 +590,6 @@
                 "win_rate": 0.6517
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0036,
@@ -618,6 +618,10 @@
                 "id": "archer",
                 "pick_rate": 0.0018,
                 "win_rate": 1
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Fx",
@@ -656,10 +660,6 @@
                 "win_rate": 0.6694
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0062,
@@ -690,6 +690,10 @@
                 "win_rate": 0.5
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "DemonAIO",
                 "id": "Demon_Aio_",
                 "pick_rate": 0.059,
@@ -718,10 +722,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0499,
                 "win_rate": 0.5909
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             }
         ],
         "pick_rate": 0.0055,
@@ -734,6 +734,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0026,
                 "win_rate": 0.5
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "DemonAIO",
@@ -766,10 +770,6 @@
                 "win_rate": 0.6111
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0059,
@@ -788,6 +788,10 @@
                 "win_rate": 0.8
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.045,
@@ -798,10 +802,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.9144,
                 "win_rate": 0.5862
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -816,6 +816,10 @@
     "Evelynn": {
         "shards": [
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.1674,
@@ -826,10 +830,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.8235,
                 "win_rate": 0.5687
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -848,6 +848,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0191,
                 "win_rate": 0.6667
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "DemonAIO",
@@ -880,10 +884,6 @@
                 "win_rate": 0.7059
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0298,
@@ -906,6 +906,10 @@
                 "id": "archer",
                 "pick_rate": 0.0368,
                 "win_rate": 0.6316
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Fx",
@@ -938,10 +942,6 @@
                 "win_rate": 0.6292
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0058,
@@ -959,6 +959,10 @@
     },
     "Camille": {
         "shards": [
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
             {
                 "name": "Fx",
                 "id": "Fx",
@@ -990,10 +994,6 @@
                 "win_rate": 0.6842
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[Viktor]AIO",
                 "id": "[Viktor]Camille",
                 "pick_rate": 0.8,
@@ -1022,6 +1022,10 @@
                 "id": "archer",
                 "pick_rate": 0.0032,
                 "win_rate": 0.6875
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "DemonAIO",
@@ -1070,10 +1074,6 @@
                 "win_rate": 0.6702
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.003,
@@ -1108,6 +1108,10 @@
                 "id": "CXJ_AIO",
                 "pick_rate": 0.0098,
                 "win_rate": 0.6222
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "DemonAIO",
@@ -1182,10 +1186,6 @@
                 "win_rate": 0.7354
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0252,
@@ -1210,6 +1210,10 @@
                 "win_rate": 0.3099
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0235,
@@ -1226,10 +1230,6 @@
                 "id": "RXing",
                 "pick_rate": 0.1412,
                 "win_rate": 0.4722
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -1250,6 +1250,10 @@
                 "win_rate": 0.5902
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.064,
@@ -1260,10 +1264,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.782,
                 "win_rate": 0.6303
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -1282,6 +1282,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0348,
                 "win_rate": 0.6
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "IntAIO",
@@ -1308,10 +1312,6 @@
                 "win_rate": 0.6667
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0035,
@@ -1324,6 +1324,10 @@
     "Ivern": {
         "shards": [
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "Healer AIO",
                 "id": "Healer_A.I.O.",
                 "pick_rate": 1,
@@ -1332,10 +1336,6 @@
             {
                 "name": "RXing",
                 "id": "RXing"
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             }
         ],
         "pick_rate": 0.0023,
@@ -1348,6 +1348,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0286,
                 "win_rate": 0.6667
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "IntAIO",
@@ -1366,10 +1370,6 @@
                 "id": "RXing",
                 "pick_rate": 0.019,
                 "win_rate": 0.3333
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             }
         ],
         "pick_rate": 0.0039,
@@ -1377,6 +1377,10 @@
     },
     "Belveth": {
         "shards": [
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
             {
                 "name": "IntAIO",
                 "id": "intnner_cn",
@@ -1394,10 +1398,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.7118,
                 "win_rate": 0.644
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             }
         ],
         "pick_rate": 0.0126,
@@ -1416,6 +1416,10 @@
                 "id": "CXJ_AIO",
                 "pick_rate": 0.0145,
                 "win_rate": 0.7586
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Fx",
@@ -1476,10 +1480,6 @@
                 "win_rate": 0.6735
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0045,
@@ -1496,6 +1496,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0335,
                 "win_rate": 0.5
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Fx",
@@ -1522,10 +1526,6 @@
                 "win_rate": 0.5111
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0168,
@@ -1542,6 +1542,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0156,
                 "win_rate": 0.5882
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Fx",
@@ -1574,10 +1578,6 @@
                 "win_rate": 0.7083
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0046,
@@ -1590,6 +1590,10 @@
     "Yorick": {
         "shards": [
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "Healer AIO",
                 "id": "Healer_A.I.O.",
                 "pick_rate": 0.9098,
@@ -1600,10 +1604,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0902,
                 "win_rate": 0.6364
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             }
         ],
         "pick_rate": 0.0043,
@@ -1616,6 +1616,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0226,
                 "win_rate": 0.6491
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "DemonAIO",
@@ -1666,10 +1670,6 @@
                 "win_rate": 0.6174
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0135,
@@ -1698,6 +1698,10 @@
                 "id": "archer",
                 "pick_rate": 0.006,
                 "win_rate": 0.7576
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Fx",
@@ -1748,10 +1752,6 @@
                 "win_rate": 0.5833
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.009,
@@ -1770,6 +1770,10 @@
                 "win_rate": 0.6507
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0099,
@@ -1780,10 +1784,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.1601,
                 "win_rate": 0.6173
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -1804,6 +1804,10 @@
                 "win_rate": 0.5851
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.2682,
@@ -1814,10 +1818,6 @@
                 "id": "KiriAIO",
                 "pick_rate": 0.1676,
                 "win_rate": 0.4667
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -1831,6 +1831,10 @@
     },
     "Chogath": {
         "shards": [
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
             {
                 "name": "DemonAIO",
                 "id": "Demon_Aio_",
@@ -1860,10 +1864,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0364,
                 "win_rate": 0.5556
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             }
         ],
         "pick_rate": 0.012,
@@ -1882,6 +1882,10 @@
                 "id": "archer",
                 "pick_rate": 0.0004,
                 "win_rate": 1
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "DemonAIO",
@@ -1920,10 +1924,6 @@
                 "win_rate": 0.7385
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian"
             }
@@ -1938,6 +1938,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0031,
                 "win_rate": 0.8571
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "DemonAIO",
@@ -1988,10 +1992,6 @@
                 "win_rate": 0.4545
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[HGPro]AIO",
                 "id": "[HGPro]AIO",
                 "pick_rate": 0.0354,
@@ -2014,6 +2014,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0335,
                 "win_rate": 0.4762
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Fx",
@@ -2046,10 +2050,6 @@
                 "win_rate": 0.6867
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0128,
@@ -2068,6 +2068,10 @@
                 "win_rate": 0.6264
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "Hanbot Beasty ",
                 "id": "hanbot_beasty",
                 "pick_rate": 0.0468,
@@ -2078,10 +2082,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.7896,
                 "win_rate": 0.6434
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -2112,6 +2112,10 @@
                 "id": "CXJ_AIO",
                 "pick_rate": 0.0119,
                 "win_rate": 0.6774
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "IntAIO",
@@ -2150,10 +2154,6 @@
                 "win_rate": 0.6788
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[HGVip]AIO",
                 "id": "HuangGuanVipAIO",
                 "pick_rate": 0.7649,
@@ -2172,8 +2172,8 @@
     "Kled": {
         "shards": [
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "[Viktor]AIO",
@@ -2194,6 +2194,10 @@
                 "win_rate": 0.75
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "Healer AIO",
                 "id": "Healer_A.I.O.",
                 "pick_rate": 0.8561,
@@ -2204,10 +2208,6 @@
                 "id": "intnner_cn",
                 "pick_rate": 0.1158,
                 "win_rate": 0.6061
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             }
         ],
         "pick_rate": 0.0069,
@@ -2220,6 +2220,10 @@
                 "id": "archer",
                 "pick_rate": 0.0039,
                 "win_rate": 0.5333
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Fx",
@@ -2276,10 +2280,6 @@
                 "win_rate": 0.7056
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0043,
@@ -2308,6 +2308,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0242,
                 "win_rate": 0.6676
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Fx",
@@ -2368,10 +2372,6 @@
                 "win_rate": 0.6514
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0012,
@@ -2384,6 +2384,10 @@
     "Ekko": {
         "shards": [
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "Healer AIO",
                 "id": "Healer_A.I.O.",
                 "pick_rate": 0.8955,
@@ -2394,10 +2398,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.1045,
                 "win_rate": 0.5368
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             }
         ],
         "pick_rate": 0.0107,
@@ -2406,8 +2406,8 @@
     "Fiddlesticks": {
         "shards": [
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             }
         ]
     },
@@ -2418,6 +2418,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0138,
                 "win_rate": 0.4
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "JUST - AIO",
@@ -2436,10 +2440,6 @@
                 "id": "RXing",
                 "pick_rate": 0.0239,
                 "win_rate": 0.4231
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -2463,6 +2463,10 @@
     },
     "Jax": {
         "shards": [
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
             {
                 "name": "Fx",
                 "id": "Fx",
@@ -2500,10 +2504,6 @@
                 "win_rate": 0.5909
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[Viktor]AIO",
                 "id": "[Viktor]Jax",
                 "pick_rate": 0.7982,
@@ -2526,6 +2526,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0047,
                 "win_rate": 0.625
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Fx",
@@ -2558,10 +2562,6 @@
                 "win_rate": 0.4286
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0114,
@@ -2586,14 +2586,14 @@
     "Yuumi": {
         "shards": [
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.6034,
                 "win_rate": 0.5578
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -2614,6 +2614,10 @@
                 "win_rate": 0.4828
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "JUST - AIO",
                 "id": "JUST_AIO",
                 "pick_rate": 0.0436,
@@ -2624,10 +2628,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.7664,
                 "win_rate": 0.5691
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -2641,6 +2641,10 @@
     },
     "Heimerdinger": {
         "shards": [
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
             {
                 "name": "DemonAIO",
                 "id": "Demon_Aio_",
@@ -2666,10 +2670,6 @@
                 "win_rate": 0.5775
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0068,
@@ -2686,6 +2686,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.1091,
                 "win_rate": 0.5833
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "DemonAIO",
@@ -2710,10 +2714,6 @@
                 "id": "RXing",
                 "pick_rate": 0.4591,
                 "win_rate": 0.4851
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             }
         ],
         "pick_rate": 0.0052,
@@ -2728,14 +2728,14 @@
                 "win_rate": 0.5405
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.1162,
                 "win_rate": 0.6022
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[HGVip]AIO",
@@ -2766,6 +2766,10 @@
                 "id": "archer",
                 "pick_rate": 0.0017,
                 "win_rate": 0.4
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "DemonAIO",
@@ -2816,10 +2820,6 @@
                 "win_rate": 0.59
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0051,
@@ -2844,6 +2844,10 @@
     "JarvanIV": {
         "shards": [
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0066,
@@ -2860,10 +2864,6 @@
                 "id": "RXing",
                 "pick_rate": 0.016,
                 "win_rate": 0.4783
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -2896,14 +2896,14 @@
                 "win_rate": 0.6531
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "Kornis AIO",
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.9439,
                 "win_rate": 0.6085
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             }
         ],
         "pick_rate": 0.011,
@@ -2916,6 +2916,10 @@
                 "id": "cno1_aio",
                 "pick_rate": 0.6034,
                 "win_rate": 0.6286
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "IntAIO",
@@ -2934,10 +2938,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.1897,
                 "win_rate": 0.6364
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -2962,6 +2962,10 @@
                 "id": "archer",
                 "pick_rate": 0.0099,
                 "win_rate": 0.5122
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Fx",
@@ -3006,10 +3010,6 @@
                 "win_rate": 0.6071
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.023,
@@ -3034,6 +3034,10 @@
                 "win_rate": 0.7308
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "Kornis AIO",
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.8789,
@@ -3044,10 +3048,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0622,
                 "win_rate": 0.4821
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -3066,6 +3066,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.3092,
                 "win_rate": 0.6634
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Fx",
@@ -3096,10 +3100,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.2051,
                 "win_rate": 0.7132
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             }
         ],
         "pick_rate": 0.0137,
@@ -3120,6 +3120,10 @@
                 "win_rate": 0.5556
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "GG AIO",
                 "id": "GG AIO",
                 "pick_rate": 0.0455,
@@ -3138,10 +3142,6 @@
                 "win_rate": 0.75
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.033,
@@ -3153,6 +3153,10 @@
     },
     "Illaoi": {
         "shards": [
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
             {
                 "name": "Fx",
                 "id": "Fx",
@@ -3170,10 +3174,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.286,
                 "win_rate": 0.6025
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             }
         ],
         "pick_rate": 0.0092,
@@ -3181,6 +3181,10 @@
     },
     "Viego": {
         "shards": [
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
             {
                 "name": "luna-aio",
                 "id": "~ LunaAIO",
@@ -3200,10 +3204,6 @@
                 "win_rate": 0.5819
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[Viktor]AIO",
                 "id": "[Viktor]Viego",
                 "pick_rate": 0.0674,
@@ -3220,6 +3220,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0696,
                 "win_rate": 0.6373
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Fx",
@@ -3246,10 +3250,6 @@
                 "win_rate": 0.5
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0048,
@@ -3272,6 +3272,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0072,
                 "win_rate": 0.5538
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Fx",
@@ -3346,10 +3350,6 @@
                 "win_rate": 0.5891
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0022,
@@ -3372,6 +3372,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0166,
                 "win_rate": 0.7813
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Fx",
@@ -3410,10 +3414,6 @@
                 "win_rate": 0.7583
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0303,
@@ -3432,6 +3432,10 @@
                 "win_rate": 0.6306
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0123,
@@ -3448,10 +3452,6 @@
                 "id": "MasterAio",
                 "pick_rate": 0.0087,
                 "win_rate": 0.6557
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[HGPro]AIO",
@@ -3482,6 +3482,10 @@
                 "win_rate": 0.6132
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0505,
@@ -3506,10 +3510,6 @@
                 "win_rate": 0.68
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian"
             }
@@ -3524,6 +3524,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.13,
                 "win_rate": 0.6531
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "IntAIO",
@@ -3542,10 +3546,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.2865,
                 "win_rate": 0.6574
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -3570,6 +3570,10 @@
                 "id": "archer",
                 "pick_rate": 0.0057,
                 "win_rate": 0.7857
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "DemonAIO",
@@ -3638,10 +3642,6 @@
                 "win_rate": 0.6552
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0516,
@@ -3666,6 +3666,10 @@
                 "win_rate": 0.5254
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.407,
@@ -3688,10 +3692,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.1104,
                 "win_rate": 0.5616
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             }
         ],
         "pick_rate": 0.0143,
@@ -3710,6 +3710,10 @@
                 "id": "archer",
                 "pick_rate": 0.0114,
                 "win_rate": 0.6
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Fx",
@@ -3754,10 +3758,6 @@
                 "win_rate": 0.6478
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0111,
@@ -3782,6 +3782,10 @@
                 "win_rate": 0.617
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0258,
@@ -3798,10 +3802,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.1431,
                 "win_rate": 0.6233
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             }
         ],
         "pick_rate": 0.0264,
@@ -3814,6 +3814,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.1149,
                 "win_rate": 0.5319
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "IntAIO",
@@ -3832,10 +3836,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.3252,
                 "win_rate": 0.5188
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -3868,6 +3868,10 @@
                 "win_rate": 0.6667
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0788,
@@ -3892,10 +3896,6 @@
                 "win_rate": 0.65
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0108,
@@ -3912,6 +3912,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0874,
                 "win_rate": 0.5622
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Fx",
@@ -3932,10 +3936,6 @@
                 "win_rate": 0.575
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0238,
@@ -3947,6 +3947,10 @@
     },
     "Qiyana": {
         "shards": [
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
             {
                 "name": "Fx",
                 "id": "Fx",
@@ -3970,10 +3974,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0291,
                 "win_rate": 0.6053
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[HGVip]AIO",
@@ -4000,6 +4000,10 @@
                 "win_rate": 0.5429
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "GG AIO",
                 "id": "GG AIO",
                 "pick_rate": 0.0736,
@@ -4022,10 +4026,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0486,
                 "win_rate": 0.5641
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -4056,6 +4056,10 @@
                 "id": "archer",
                 "pick_rate": 0.0462,
                 "win_rate": 0.6885
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Fx",
@@ -4094,10 +4098,6 @@
                 "win_rate": 0.6887
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0129,
@@ -4122,6 +4122,10 @@
                 "win_rate": 0.486
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "GG AIO",
                 "id": "GG AIO",
                 "pick_rate": 0.5789,
@@ -4138,10 +4142,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.186,
                 "win_rate": 0.4605
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -4162,6 +4162,10 @@
                 "win_rate": 0.6364
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0523,
@@ -4178,10 +4182,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0276,
                 "win_rate": 0.6058
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -4207,6 +4207,10 @@
     },
     "LeeSin": {
         "shards": [
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
             {
                 "name": "Fx",
                 "id": "Fx",
@@ -4244,10 +4248,6 @@
                 "win_rate": 0.5847
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0159,
@@ -4282,6 +4282,10 @@
                 "id": "archer",
                 "pick_rate": 0.0033,
                 "win_rate": 0.6364
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Fx",
@@ -4326,10 +4330,6 @@
                 "win_rate": 0.6347
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0027,
@@ -4352,6 +4352,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0205,
                 "win_rate": 0.3333
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "IntAIO",
@@ -4378,10 +4382,6 @@
                 "win_rate": 0.5192
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0034,
@@ -4398,6 +4398,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0332,
                 "win_rate": 0.5
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Fx",
@@ -4428,10 +4432,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0643,
                 "win_rate": 0.5161
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             }
         ],
         "pick_rate": 0.0059,
@@ -4456,6 +4456,10 @@
                 "id": "archer",
                 "pick_rate": 0.0024,
                 "win_rate": 0.6111
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Fx",
@@ -4506,10 +4510,6 @@
                 "win_rate": 0.619
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.003,
@@ -4538,6 +4538,10 @@
                 "id": "archer",
                 "pick_rate": 0.0055,
                 "win_rate": 0.75
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "IntAIO",
@@ -4576,10 +4580,6 @@
                 "win_rate": 0.7496
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0546,
@@ -4596,6 +4596,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0136,
                 "win_rate": 0.4615
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "IntAIO",
@@ -4616,10 +4620,6 @@
                 "win_rate": 0.5429
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0428,
@@ -4631,6 +4631,10 @@
     },
     "Lux": {
         "shards": [
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
             {
                 "name": "Fx",
                 "id": "Fx",
@@ -4666,10 +4670,6 @@
                 "win_rate": 0.6267
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0101,
@@ -4686,6 +4686,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.015,
                 "win_rate": 0.4615
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Kornis AIO",
@@ -4710,10 +4714,6 @@
                 "win_rate": 0.4722
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0104,
@@ -4732,6 +4732,10 @@
                 "win_rate": 0.619
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "Healer AIO",
                 "id": "Healer_A.I.O.",
                 "pick_rate": 0.8584,
@@ -4742,10 +4746,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0898,
                 "win_rate": 0.4808
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -4766,14 +4766,14 @@
                 "win_rate": 0.5
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "Kornis AIO",
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.9398,
                 "win_rate": 0.524
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             }
         ],
         "pick_rate": 0.0037,
@@ -4786,6 +4786,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0298,
                 "win_rate": 0.6364
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "IntAIO",
@@ -4818,10 +4822,6 @@
                 "win_rate": 0.6835
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.1348,
@@ -4840,6 +4840,10 @@
                 "win_rate": 0.5
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.8928,
@@ -4850,10 +4854,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0973,
                 "win_rate": 0.6154
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             }
         ],
         "pick_rate": 0.0046,
@@ -4878,6 +4878,10 @@
                 "id": "archer",
                 "pick_rate": 0.0601,
                 "win_rate": 0.6905
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Fx",
@@ -4910,10 +4914,6 @@
                 "win_rate": 0.68
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0029,
@@ -4925,6 +4925,10 @@
     },
     "MonkeyKing": {
         "shards": [
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
             {
                 "name": "IntAIO",
                 "id": "intnner_cn",
@@ -4950,10 +4954,6 @@
                 "win_rate": 0.6129
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0092,
@@ -4976,6 +4976,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0397,
                 "win_rate": 0.5841
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Fx",
@@ -5008,10 +5012,6 @@
                 "win_rate": 0.6024
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.033,
@@ -5028,6 +5028,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0379,
                 "win_rate": 0.6111
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "IntAIO",
@@ -5054,10 +5058,6 @@
                 "win_rate": 0.5439
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0147,
@@ -5082,6 +5082,10 @@
                 "win_rate": 0.5
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "JUST - AIO",
                 "id": "JUST_AIO",
                 "pick_rate": 0.0175,
@@ -5098,10 +5102,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0953,
                 "win_rate": 0.4694
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             }
         ],
         "pick_rate": 0.0063,
@@ -5114,6 +5114,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0123,
                 "win_rate": 0.6
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "IntAIO",
@@ -5138,10 +5142,6 @@
                 "win_rate": 0.6563
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0025,
@@ -5153,6 +5153,10 @@
     },
     "Neeko": {
         "shards": [
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
             {
                 "name": "IntAIO",
                 "id": "intnner_cn",
@@ -5178,10 +5182,6 @@
                 "win_rate": 0.7083
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.003,
@@ -5204,6 +5204,10 @@
                 "id": "cno1_aio",
                 "pick_rate": 0.0355,
                 "win_rate": 0.685
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Fx",
@@ -5236,10 +5240,6 @@
                 "win_rate": 0.5706
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0073,
@@ -5268,6 +5268,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.011,
                 "win_rate": 0.6465
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Fx",
@@ -5300,10 +5304,6 @@
                 "win_rate": 0.6762
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0018,
@@ -5320,6 +5320,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0089,
                 "win_rate": 0.6667
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Fx",
@@ -5370,10 +5374,6 @@
                 "win_rate": 0.6961
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.003,
@@ -5390,6 +5390,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0821,
                 "win_rate": 0.6765
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "IntAIO",
@@ -5420,10 +5424,6 @@
                 "id": "MasterAio"
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0008,
@@ -5442,6 +5442,10 @@
                 "win_rate": 0.3333
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "GG AIO",
                 "id": "GG AIO",
                 "pick_rate": 0.6831,
@@ -5458,10 +5462,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.2746,
                 "win_rate": 0.4359
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             }
         ],
         "pick_rate": 0.0037,
@@ -5474,6 +5474,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.1498,
                 "win_rate": 0.5405
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Hanbot Beasty ",
@@ -5492,10 +5496,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.2227,
                 "win_rate": 0.5636
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             }
         ],
         "pick_rate": 0.0029,
@@ -5503,6 +5503,10 @@
     },
     "Seraphine": {
         "shards": [
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
             {
                 "name": "Healer AIO",
                 "id": "Healer_A.I.O.",
@@ -5514,10 +5518,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.8173,
                 "win_rate": 0.5404
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             }
         ],
         "pick_rate": 0.004,
@@ -5530,6 +5530,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.005,
                 "win_rate": 0.6667
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Fx",
@@ -5556,10 +5560,6 @@
                 "win_rate": 0.7273
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[Viktor]AIO",
                 "id": "[Viktor]Pantheon",
                 "pick_rate": 0.75,
@@ -5578,6 +5578,10 @@
                 "win_rate": 0.6057
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0468,
@@ -5594,10 +5598,6 @@
                 "id": "RXing",
                 "pick_rate": 0.2156,
                 "win_rate": 0.6627
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             }
         ],
         "pick_rate": 0.0096,
@@ -5612,6 +5612,10 @@
                 "win_rate": 0.6273
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0652,
@@ -5622,10 +5626,6 @@
                 "id": "intnner_cn",
                 "pick_rate": 0.0932,
                 "win_rate": 0.5667
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             }
         ],
         "pick_rate": 0.0038,
@@ -5638,6 +5638,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0217,
                 "win_rate": 0.5789
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "GG AIO",
@@ -5668,10 +5672,6 @@
                 "win_rate": 0.5362
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0036,
@@ -5696,6 +5696,10 @@
                 "win_rate": 0.8182
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0309,
@@ -5712,10 +5716,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.88,
                 "win_rate": 0.6973
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             }
         ],
         "pick_rate": 0.0138,
@@ -5730,6 +5730,10 @@
                 "win_rate": 0.5
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0253,
@@ -5740,10 +5744,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.899,
                 "win_rate": 0.5449
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -5764,6 +5764,10 @@
                 "win_rate": 0.5
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.1,
@@ -5774,10 +5778,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.8818,
                 "win_rate": 0.5567
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             }
         ],
         "pick_rate": 0.0013,
@@ -5785,6 +5785,10 @@
     },
     "Rell": {
         "shards": [
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
             {
                 "name": "RXing",
                 "id": "RXing",
@@ -5796,10 +5800,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.4564,
                 "win_rate": 0.5056
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -5820,6 +5820,10 @@
                 "win_rate": 0.3333
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "DemonAIO",
                 "id": "Demon_Aio_",
                 "pick_rate": 0.0975,
@@ -5838,10 +5842,6 @@
                 "win_rate": 0.6078
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[Viktor]AIO",
                 "id": "[Viktor]Renekton",
                 "pick_rate": 0.0654,
@@ -5854,6 +5854,10 @@
     "Rengar": {
         "shards": [
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0477,
@@ -5864,10 +5868,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.227,
                 "win_rate": 0.6031
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -5887,6 +5887,10 @@
     },
     "Ryze": {
         "shards": [
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
             {
                 "name": "Fx",
                 "id": "Fx",
@@ -5910,10 +5914,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.2041,
                 "win_rate": 0.6284
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[Viktor]AIO",
@@ -5942,6 +5942,10 @@
             {
                 "name": "CXJ AIO",
                 "id": "CXJ_AIO"
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "DemonAIO",
@@ -6010,10 +6014,6 @@
                 "win_rate": 0.6778
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[HGVip]AIO",
                 "id": "HuangGuanVipAIO",
                 "pick_rate": 0.1316,
@@ -6038,14 +6038,14 @@
                 "win_rate": 0.5152
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "Kornis AIO",
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.8893,
                 "win_rate": 0.6264
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             }
         ],
         "pick_rate": 0.0037,
@@ -6058,6 +6058,10 @@
                 "id": "archer",
                 "pick_rate": 0.0034,
                 "win_rate": 0.6111
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "GG AIO",
@@ -6096,10 +6100,6 @@
                 "win_rate": 0.6389
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0032,
@@ -6117,6 +6117,10 @@
     },
     "Sett": {
         "shards": [
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
             {
                 "name": "Kiri AIO",
                 "id": "KiriAIO",
@@ -6140,10 +6144,6 @@
                 "win_rate": 0.5894
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[Viktor]AIO",
                 "id": "[Viktor]Sett",
                 "pick_rate": 0.0538,
@@ -6162,14 +6162,14 @@
                 "win_rate": 0.5455
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "GG AIO",
                 "id": "GG AIO",
                 "pick_rate": 0.9061,
                 "win_rate": 0.6025
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -6190,6 +6190,10 @@
                 "win_rate": 0.5
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "Kornis AIO",
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.8017,
@@ -6200,10 +6204,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.1901,
                 "win_rate": 0.587
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             }
         ],
         "pick_rate": 0.003,
@@ -6212,14 +6212,14 @@
     "Singed": {
         "shards": [
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 1,
                 "win_rate": 0.525
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             }
         ],
         "pick_rate": 0.0027,
@@ -6234,14 +6234,14 @@
                 "win_rate": 0.6889
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.1182,
                 "win_rate": 0.6235
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[Viktor]AIO",
@@ -6266,6 +6266,10 @@
                 "id": "archer",
                 "pick_rate": 0.0042,
                 "win_rate": 0.5714
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "IntAIO",
@@ -6298,10 +6302,6 @@
                 "win_rate": 0.6484
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0045,
@@ -6324,6 +6324,10 @@
                 "id": "archer",
                 "pick_rate": 0.0031,
                 "win_rate": 0.7368
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "DemonAIO",
@@ -6380,10 +6384,6 @@
                 "win_rate": 0.6724
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0024,
@@ -6408,14 +6408,14 @@
                 "win_rate": 0.6207
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.2857,
                 "win_rate": 0.5
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -6430,6 +6430,10 @@
     "Sona": {
         "shards": [
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "Healer AIO",
                 "id": "Healer_A.I.O.",
                 "pick_rate": 0.9528,
@@ -6440,10 +6444,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0472,
                 "win_rate": 0.7273
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             }
         ],
         "pick_rate": 0.0029,
@@ -6456,6 +6456,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0135,
                 "win_rate": 0.4
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Fx",
@@ -6488,10 +6492,6 @@
                 "win_rate": 0.6667
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0054,
@@ -6508,6 +6508,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.022,
                 "win_rate": 0.8182
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Fx",
@@ -6540,10 +6544,6 @@
                 "win_rate": 0.6227
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.01,
@@ -6560,6 +6560,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0348,
                 "win_rate": 0.6139
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Fx",
@@ -6584,10 +6588,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.4898,
                 "win_rate": 0.6439
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -6620,6 +6620,10 @@
                 "win_rate": 0.6572
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0367,
@@ -6650,10 +6654,6 @@
                 "win_rate": 0.5777
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0034,
@@ -6672,14 +6672,14 @@
                 "win_rate": 0.7647
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.2036,
                 "win_rate": 0.5373
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[Viktor]AIO",
@@ -6704,6 +6704,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0176,
                 "win_rate": 0.725
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Fx",
@@ -6740,10 +6744,6 @@
                 "win_rate": 0.639
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[HGVip]AIO",
                 "id": "HuangGuanVipAIO",
                 "pick_rate": 0.0343,
@@ -6762,6 +6762,10 @@
                 "win_rate": 0.5957
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0327,
@@ -6778,10 +6782,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.1449,
                 "win_rate": 0.4032
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -6808,6 +6808,10 @@
                 "win_rate": 0.6667
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.1533,
@@ -6826,10 +6830,6 @@
                 "win_rate": 0.2
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0133,
@@ -6846,6 +6846,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.029,
                 "win_rate": 0.6136
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Fx",
@@ -6878,10 +6882,6 @@
                 "win_rate": 0.5484
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0053,
@@ -6898,6 +6898,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0233,
                 "win_rate": 0.5521
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Fx",
@@ -6920,10 +6924,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0209,
                 "win_rate": 0.6096
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -6956,6 +6956,10 @@
                 "win_rate": 0.5263
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "DemonAIO",
                 "id": "Demon_Aio_",
                 "pick_rate": 0.0837,
@@ -6972,10 +6976,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.8623,
                 "win_rate": 0.6754
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             }
         ],
         "pick_rate": 0.0194,
@@ -6983,6 +6983,10 @@
     },
     "TwistedFate": {
         "shards": [
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
             {
                 "name": "Fx",
                 "id": "Fx",
@@ -7014,10 +7018,6 @@
                 "win_rate": 0.6306
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0022,
@@ -7046,6 +7046,10 @@
                 "id": "archer",
                 "pick_rate": 0.0028,
                 "win_rate": 0.5
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Fx",
@@ -7090,10 +7094,6 @@
                 "win_rate": 0.6402
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0024,
@@ -7124,6 +7124,10 @@
                 "win_rate": 0.4615
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0148,
@@ -7140,10 +7144,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.2,
                 "win_rate": 0.4074
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -7164,6 +7164,10 @@
                 "win_rate": 0.3333
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0481,
@@ -7174,10 +7178,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.9409,
                 "win_rate": 0.598
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -7208,6 +7208,10 @@
                 "id": "cno1_aio",
                 "pick_rate": 0.0108,
                 "win_rate": 0.7348
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Fx",
@@ -7270,10 +7274,6 @@
                 "win_rate": 0.6269
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.005,
@@ -7298,6 +7298,10 @@
     "Velkoz": {
         "shards": [
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0353,
@@ -7308,10 +7312,6 @@
                 "id": "hanbot_beasty",
                 "pick_rate": 0.0894,
                 "win_rate": 0.5439
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[HGVip]AIO",
@@ -7336,6 +7336,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0931,
                 "win_rate": 0.5846
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "Fx",
@@ -7366,10 +7370,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0838,
                 "win_rate": 0.6667
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             }
         ],
         "pick_rate": 0.0156,
@@ -7384,8 +7384,8 @@
                 "win_rate": 0.4375
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -7424,6 +7424,10 @@
                 "win_rate": 0.7244
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0071,
@@ -7460,10 +7464,6 @@
                 "win_rate": 0.6792
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0237,
@@ -7476,14 +7476,14 @@
     "Vladimir": {
         "shards": [
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.1163,
                 "win_rate": 0.6211
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[Viktor]AIO",
@@ -7504,6 +7504,10 @@
                 "win_rate": 0.5
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "Kornis AIO",
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.5633,
@@ -7514,10 +7518,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.2707,
                 "win_rate": 0.5484
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -7536,6 +7536,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0586,
                 "win_rate": 0.5647
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "IntAIO",
@@ -7562,10 +7566,6 @@
                 "win_rate": 0.65
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[Viktor]AIO",
                 "id": "[Viktor]XinZhao",
                 "pick_rate": 0.8739,
@@ -7582,6 +7582,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0064,
                 "win_rate": 0.5778
+            },
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
             },
             {
                 "name": "DemonAIO",
@@ -7656,10 +7660,6 @@
                 "win_rate": 0.6568
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0064,
@@ -7690,6 +7690,10 @@
                 "win_rate": 0.6667
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0947,
@@ -7700,10 +7704,6 @@
                 "id": "RXing",
                 "pick_rate": 0.5895,
                 "win_rate": 0.4464
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -7724,6 +7724,10 @@
                 "win_rate": 0.6098
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0104,
@@ -7740,10 +7744,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0215,
                 "win_rate": 0.5364
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[Viktor]AIO",
@@ -7764,6 +7764,10 @@
                 "win_rate": 0.5546
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0765,
@@ -7782,10 +7786,6 @@
                 "win_rate": 0.6343
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0081,
@@ -7797,6 +7797,10 @@
     },
     "Zilean": {
         "shards": [
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
             {
                 "name": "IntAIO",
                 "id": "intnner_cn",
@@ -7816,10 +7820,6 @@
                 "win_rate": 0.6325
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0016,
@@ -7831,6 +7831,10 @@
     },
     "Zoe": {
         "shards": [
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
             {
                 "name": "Fx",
                 "id": "Fx",
@@ -7856,10 +7860,6 @@
                 "win_rate": 0.5652
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
-            },
-            {
                 "name": "[Viktor]AIO",
                 "id": "[Viktor]Zoe",
                 "pick_rate": 0.1667,
@@ -7878,14 +7878,14 @@
                 "win_rate": 0.6552
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "Kornis AIO",
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.9318,
                 "win_rate": 0.5784
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -7899,6 +7899,10 @@
     },
     "Briar": {
         "shards": [
+            {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
             {
                 "name": "Fx",
                 "id": "Fx",
@@ -7916,10 +7920,6 @@
                 "id": "RXing",
                 "pick_rate": 0.4573,
                 "win_rate": 0.5933
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -7944,6 +7944,10 @@
                 "win_rate": 0.5693
             },
             {
+                "name": "CXJ Utility",
+                "id": "CXJ_Utility"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.6307,
@@ -7954,10 +7958,6 @@
                 "id": "RXing",
                 "pick_rate": 0.0303,
                 "win_rate": 0.4611
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "Brian Activator"
             }
         ],
         "pick_rate": 0.0637,
