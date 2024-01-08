@@ -2068,6 +2068,10 @@
                 "win_rate": 0.6264
             },
             {
+                "name": "Fx",
+                "id": "Fx"
+            },
+            {
                 "name": "Hanbot Beasty ",
                 "id": "hanbot_beasty",
                 "pick_rate": 0.0468,
