@@ -2398,6 +2398,10 @@
             {
                 "name": "[BrianSharp] Activator",
                 "id": "BrianActivator"
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             }
         ],
         "pick_rate": 0.0107,
@@ -6146,6 +6150,10 @@
             {
                 "name": "[BrianSharp] Activator",
                 "id": "BrianActivator"
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             },
             {
                 "name": "[Viktor]AIO",
