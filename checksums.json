@@ -11,7 +11,7 @@
         "IntAIO.shard": "c293e1f2a56194c42431aa573393b600",
         "CXJ Utility.shard": "33f060a55b61fea2884f02384572edcd",
         "JUST - AIO.shard": "44a4ce3d50c4a3735dd64979421da1bf",
-        "KleeAIO.shard": "5be95e5d1941a4fc6a781bb93f125921",
+        "KleeAIO.shard": "701097d30c3c9bb31b1ba1d7ed3f9007",
         "CNo1Utility.shard": "bf48b3ae270e44327b4f38dcf108832e",
         "luna-aio.shard": "77c863efcda10344e3cfdf4231e7e7fd",
         "Alexis Activator.shard": "a807845af79737ecbf4d234043feac88",
@@ -38,5 +38,5 @@
         "CXJ AIO.shard": "5b4428cf88183ce5be873905e4222682"
     },
     "bot_5.dll": "e3a6ac8aad548825a90d7162660fabc4",
-    "shards.json": "0b8bbdf911b09ec8df3989a5d6a54f4f"
+    "shards.json": "59d45f7540b662133d7e1762144be07c"
 }
