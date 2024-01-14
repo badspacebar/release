@@ -2,10 +2,6 @@
     "Aatrox": {
         "shards": [
             {
-                "name": "CNo1AIO",
-                "id": "cno1_aio"
-            },
-            {
                 "name": "DemonAIO",
                 "id": "Demon_Aio_"
             },
@@ -753,10 +749,6 @@
     },
     "AurelionSol": {
         "shards": [
-            {
-                "name": "CNo1AIO",
-                "id": "cno1_aio"
-            },
             {
                 "name": "IntAIO",
                 "id": "intnner_cn"
@@ -1813,10 +1805,6 @@
     "RekSai": {
         "shards": [
             {
-                "name": "CNo1AIO",
-                "id": "cno1_aio"
-            },
-            {
                 "name": "IntAIO",
                 "id": "intnner_cn"
             },
@@ -1935,10 +1923,6 @@
             {
                 "name": "Alexis AIO ",
                 "id": "AlexisAIO"
-            },
-            {
-                "name": "CNo1AIO",
-                "id": "cno1_aio"
             },
             {
                 "name": "GG AIO",
@@ -2129,10 +2113,6 @@
     "Jayce": {
         "shards": [
             {
-                "name": "CNo1AIO",
-                "id": "cno1_aio"
-            },
-            {
                 "name": "Fx",
                 "id": "Fx"
             },
@@ -2276,10 +2256,6 @@
     },
     "KSante": {
         "shards": [
-            {
-                "name": "CNo1AIO",
-                "id": "cno1_aio"
-            },
             {
                 "name": "Fx",
                 "id": "Fx"
@@ -3225,10 +3201,6 @@
     "Nidalee": {
         "shards": [
             {
-                "name": "CNo1AIO",
-                "id": "cno1_aio"
-            },
-            {
                 "name": "Fx",
                 "id": "Fx"
             },
@@ -3456,10 +3428,6 @@
     },
     "Naafiri": {
         "shards": [
-            {
-                "name": "CNo1AIO",
-                "id": "cno1_aio"
-            },
             {
                 "name": "Fx",
                 "id": "Fx"
@@ -4417,10 +4385,6 @@
     "Udyr": {
         "shards": [
             {
-                "name": "CNo1AIO",
-                "id": "cno1_aio"
-            },
-            {
                 "name": "IntAIO",
                 "id": "intnner_cn"
             },
@@ -4467,10 +4431,6 @@
             {
                 "name": "ArcherAIO",
                 "id": "archer"
-            },
-            {
-                "name": "CNo1AIO",
-                "id": "cno1_aio"
             },
             {
                 "name": "Fx",
@@ -4603,10 +4563,6 @@
             {
                 "name": "Alexis AIO ",
                 "id": "AlexisAIO"
-            },
-            {
-                "name": "CNo1AIO",
-                "id": "cno1_aio"
             },
             {
                 "name": "Fx",
@@ -4789,10 +4745,6 @@
     "Zed": {
         "shards": [
             {
-                "name": "CNo1AIO",
-                "id": "cno1_aio"
-            },
-            {
                 "name": "Fx",
                 "id": "Fx"
             },
@@ -4916,10 +4868,6 @@
     },
     "Hwei": {
         "shards": [
-            {
-                "name": "CNo1AIO",
-                "id": "cno1_aio"
-            },
             {
                 "name": "CXJ AIO",
                 "id": "CXJ_AIO"
