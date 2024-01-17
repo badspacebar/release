@@ -2557,6 +2557,10 @@
                 "win_rate": 0.6098
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "[HGVip]AIO",
                 "id": "HuangGuanVipAIO",
                 "pick_rate": 0.1456,
