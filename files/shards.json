@@ -1552,6 +1552,10 @@
                 "win_rate": 0.4375
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0534,
@@ -4579,6 +4583,10 @@
                 "id": "KiriAIO",
                 "pick_rate": 0.6483,
                 "win_rate": 0.7131
+            },
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
             },
             {
                 "name": "SA_AIO",
