@@ -5901,7 +5901,12 @@
         "win_rate": 0.7018
     },
     "Smolder": {
-        "shards": []
+        "shards": [
+            {
+                "name": "Fx",
+                "id": "Fx"
+            }
+        ]
     },
     "Tristana": {
         "shards": [
