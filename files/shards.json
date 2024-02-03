@@ -5495,6 +5495,10 @@
     "Rengar": {
         "shards": [
             {
+                "name": "ArcherAIO",
+                "id": "archer"
+            },
+            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0522,
