@@ -10,6 +10,7 @@
         "Hanbot Beasty .shard": "acc760b3b3dc989eb5893d14f54a8e23",
         "IntAIO.shard": "c293e1f2a56194c42431aa573393b600",
         "CXJ Utility.shard": "9697905e6a4b49b44563bd57a0cca1a5",
+        "SP-AIO.shard": "0b8eb9c1e529bb444bf65f47fe76e645",
         "JUST - AIO.shard": "44a4ce3d50c4a3735dd64979421da1bf",
         "Demon_Activator.shard": "b9ae0ea8e103c02fe36c32ab22292f55",
         "KleeAIO.shard": "c93c4bf0c103b29f1798e51f44a2787e",
@@ -39,5 +40,5 @@
         "CXJ AIO.shard": "e0e2e368ab5afdc81b216970520cdd13"
     },
     "bot_5.dll": "64a9f47151544bcd2464551aecde0a36",
-    "shards.json": "dea2307b0b11198675fbc90864320e6c"
+    "shards.json": "c79ba16adc2a6fa3350ad439988477ce"
 }
