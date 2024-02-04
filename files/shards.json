@@ -1308,6 +1308,10 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.6455,
                 "win_rate": 0.5699
+            },
+            {
+                "name": "SP-AIO",
+                "id": "SP-AIO"
             }
         ],
         "pick_rate": 0.0122,
@@ -2589,6 +2593,10 @@
                 "id": "MasterAio"
             },
             {
+                "name": "SP-AIO",
+                "id": "SP-AIO"
+            },
+            {
                 "name": "[HGVip]AIO",
                 "id": "HuangGuanVipAIO",
                 "pick_rate": 0.1456,
@@ -2665,6 +2673,10 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0229,
                 "win_rate": 0.5875
+            },
+            {
+                "name": "SP-AIO",
+                "id": "SP-AIO"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -4329,6 +4341,10 @@
                 "win_rate": 0.7245
             },
             {
+                "name": "SP-AIO",
+                "id": "SP-AIO"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0282,
@@ -5071,6 +5087,10 @@
                 "win_rate": 0.7686
             },
             {
+                "name": "SP-AIO",
+                "id": "SP-AIO"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0216,
@@ -5753,6 +5773,10 @@
                 "win_rate": 0.6721
             },
             {
+                "name": "SP-AIO",
+                "id": "SP-AIO"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0716,
@@ -5965,6 +5989,10 @@
             {
                 "name": "MasterAio",
                 "id": "MasterAio"
+            },
+            {
+                "name": "SP-AIO",
+                "id": "SP-AIO"
             }
         ]
     },
@@ -6875,6 +6903,10 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0208,
                 "win_rate": 0.5647
+            },
+            {
+                "name": "SP-AIO",
+                "id": "SP-AIO"
             },
             {
                 "name": "[BrianSharp] Successfull",
