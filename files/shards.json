@@ -1128,6 +1128,10 @@
                 "id": "HuangGuanVipAIO",
                 "pick_rate": 0.0321,
                 "win_rate": 0.6681
+            },
+            {
+                "name": "[Viktor]AIO",
+                "id": "[Viktor]Ezreal"
             }
         ],
         "pick_rate": 0.2375,
