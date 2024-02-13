@@ -7127,6 +7127,10 @@
     "Vladimir": {
         "shards": [
             {
+                "name": "RXing",
+                "id": "RXing"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.2548,
