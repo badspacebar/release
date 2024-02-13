@@ -2875,6 +2875,10 @@
                 "id": "Brian",
                 "pick_rate": 0.0279,
                 "win_rate": 0.6591
+            },
+            {
+                "name": "[Viktor]AIO",
+                "id": "[Viktor]Jhin"
             }
         ],
         "pick_rate": 0.049,
@@ -7315,6 +7319,10 @@
                 "id": "HuangGuanVipAIO",
                 "pick_rate": 0.1717,
                 "win_rate": 0.5662
+            },
+            {
+                "name": "[Viktor]AIO",
+                "id": "[Viktor]Yasuo"
             }
         ],
         "pick_rate": 0.147,
