@@ -3243,6 +3243,10 @@
                 "win_rate": 0.7
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.0285,
@@ -5983,6 +5987,10 @@
                 "id": "Mage AIO",
                 "pick_rate": 0.0629,
                 "win_rate": 0.7333
+            },
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
             },
             {
                 "name": "SA_AIO",
