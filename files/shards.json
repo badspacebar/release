@@ -1626,6 +1626,10 @@
                 "win_rate": 0.5943
             },
             {
+                "name": "EzAIO",
+                "id": "Ez_AIO"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0291,
@@ -2218,6 +2222,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0248,
                 "win_rate": 0.6136
+            },
+            {
+                "name": "EzAIO",
+                "id": "Ez_AIO"
             },
             {
                 "name": "Fx",
@@ -3469,6 +3477,10 @@
                 "id": "Demon_Aio_",
                 "pick_rate": 0.0218,
                 "win_rate": 0.6587
+            },
+            {
+                "name": "EzAIO",
+                "id": "Ez_AIO"
             },
             {
                 "name": "Fx",
@@ -6801,6 +6813,10 @@
     "TwistedFate": {
         "shards": [
             {
+                "name": "EzAIO",
+                "id": "Ez_AIO"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0782,
@@ -7393,6 +7409,10 @@
                 "id": "Demon_Aio_",
                 "pick_rate": 0.0236,
                 "win_rate": 0.5519
+            },
+            {
+                "name": "EzAIO",
+                "id": "Ez_AIO"
             },
             {
                 "name": "Fx",
