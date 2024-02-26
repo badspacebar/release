@@ -5467,6 +5467,10 @@
                 "win_rate": 0.626
             },
             {
+                "name": "Fx",
+                "id": "Fx"
+            },
+            {
                 "name": "GG AIO",
                 "id": "GG AIO",
                 "pick_rate": 0.0531,
