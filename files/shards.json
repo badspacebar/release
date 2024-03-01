@@ -2671,6 +2671,10 @@
                 "win_rate": 0.6154
             },
             {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            },
+            {
                 "name": "[HGVip]AIO",
                 "id": "HuangGuanVipAIO",
                 "pick_rate": 0.0849,
@@ -7419,6 +7423,10 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0427,
                 "win_rate": 0.5588
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             },
             {
                 "name": "[Viktor]AIO",
