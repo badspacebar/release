@@ -2128,6 +2128,10 @@
                 "id": "intnner_cn",
                 "pick_rate": 0.1402,
                 "win_rate": 0.5676
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             }
         ],
         "pick_rate": 0.0104,
