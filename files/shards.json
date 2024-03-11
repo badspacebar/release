@@ -3857,12 +3857,6 @@
     "Qiyana": {
         "shards": [
             {
-                "name": "CXJ AIO",
-                "id": "CXJ_AIO",
-                "pick_rate": 0.0419,
-                "win_rate": 0.6
-            },
-            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.1605,
@@ -4187,6 +4181,10 @@
                 "id": "archer",
                 "pick_rate": 0.0185,
                 "win_rate": 0.6273
+            },
+            {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
             },
             {
                 "name": "Fx",
