@@ -2258,6 +2258,10 @@
                 "win_rate": 0.6071
             },
             {
+                "name": "DemonAIO",
+                "id": "Demon_Aio_"
+            },
+            {
                 "name": "EzAIO",
                 "id": "Ez_AIO",
                 "pick_rate": 0.0057,
