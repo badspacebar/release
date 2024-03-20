@@ -974,6 +974,10 @@
                 "win_rate": 0.5946
             },
             {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
+            {
                 "name": "DemonAIO",
                 "id": "Demon_Aio_",
                 "pick_rate": 0.0339,
@@ -1638,6 +1642,10 @@
                 "id": "archer",
                 "pick_rate": 0.0101,
                 "win_rate": 0.6849
+            },
+            {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
             },
             {
                 "name": "EzAIO",
@@ -2737,6 +2745,10 @@
                 "win_rate": 0.5217
             },
             {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
+            {
                 "name": "DemonAIO",
                 "id": "Demon_Aio_",
                 "pick_rate": 0.0061,
@@ -3515,6 +3527,10 @@
                 "id": "archer",
                 "pick_rate": 0.0109,
                 "win_rate": 0.6263
+            },
+            {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
             },
             {
                 "name": "DemonAIO",
@@ -6211,6 +6227,10 @@
                 "win_rate": 0.6667
             },
             {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0271,
@@ -7187,6 +7207,10 @@
                 "id": "cno1_aio",
                 "pick_rate": 0.0199,
                 "win_rate": 0.664
+            },
+            {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
             },
             {
                 "name": "Fx",
