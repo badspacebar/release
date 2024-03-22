@@ -7213,6 +7213,10 @@
                 "id": "CXJ_AIO"
             },
             {
+                "name": "EzAIO",
+                "id": "Ez_AIO"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0116,
