@@ -6973,6 +6973,10 @@
     "TwistedFate": {
         "shards": [
             {
+                "name": "DemonAIO",
+                "id": "Demon_Aio_"
+            },
+            {
                 "name": "EzAIO",
                 "id": "Ez_AIO",
                 "pick_rate": 0.011,
