@@ -212,6 +212,10 @@
                 "win_rate": 0.7222
             },
             {
+                "name": "Fatality",
+                "id": "AIO"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0142,
@@ -1078,6 +1082,10 @@
                 "win_rate": 0.7028
             },
             {
+                "name": "Fatality",
+                "id": "AIO"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0251,
@@ -1656,6 +1664,10 @@
                 "id": "Ez_AIO",
                 "pick_rate": 0.0109,
                 "win_rate": 0.557
+            },
+            {
+                "name": "Fatality",
+                "id": "AIO"
             },
             {
                 "name": "Fx",
@@ -2761,6 +2773,10 @@
                 "id": "Demon_Aio_",
                 "pick_rate": 0.0061,
                 "win_rate": 0.5714
+            },
+            {
+                "name": "Fatality",
+                "id": "AIO"
             },
             {
                 "name": "Fx",
@@ -3991,6 +4007,10 @@
                 "win_rate": 0.36
             },
             {
+                "name": "Fatality",
+                "id": "AIO"
+            },
+            {
                 "name": "GG AIO",
                 "id": "GG AIO",
                 "pick_rate": 0.1419,
@@ -4535,6 +4555,10 @@
                 "id": "archer",
                 "pick_rate": 0.0062,
                 "win_rate": 0.7813
+            },
+            {
+                "name": "Fatality",
+                "id": "AIO"
             },
             {
                 "name": "IntAIO",
@@ -6313,6 +6337,10 @@
                 "win_rate": 0.5745
             },
             {
+                "name": "Fatality",
+                "id": "AIO"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.8713,
@@ -7245,6 +7273,10 @@
             {
                 "name": "EzAIO",
                 "id": "Ez_AIO"
+            },
+            {
+                "name": "Fatality",
+                "id": "AIO"
             },
             {
                 "name": "Fx",
