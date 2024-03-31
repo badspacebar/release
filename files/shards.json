@@ -2046,6 +2046,10 @@
                 "win_rate": 0.5
             },
             {
+                "name": "EzAIO",
+                "id": "Ez_AIO"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.5048,
