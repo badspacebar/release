@@ -3719,6 +3719,10 @@
                 "win_rate": 0.4844
             },
             {
+                "name": "Fatality",
+                "id": "Fatality"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0518,
