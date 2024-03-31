@@ -2118,6 +2118,10 @@
                 "win_rate": 0.7119
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.0105,
