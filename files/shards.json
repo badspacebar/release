@@ -6361,6 +6361,10 @@
                 "win_rate": 0.5745
             },
             {
+                "name": "DemonAIO",
+                "id": "Demon_Aio_"
+            },
+            {
                 "name": "Fatality",
                 "id": "Fatality"
             },
