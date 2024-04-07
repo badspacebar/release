@@ -6539,6 +6539,10 @@
                 "win_rate": 1
             },
             {
+                "name": "RXing",
+                "id": "RXing"
+            },
+            {
                 "name": "SP-AIO",
                 "id": "SP-AIO"
             },
