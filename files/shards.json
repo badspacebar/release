@@ -502,6 +502,10 @@
                 "win_rate": 0.6291
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0174,
@@ -5263,6 +5267,10 @@
                 "win_rate": 0.5679
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.0085,
@@ -7509,6 +7517,10 @@
                 "id": "intnner_cn",
                 "pick_rate": 0.0075,
                 "win_rate": 0.5
+            },
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
             },
             {
                 "name": "SA_AIO",
