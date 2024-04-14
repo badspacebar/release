@@ -1020,6 +1020,10 @@
                 "win_rate": 0.7791
             },
             {
+                "name": "Fatality",
+                "id": "Fatality"
+            },
+            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0013,
