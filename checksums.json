@@ -30,7 +30,7 @@
         "[Viktor]AIO.shard": "6919b268057004da4b2b8d4d650a3122",
         "MasterActivator.shard": "11e08f51a74165237cc4b6b1ec486aad",
         "FxActivator.shard": "5d7e9a5ede3a19ed6a9b4f7cefb15d97",
-        "[BrianSharp] Successfull.shard": "a9738208cdec812233f2c3c3ba58f3a5",
+        "[BrianSharp] Successfull.shard": "7531ea278b123b3a9b32fe63986ea7f9",
         "ArcherAIO.shard": "b4b254921d98f05201027ebfe8b979f6",
         "Mage AIO.shard": "ffcdd4476b3823541b9967ad08a06623",
         "Custom Permashow.shard": "a8ae30b95f3a8580dc70fe3887b0e429",
@@ -43,5 +43,5 @@
         "CXJ AIO.shard": "ee0753f18a96e523dd1f69b1f95fe47c"
     },
     "bot_5.dll": "565913bcc8ecb854398bea4c930ed2e1",
-    "shards.json": "d1268ee77a6a133896a79d67ee04bc31"
+    "shards.json": "d02ffb48b69841299a1d251649b317ea"
 }
