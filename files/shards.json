@@ -1844,6 +1844,10 @@
                 "win_rate": 0.4643
             },
             {
+                "name": "DemonAIO",
+                "id": "Demon_Aio_"
+            },
+            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.1361,
