@@ -3369,6 +3369,10 @@
                 "id": "HuangGuanVipAIO",
                 "pick_rate": 0.0721,
                 "win_rate": 0.6628
+            },
+            {
+                "name": "[Viktor]AIO",
+                "id": "[Viktor]Mordekaiser"
             }
         ],
         "pick_rate": 0.0186,
@@ -4213,6 +4217,10 @@
                 "id": "HuangGuanVipAIO",
                 "pick_rate": 0.6726,
                 "win_rate": 0.5616
+            },
+            {
+                "name": "[Viktor]AIO",
+                "id": "[Viktor]Khazix"
             }
         ],
         "pick_rate": 0.0156,
