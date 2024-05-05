@@ -4269,6 +4269,10 @@
                 "win_rate": 0.2857
             },
             {
+                "name": "KleeAIO",
+                "id": "Klee_AIO"
+            },
+            {
                 "name": "MasterAio",
                 "id": "MasterAio",
                 "pick_rate": 0.0519,
