@@ -110,6 +110,10 @@
                 "win_rate": 0.5909
             },
             {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0246,
@@ -302,6 +306,10 @@
                 "win_rate": 0.71
             },
             {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0797,
@@ -378,6 +386,10 @@
                 "id": "JUST_AIO",
                 "pick_rate": 0.004,
                 "win_rate": 0.4
+            },
+            {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
             },
             {
                 "name": "SA_AIO",
@@ -880,6 +892,10 @@
                 "win_rate": 0.7004
             },
             {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.2395,
@@ -980,6 +996,10 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.1292,
                 "win_rate": 0.528
+            },
+            {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
             },
             {
                 "name": "RXing",
@@ -1200,6 +1220,10 @@
                 "win_rate": 0.657
             },
             {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
+            },
+            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.0036,
@@ -1260,6 +1284,10 @@
                 "win_rate": 0.5263
             },
             {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
+            },
+            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.3808,
@@ -1294,6 +1322,10 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.7173,
                 "win_rate": 0.6158
+            },
+            {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -1842,6 +1874,10 @@
                 "win_rate": 0.5804
             },
             {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0429,
@@ -2102,6 +2138,10 @@
                 "win_rate": 0.6957
             },
             {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.4851,
@@ -2148,6 +2188,10 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.1375,
                 "win_rate": 0.6455
+            },
+            {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -2282,6 +2326,10 @@
                 "win_rate": 0.7917
             },
             {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.1975,
@@ -2346,6 +2394,10 @@
                 "id": "MasterAio",
                 "pick_rate": 0.0121,
                 "win_rate": 0.52
+            },
+            {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
             },
             {
                 "name": "RXing",
@@ -2468,6 +2520,10 @@
                 "win_rate": 0.625
             },
             {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
+            },
+            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.0012,
@@ -2496,6 +2552,10 @@
                 "id": "Healer_A.I.O.",
                 "pick_rate": 0.8778,
                 "win_rate": 0.5957
+            },
+            {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
             },
             {
                 "name": "SA_AIO",
@@ -2663,6 +2723,10 @@
                 "win_rate": 0.5641
             },
             {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0024,
@@ -2697,6 +2761,10 @@
                 "id": "Fx",
                 "pick_rate": 0.8784,
                 "win_rate": 0.6353
+            },
+            {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
             },
             {
                 "name": "SA_AIO",
@@ -2763,6 +2831,10 @@
                 "id": "JUST_AIO",
                 "pick_rate": 0.039,
                 "win_rate": 0.7333
+            },
+            {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
             },
             {
                 "name": "SA_AIO",
@@ -2847,6 +2919,10 @@
                 "id": "MasterAio",
                 "pick_rate": 0.0407,
                 "win_rate": 0.6293
+            },
+            {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -2945,6 +3021,10 @@
                 "win_rate": 0.7083
             },
             {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
+            },
+            {
                 "name": "Q-Aio",
                 "id": "Q_Aio"
             },
@@ -2997,6 +3077,10 @@
                 "win_rate": 0.6667
             },
             {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
+            },
+            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.0106,
@@ -3037,6 +3121,10 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.9076,
                 "win_rate": 0.5962
+            },
+            {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
             }
         ],
         "pick_rate": 0.0115,
@@ -3289,6 +3377,10 @@
                 "id": "Healer_A.I.O.",
                 "pick_rate": 0.1525,
                 "win_rate": 0.6
+            },
+            {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
             },
             {
                 "name": "SA_AIO",
@@ -3679,6 +3771,10 @@
                 "win_rate": 0.5776
             },
             {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.2996,
@@ -3821,6 +3917,10 @@
                 "id": "intnner_cn",
                 "pick_rate": 0.0142,
                 "win_rate": 0
+            },
+            {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
             },
             {
                 "name": "RXing",
@@ -4115,6 +4215,10 @@
                 "win_rate": 0.625
             },
             {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.1076,
@@ -4155,6 +4259,10 @@
                 "id": "MasterAio",
                 "pick_rate": 0.1293,
                 "win_rate": 0.5526
+            },
+            {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
             },
             {
                 "name": "SA_AIO",
@@ -4335,6 +4443,10 @@
                 "win_rate": 0.4444
             },
             {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.1243,
@@ -4375,6 +4487,10 @@
                 "id": "Mage AIO",
                 "pick_rate": 0.0873,
                 "win_rate": 0.6261
+            },
+            {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
             },
             {
                 "name": "SA_AIO",
@@ -4805,6 +4921,10 @@
                 "win_rate": 0.6604
             },
             {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
+            },
+            {
                 "name": "Q-Aio",
                 "id": "Q_Aio",
                 "pick_rate": 0.0755,
@@ -4991,6 +5111,10 @@
                 "win_rate": 0.6113
             },
             {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0738,
@@ -5019,6 +5143,10 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.9213,
                 "win_rate": 0.5183
+            },
+            {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
             }
         ],
         "pick_rate": 0.0031,
@@ -5101,6 +5229,10 @@
                 "id": "Fx",
                 "pick_rate": 0.7991,
                 "win_rate": 0.6872
+            },
+            {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
             },
             {
                 "name": "SA_AIO",
@@ -5631,6 +5763,10 @@
                 "win_rate": 0.7191
             },
             {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.6664,
@@ -5769,6 +5905,10 @@
                 "win_rate": 0.6327
             },
             {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.6699,
@@ -5857,6 +5997,10 @@
                 "id": "JUST_AIO",
                 "pick_rate": 0.1033,
                 "win_rate": 0.2857
+            },
+            {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
             },
             {
                 "name": "RXing",
@@ -6041,6 +6185,10 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.8861,
                 "win_rate": 0.4857
+            },
+            {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
             }
         ],
         "pick_rate": 0.0026,
@@ -6379,6 +6527,10 @@
                 "win_rate": 0.7107
             },
             {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0645,
@@ -6461,6 +6613,10 @@
                 "id": "GG AIO",
                 "pick_rate": 0.8629,
                 "win_rate": 0.5233
+            },
+            {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
             },
             {
                 "name": "RXing",
@@ -6669,6 +6825,10 @@
                 "id": "MasterAio",
                 "pick_rate": 0.0337,
                 "win_rate": 0.5375
+            },
+            {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
             },
             {
                 "name": "RXing",
@@ -7051,6 +7211,10 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.7699,
                 "win_rate": 0.6641
+            },
+            {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
             },
             {
                 "name": "SA_AIO",
@@ -7827,6 +7991,10 @@
                 "win_rate": 0.75
             },
             {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0402,
@@ -7843,6 +8011,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0579,
                 "win_rate": 0.4
+            },
+            {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
             },
             {
                 "name": "SP-AIO",
@@ -7947,6 +8119,10 @@
     "Vladimir": {
         "shards": [
             {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
+            },
+            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.0904,
@@ -7981,6 +8157,10 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.6156,
                 "win_rate": 0.5634
+            },
+            {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
             },
             {
                 "name": "SA_AIO",
@@ -8319,6 +8499,10 @@
                 "win_rate": 0.6425
             },
             {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0266,
@@ -8355,6 +8539,10 @@
                 "win_rate": 0.5864
             },
             {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
+            },
+            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.0251,
@@ -8385,6 +8573,10 @@
                 "win_rate": 0.5
             },
             {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
+            },
+            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.3056,
@@ -8413,6 +8605,10 @@
                 "id": "Fx",
                 "pick_rate": 0.6914,
                 "win_rate": 0.6395
+            },
+            {
+                "name": "Pixel-AIO",
+                "id": "Pixel - AIO (beta)"
             },
             {
                 "name": "RXing",
