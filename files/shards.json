@@ -6321,6 +6321,10 @@
     "Ryze": {
         "shards": [
             {
+                "name": "Fatality",
+                "id": "Fatality"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0298,
