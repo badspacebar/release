@@ -4253,10 +4253,6 @@
                 "win_rate": 0.5489
             },
             {
-                "name": "KleeAIO",
-                "id": "Klee_AIO"
-            },
-            {
                 "name": "Kornis AIO",
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.0363,
@@ -6521,10 +6517,6 @@
                 "id": "intnner_cn",
                 "pick_rate": 0.0013,
                 "win_rate": 0.75
-            },
-            {
-                "name": "KleeAIO",
-                "id": "Klee_AIO"
             },
             {
                 "name": "luna-aio",
