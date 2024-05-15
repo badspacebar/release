@@ -4485,12 +4485,6 @@
                 "win_rate": 0.6606
             },
             {
-                "name": "luna-aio",
-                "id": "~ LunaAIO",
-                "pick_rate": 0.0055,
-                "win_rate": 0.4286
-            },
-            {
                 "name": "Mage AIO",
                 "id": "Mage AIO",
                 "pick_rate": 0.0873,
