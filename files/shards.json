@@ -8603,6 +8603,10 @@
                 "id": "RXing",
                 "pick_rate": 0.3056,
                 "win_rate": 0.5109
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             }
         ],
         "pick_rate": 0.0069,
