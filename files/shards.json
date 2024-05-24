@@ -3889,6 +3889,10 @@
                 "win_rate": 0.7806
             },
             {
+                "name": "Q-Aio",
+                "id": "Q_Aio"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0202,
@@ -7711,6 +7715,10 @@
                 "id": "MasterAio",
                 "pick_rate": 0.0315,
                 "win_rate": 0.7313
+            },
+            {
+                "name": "Q-Aio",
+                "id": "Q_Aio"
             },
             {
                 "name": "SA_AIO",
