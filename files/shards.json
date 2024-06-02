@@ -38,10 +38,6 @@
                 "win_rate": 0.625
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0148,
@@ -70,10 +66,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0861,
                 "win_rate": 0.6077
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "RXing",
@@ -116,10 +108,6 @@
                 "id": "JUST_AIO",
                 "pick_rate": 0.0126,
                 "win_rate": 0.6964
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "Pixel-AIO",
@@ -200,10 +188,6 @@
                 "win_rate": 0.567
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0456,
@@ -282,10 +266,6 @@
                 "win_rate": 0.6667
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0101,
@@ -328,10 +308,6 @@
                 "win_rate": 0.7135
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "Pixel-AIO",
                 "id": "Pixel-AIO",
                 "pick_rate": 0.005,
@@ -366,10 +342,6 @@
                 "id": "intnner_cn",
                 "pick_rate": 0.0098,
                 "win_rate": 0.6842
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "SA_AIO",
@@ -420,10 +392,6 @@
                 "win_rate": 0.3333
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "Pixel-AIO",
                 "id": "Pixel-AIO",
                 "pick_rate": 0.0067,
@@ -466,10 +434,6 @@
                 "win_rate": 0.5635
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.0148,
@@ -504,10 +468,6 @@
                 "id": "JUST_AIO",
                 "pick_rate": 0.046,
                 "win_rate": 0.5122
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "RXing",
@@ -574,10 +534,6 @@
                 "id": "MasterAio",
                 "pick_rate": 0.0104,
                 "win_rate": 0.5556
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -650,10 +606,6 @@
                 "id": "MasterAio",
                 "pick_rate": 0.0183,
                 "win_rate": 0.6329
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "RXing",
@@ -734,10 +686,6 @@
                 "win_rate": 0.6689
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "Q-Aio",
                 "id": "Q_Aio",
                 "pick_rate": 0.0257,
@@ -816,10 +764,6 @@
                 "win_rate": 0.75
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0624,
@@ -862,10 +806,6 @@
                 "win_rate": 0.6712
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0184,
@@ -902,10 +842,6 @@
                 "win_rate": 0.6637
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0211,
@@ -928,10 +864,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.935,
                 "win_rate": 0.4927
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -974,10 +906,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.7936,
                 "win_rate": 0.6995
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "Pixel-AIO",
@@ -1034,10 +962,6 @@
                 "win_rate": 0.6
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.0062,
@@ -1090,10 +1014,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.0554,
                 "win_rate": 0.615
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "Pixel-AIO",
@@ -1196,10 +1116,6 @@
                 "id": "MasterAio",
                 "pick_rate": 0.0087,
                 "win_rate": 0.6703
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "Q-Aio",
@@ -1328,10 +1244,6 @@
                 "win_rate": 0.642
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "Pixel-AIO",
                 "id": "Pixel-AIO",
                 "pick_rate": 0.0024,
@@ -1398,10 +1310,6 @@
                 "win_rate": 0.4497
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "Pixel-AIO",
                 "id": "Pixel-AIO",
                 "pick_rate": 0.0196,
@@ -1442,10 +1350,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.7445,
                 "win_rate": 0.641
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "Pixel-AIO",
@@ -1490,10 +1394,6 @@
                 "win_rate": 0.5674
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.0845,
@@ -1516,10 +1416,6 @@
                 "id": "Healer_A.I.O.",
                 "pick_rate": 0.9614,
                 "win_rate": 0.5856
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "RXing",
@@ -1552,10 +1448,6 @@
                 "win_rate": 0.6456
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.0084,
@@ -1578,10 +1470,6 @@
                 "id": "intnner_cn",
                 "pick_rate": 0.1366,
                 "win_rate": 0.5072
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "RXing",
@@ -1674,10 +1562,6 @@
                 "win_rate": 0.55
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.001,
@@ -1730,10 +1614,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.628,
                 "win_rate": 0.6302
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "SA_AIO",
@@ -1790,10 +1670,6 @@
                 "win_rate": 0.6892
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0129,
@@ -1816,10 +1692,6 @@
                 "id": "Healer_A.I.O.",
                 "pick_rate": 0.9503,
                 "win_rate": 0.6679
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "SA_AIO",
@@ -1892,10 +1764,6 @@
                 "id": "MasterAio",
                 "pick_rate": 0.0083,
                 "win_rate": 0.55
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "SA_AIO",
@@ -2012,10 +1880,6 @@
                 "win_rate": 0.6667
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0231,
@@ -2050,10 +1914,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.2191,
                 "win_rate": 0.6935
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "Pixel-AIO",
@@ -2098,10 +1958,6 @@
                 "win_rate": 0.5625
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.1438,
@@ -2142,10 +1998,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.7266,
                 "win_rate": 0.6183
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "SA_AIO",
@@ -2212,10 +2064,6 @@
                 "id": "MasterAio",
                 "pick_rate": 0.0038,
                 "win_rate": 0.7813
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "SA_AIO",
@@ -2290,10 +2138,6 @@
                 "win_rate": 0.5714
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0102,
@@ -2348,10 +2192,6 @@
                 "win_rate": 0.6836
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "Pixel-AIO",
                 "id": "Pixel-AIO",
                 "pick_rate": 0.0049,
@@ -2404,10 +2244,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.1019,
                 "win_rate": 0.6287
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "Pixel-AIO",
@@ -2476,10 +2312,6 @@
                 "win_rate": 0.7239
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.0063,
@@ -2522,10 +2354,6 @@
                 "win_rate": 0.6237
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "[Viktor]AIO",
                 "id": "[Viktor]Kled",
                 "pick_rate": 0.8422,
@@ -2554,10 +2382,6 @@
                 "id": "intnner_cn",
                 "pick_rate": 0.3103,
                 "win_rate": 0.5948
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "Pixel-AIO",
@@ -2630,10 +2454,6 @@
                 "id": "MasterAio",
                 "pick_rate": 0.0084,
                 "win_rate": 0.72
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "Pixel-AIO",
@@ -2762,10 +2582,6 @@
                 "win_rate": 0.6842
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "Pixel-AIO",
                 "id": "Pixel-AIO",
                 "pick_rate": 0.0012,
@@ -2802,10 +2618,6 @@
                 "win_rate": 0.5665
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "Pixel-AIO",
                 "id": "Pixel-AIO",
                 "pick_rate": 0.0126,
@@ -2828,12 +2640,7 @@
         "win_rate": 0.5582
     },
     "Fiddlesticks": {
-        "shards": [
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            }
-        ]
+        "shards": []
     },
     "Kayn": {
         "shards": [
@@ -2854,10 +2661,6 @@
                 "id": "MasterAio",
                 "pick_rate": 0.0718,
                 "win_rate": 0.6034
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "RXing",
@@ -2918,10 +2721,6 @@
                 "id": "MasterAio",
                 "pick_rate": 0.1448,
                 "win_rate": 0.686
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "SA_AIO",
@@ -2990,10 +2789,6 @@
                 "win_rate": 0.7069
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "Pixel-AIO",
                 "id": "Pixel-AIO",
                 "pick_rate": 0.0018,
@@ -3036,10 +2831,6 @@
                 "win_rate": 0.5191
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "Pixel-AIO",
                 "id": "Pixel-AIO",
                 "pick_rate": 0.0652,
@@ -3076,10 +2867,6 @@
                 "win_rate": 0.3
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.6318,
@@ -3114,10 +2901,6 @@
                 "id": "JUST_AIO",
                 "pick_rate": 0.2179,
                 "win_rate": 0.6369
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "Pixel-AIO",
@@ -3168,10 +2951,6 @@
                 "win_rate": 0.875
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.0436,
@@ -3212,10 +2991,6 @@
                 "id": "MasterAio",
                 "pick_rate": 0.0507,
                 "win_rate": 0.6016
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "Pixel-AIO",
@@ -3320,10 +3095,6 @@
                 "win_rate": 0.642
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "Pixel-AIO",
                 "id": "Pixel-AIO",
                 "pick_rate": 0.0013,
@@ -3384,10 +3155,6 @@
                 "win_rate": 0.5172
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "Pixel-AIO",
                 "id": "Pixel-AIO",
                 "pick_rate": 0.0014,
@@ -3436,10 +3203,6 @@
                 "win_rate": 0.6442
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "Pixel-AIO",
                 "id": "Pixel-AIO",
                 "pick_rate": 0.0234,
@@ -3468,10 +3231,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.0966,
                 "win_rate": 0.6316
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "SA_AIO",
@@ -3546,10 +3305,6 @@
                 "win_rate": 0.6554
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0494,
@@ -3592,10 +3347,6 @@
                 "win_rate": 0.6851
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0485,
@@ -3636,10 +3387,6 @@
                 "id": "MasterAio",
                 "pick_rate": 0.0508,
                 "win_rate": 0.6522
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "RXing",
@@ -3694,10 +3441,6 @@
                 "win_rate": 0.4615
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.147,
@@ -3720,10 +3463,6 @@
                 "id": "Healer_A.I.O.",
                 "pick_rate": 0.0849,
                 "win_rate": 0.6832
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "Pixel-AIO",
@@ -3760,10 +3499,6 @@
                 "id": "~ LunaAIO",
                 "pick_rate": 0.2672,
                 "win_rate": 0.6332
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "RXing",
@@ -3818,10 +3553,6 @@
                 "id": "~ LunaAIO",
                 "pick_rate": 0.0949,
                 "win_rate": 0.5871
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "SA_AIO",
@@ -3932,10 +3663,6 @@
                 "win_rate": 0.6024
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.0019,
@@ -4002,10 +3729,6 @@
                 "win_rate": 0.6258
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.004,
@@ -4052,10 +3775,6 @@
                 "id": "MasterAio",
                 "pick_rate": 0.01,
                 "win_rate": 0.6237
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -4112,10 +3831,6 @@
                 "win_rate": 0.6563
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.1247,
@@ -4150,10 +3865,6 @@
                 "id": "Mage AIO",
                 "pick_rate": 0.4384,
                 "win_rate": 0.6241
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "Pixel-AIO",
@@ -4264,10 +3975,6 @@
                 "win_rate": 0.6787
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "Q-Aio",
                 "id": "Q_Aio",
                 "pick_rate": 0.0212,
@@ -4314,10 +4021,6 @@
                 "id": "intnner_cn",
                 "pick_rate": 0.0212,
                 "win_rate": 0.5
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "Pixel-AIO",
@@ -4410,10 +4113,6 @@
                 "win_rate": 0.6718
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "Pixel-AIO",
                 "id": "Pixel-AIO",
                 "pick_rate": 0.003,
@@ -4486,10 +4185,6 @@
                 "win_rate": 0.5885
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0599,
@@ -4524,10 +4219,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.6991,
                 "win_rate": 0.5762
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "SA_AIO",
@@ -4584,10 +4275,6 @@
                 "win_rate": 0.7647
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0918,
@@ -4642,10 +4329,6 @@
                 "win_rate": 0.5388
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "Pixel-AIO",
                 "id": "Pixel-AIO",
                 "pick_rate": 0.0072,
@@ -4698,10 +4381,6 @@
                 "id": "MasterAio",
                 "pick_rate": 0.0449,
                 "win_rate": 0.582
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "Pixel-AIO",
@@ -4762,10 +4441,6 @@
                 "id": "intnner_cn",
                 "pick_rate": 0.0188,
                 "win_rate": 0.5476
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "RXing",
@@ -4846,10 +4521,6 @@
                 "win_rate": 0.7
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.0026,
@@ -4898,10 +4569,6 @@
                 "win_rate": 0.6667
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "Pixel-AIO",
                 "id": "Pixel-AIO",
                 "pick_rate": 0.0084,
@@ -4942,10 +4609,6 @@
                 "id": "Mage AIO",
                 "pick_rate": 0.0492,
                 "win_rate": 0.6224
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "Pixel-AIO",
@@ -5012,10 +4675,6 @@
                 "id": "MasterAio",
                 "pick_rate": 0.0112,
                 "win_rate": 0.5872
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "SA_AIO",
@@ -5102,10 +4761,6 @@
                 "win_rate": 0.625
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "Q-Aio",
                 "id": "Q_Aio",
                 "pick_rate": 0.214,
@@ -5172,10 +4827,6 @@
                 "win_rate": 0.625
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0721,
@@ -5228,10 +4879,6 @@
                 "id": "MasterAio",
                 "pick_rate": 0.1213,
                 "win_rate": 0.5175
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "RXing",
@@ -5324,10 +4971,6 @@
                 "win_rate": 0.6093
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0042,
@@ -5406,10 +5049,6 @@
                 "win_rate": 0.6726
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "Pixel-AIO",
                 "id": "Pixel-AIO",
                 "pick_rate": 0.0022,
@@ -5470,10 +5109,6 @@
                 "win_rate": 0.6315
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.1306,
@@ -5528,10 +5163,6 @@
                 "win_rate": 0.5793
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.003,
@@ -5580,10 +5211,6 @@
                 "win_rate": 0.5
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.0133,
@@ -5626,10 +5253,6 @@
                 "win_rate": 0.5513
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "Pixel-AIO",
                 "id": "Pixel-AIO",
                 "pick_rate": 0.0032,
@@ -5664,10 +5287,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.9588,
                 "win_rate": 0.5153
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "Pixel-AIO",
@@ -5730,10 +5349,6 @@
                 "win_rate": 0.6875
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.075,
@@ -5762,10 +5377,6 @@
                 "id": "Fx",
                 "pick_rate": 0.8583,
                 "win_rate": 0.592
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "Pixel-AIO",
@@ -5834,10 +5445,6 @@
                 "win_rate": 0.6574
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0436,
@@ -5866,10 +5473,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.6982,
                 "win_rate": 0.7009
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "RXing",
@@ -5938,10 +5541,6 @@
                 "win_rate": 0.6558
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0898,
@@ -5990,10 +5589,6 @@
                 "win_rate": 0.4375
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.036,
@@ -6034,10 +5629,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.7525,
                 "win_rate": 0.5156
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "SA_AIO",
@@ -6082,10 +5673,6 @@
                 "win_rate": 0.6476
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0647,
@@ -6114,10 +5701,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.7754,
                 "win_rate": 0.6343
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "RXing",
@@ -6178,10 +5761,6 @@
                 "id": "MasterAio",
                 "pick_rate": 0.0123,
                 "win_rate": 0.5248
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "RXing",
@@ -6268,10 +5847,6 @@
                 "win_rate": 0.68
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0196,
@@ -6336,10 +5911,6 @@
                 "id": "MasterAio",
                 "pick_rate": 0.1094,
                 "win_rate": 0.6971
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "Pixel-AIO",
@@ -6408,10 +5979,6 @@
                 "win_rate": 0.7254
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.1059,
@@ -6434,10 +6001,6 @@
                 "id": "GG AIO",
                 "pick_rate": 0.9424,
                 "win_rate": 0.5981
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "RXing",
@@ -6476,10 +6039,6 @@
                 "win_rate": 0.5553
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.3204,
@@ -6496,10 +6055,6 @@
                 "id": "Healer_A.I.O.",
                 "pick_rate": 0.1574,
                 "win_rate": 0.5758
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "Pixel-AIO",
@@ -6550,10 +6105,6 @@
                 "win_rate": 0.6647
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.1638,
@@ -6602,10 +6153,6 @@
                 "win_rate": 0.4444
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "Pixel-AIO",
                 "id": "Pixel-AIO",
                 "pick_rate": 0.0206,
@@ -6640,10 +6187,6 @@
                 "id": "intnner_cn",
                 "pick_rate": 0.2496,
                 "win_rate": 0.6403
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             }
         ],
         "pick_rate": 0.0036,
@@ -6692,10 +6235,6 @@
                 "id": "MasterAio",
                 "pick_rate": 0.0034,
                 "win_rate": 0.4333
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "SA_AIO",
@@ -6750,10 +6289,6 @@
                 "id": "MasterAio",
                 "pick_rate": 0.1551,
                 "win_rate": 0.6919
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             }
         ],
         "pick_rate": 0.0162,
@@ -6778,10 +6313,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.6902,
                 "win_rate": 0.5333
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -6814,10 +6345,6 @@
                 "win_rate": 0.5405
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "Pixel-AIO",
                 "id": "Pixel-AIO",
                 "pick_rate": 0.0046,
@@ -6829,10 +6356,6 @@
     },
     "Rell": {
         "shards": [
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
             {
                 "name": "RXing",
                 "id": "RXing",
@@ -6880,10 +6403,6 @@
                 "id": "MasterAio",
                 "pick_rate": 0.0536,
                 "win_rate": 0.6053
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "SA_AIO",
@@ -6934,10 +6453,6 @@
                 "win_rate": 0.5786
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.0054,
@@ -6984,10 +6499,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.1713,
                 "win_rate": 0.6677
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "SA_AIO",
@@ -7092,10 +6603,6 @@
                 "win_rate": 0.6841
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.0056,
@@ -7142,10 +6649,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.8448,
                 "win_rate": 0.6372
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             }
         ],
         "pick_rate": 0.0033,
@@ -7188,10 +6691,6 @@
                 "id": "MasterAio",
                 "pick_rate": 0.0361,
                 "win_rate": 0.7368
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "Pixel-AIO",
@@ -7248,10 +6747,6 @@
                 "win_rate": 0.5947
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "RXing",
                 "id": "RXing"
             },
@@ -7292,10 +6787,6 @@
                 "win_rate": 0.5569
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "Pixel-AIO",
                 "id": "Pixel-AIO",
                 "pick_rate": 0.0049,
@@ -7332,10 +6823,6 @@
                 "win_rate": 0.5556
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.047,
@@ -7360,10 +6847,6 @@
                 "win_rate": 0.5127
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.3089,
@@ -7386,10 +6869,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0522,
                 "win_rate": 0.6964
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "SA_AIO",
@@ -7464,10 +6943,6 @@
                 "win_rate": 0.7339
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "Q-Aio",
                 "id": "Q_Aio",
                 "pick_rate": 0.056,
@@ -7526,10 +7001,6 @@
                 "id": "MasterAio",
                 "pick_rate": 0.0151,
                 "win_rate": 0.6761
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "Pixel-AIO",
@@ -7628,10 +7099,6 @@
                 "win_rate": 0.681
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.002,
@@ -7686,10 +7153,6 @@
                 "win_rate": 0.5
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.1956,
@@ -7724,10 +7187,6 @@
                 "id": "MasterAio",
                 "pick_rate": 0.014,
                 "win_rate": 0.6667
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "SA_AIO",
@@ -7784,10 +7243,6 @@
                 "win_rate": 0.5981
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0438,
@@ -7840,10 +7295,6 @@
                 "win_rate": 0.5405
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0929,
@@ -7884,10 +7335,6 @@
                 "id": "MasterAio",
                 "pick_rate": 0.0113,
                 "win_rate": 0.5495
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "SA_AIO",
@@ -7950,10 +7397,6 @@
                 "win_rate": 0.6727
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "Pixel-AIO",
                 "id": "Pixel-AIO",
                 "pick_rate": 0.0031,
@@ -7988,10 +7431,6 @@
                 "id": "intnner_cn",
                 "pick_rate": 0.2559,
                 "win_rate": 0.5926
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "[Viktor]AIO",
@@ -8048,10 +7487,6 @@
                 "win_rate": 0.6061
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.0092,
@@ -8094,10 +7529,6 @@
                 "win_rate": 0.623
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.1016,
@@ -8138,10 +7569,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.6766,
                 "win_rate": 0.5659
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "SA_AIO",
@@ -8190,10 +7617,6 @@
                 "id": "MasterAio",
                 "pick_rate": 0.0694,
                 "win_rate": 0.5894
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "RXing",
@@ -8256,10 +7679,6 @@
                 "win_rate": 0.6324
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0183,
@@ -8312,10 +7731,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.8466,
                 "win_rate": 0.6881
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             }
         ],
         "pick_rate": 0.0189,
@@ -8370,10 +7785,6 @@
                 "id": "MasterAio",
                 "pick_rate": 0.0328,
                 "win_rate": 0.6154
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "RXing",
@@ -8466,10 +7877,6 @@
                 "win_rate": 0.7398
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "Q-Aio",
                 "id": "Q_Aio",
                 "pick_rate": 0.0206,
@@ -8524,10 +7931,6 @@
                 "win_rate": 0.4167
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0311,
@@ -8562,10 +7965,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.7921,
                 "win_rate": 0.6521
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -8688,10 +8087,6 @@
                 "win_rate": 0.7206
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.0002,
@@ -8744,10 +8139,6 @@
                 "id": "hanbot_beasty",
                 "pick_rate": 0.0222,
                 "win_rate": 0.6531
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "[HGVip]AIO",
@@ -8804,10 +8195,6 @@
                 "win_rate": 0.566
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "Pixel-AIO",
                 "id": "Pixel-AIO",
                 "pick_rate": 0.0078,
@@ -8830,10 +8217,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0167,
                 "win_rate": 0.5789
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "Pixel-AIO",
@@ -8926,10 +8309,6 @@
                 "win_rate": 0.6119
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0631,
@@ -8947,10 +8326,6 @@
     },
     "Vladimir": {
         "shards": [
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
             {
                 "name": "Pixel-AIO",
                 "id": "Pixel-AIO",
@@ -8992,10 +8367,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.4974,
                 "win_rate": 0.5502
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "Pixel-AIO",
@@ -9044,10 +8415,6 @@
                 "id": "MasterAio",
                 "pick_rate": 0.1244,
                 "win_rate": 0.6868
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "SA_AIO",
@@ -9156,10 +8523,6 @@
                 "win_rate": 0.6193
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.002,
@@ -9214,10 +8577,6 @@
                 "win_rate": 0.4737
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.0714,
@@ -9252,10 +8611,6 @@
                 "id": "GG AIO",
                 "pick_rate": 0.4093,
                 "win_rate": 0.6242
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "SA_AIO",
@@ -9294,10 +8649,6 @@
                 "win_rate": 0.4375
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.5925,
@@ -9326,10 +8677,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.637,
                 "win_rate": 0.6156
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "SA_AIO",
@@ -9366,10 +8713,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.1872,
                 "win_rate": 0.5772
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "Pixel-AIO",
@@ -9414,10 +8757,6 @@
                 "win_rate": 0.64
             },
             {
-                "name": "Moon Utility",
-                "id": "moon_utility"
-            },
-            {
                 "name": "Pixel-AIO",
                 "id": "Pixel-AIO",
                 "pick_rate": 0.0091,
@@ -9452,10 +8791,6 @@
                 "id": "Klee_AIO",
                 "pick_rate": 0.0382,
                 "win_rate": 0.3636
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "Pixel-AIO",
@@ -9498,10 +8833,6 @@
                 "id": "Fx",
                 "pick_rate": 0.7837,
                 "win_rate": 0.641
-            },
-            {
-                "name": "Moon Utility",
-                "id": "moon_utility"
             },
             {
                 "name": "Pixel-AIO",
