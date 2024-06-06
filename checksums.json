@@ -20,7 +20,7 @@
         "luna-aio.shard": "ce06e036de8c6350dcb01ea164a35080",
         "KleeUtils.shard": "4f19490653a293219af1cb014b00b878",
         "Q-Aio.shard": "89bcd1d8348aa50f4d0b54e91e44c917",
-        "Fx.shard": "183e2c8ad98cc4b580194c6788c8f643",
+        "Fx.shard": "ec5b2ec43a19c72b2905aef4fb24d9c6",
         "SA_AIO.shard": "e9293338c1c0bb8b483ac1b111793eb5",
         "Fatality.shard": "8a193f55e585aa00efa168e0e08d0ec7",
         "FxTracker.shard": "a3deb4999dd42a44dd7d65447ffd375b",
@@ -45,5 +45,5 @@
         "CXJ AIO.shard": "781519d283e1ff6806e8ed92458e81fb"
     },
     "bot_5.dll": "08edb1b813f6125ceb993e90143e378c",
-    "shards.json": "f65abf8b2265d38701809753e006157e"
+    "shards.json": "6181f7c7ee912749344c41fe293b3473"
 }
