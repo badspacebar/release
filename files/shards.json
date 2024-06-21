@@ -7783,6 +7783,10 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.8466,
                 "win_rate": 0.6881
+            },
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
             }
         ],
         "pick_rate": 0.0189,
