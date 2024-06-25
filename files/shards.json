@@ -1412,6 +1412,10 @@
                 "win_rate": 0.3333
             },
             {
+                "name": "Fx",
+                "id": "Fx"
+            },
+            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0567,
@@ -8505,6 +8509,10 @@
                 "win_rate": 0.5714
             },
             {
+                "name": "Fx",
+                "id": "Fx"
+            },
+            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0052,
@@ -8786,6 +8794,10 @@
     },
     "Zilean": {
         "shards": [
+            {
+                "name": "Fx",
+                "id": "Fx"
+            },
             {
                 "name": "IntAIO",
                 "id": "intnner_cn",
