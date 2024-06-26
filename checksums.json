@@ -29,7 +29,7 @@
         "[HGVip]AIO.shard": "0d1a5a8b0e7a1634d2d1494ffb18cc6b",
         "[HGPro]AIO.shard": "77d921c7e11b085677579eb0378b3164",
         "Alexis Auth.shard": "99a8e417a099bfb8ee9e59dfa600eeef",
-        "[Viktor]AIO.shard": "ff51a09a14cd73ab379761cc533199e6",
+        "[Viktor]AIO.shard": "221237ffb12c38702d359f2c52a8cbb0",
         "MasterActivator.shard": "df85c38c0728a1be21c1aed5e1d5e1a6",
         "FxActivator.shard": "96996dd97d7604ed66f7cf4b1e178bb8",
         "[BrianSharp] Successfull.shard": "beadc93ebf332625b35aad8deea47517",
@@ -45,5 +45,5 @@
         "CXJ AIO.shard": "00f4a7ece42f455c62fa84216449367f"
     },
     "bot_5.dll": "c570d1414cb79d10d6ebe48e870c3925",
-    "shards.json": "68d6d324eb1c958d629a1ab6eb13d1c5"
+    "shards.json": "436fdabaeeb6fbbf35ee07d206086791"
 }
