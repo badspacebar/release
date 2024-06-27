@@ -612,6 +612,10 @@
                 "win_rate": 0.4444
             },
             {
+                "name": "KleeAIO",
+                "id": "Klee_AIO"
+            },
+            {
                 "name": "luna-aio",
                 "id": "~ LunaAIO",
                 "pick_rate": 0.0616,
