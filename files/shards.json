@@ -862,6 +862,10 @@
                 "win_rate": 0.7273
             },
             {
+                "name": "Fx",
+                "id": "Fx"
+            },
+            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0304,
@@ -5669,6 +5673,10 @@
                 "win_rate": 0.7895
             },
             {
+                "name": "Fx",
+                "id": "Fx"
+            },
+            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0883,
@@ -6905,6 +6913,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.012,
                 "win_rate": 0.3
+            },
+            {
+                "name": "Fx",
+                "id": "Fx"
             },
             {
                 "name": "GG AIO",
