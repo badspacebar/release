@@ -3751,6 +3751,10 @@
                 "win_rate": 0.7079
             },
             {
+                "name": "Pixel-AIO",
+                "id": "Pixel-AIO"
+            },
+            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.0004,
