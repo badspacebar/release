@@ -2458,6 +2458,10 @@
                 "win_rate": 0.75
             },
             {
+                "name": "Fx",
+                "id": "Fx"
+            },
+            {
                 "name": "Healer AIO",
                 "id": "Healer_A.I.O.",
                 "pick_rate": 0.6159,
@@ -6067,6 +6071,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0211,
                 "win_rate": 0.5135
+            },
+            {
+                "name": "Fx",
+                "id": "Fx"
             },
             {
                 "name": "IntAIO",
