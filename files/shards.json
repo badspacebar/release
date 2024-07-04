@@ -5085,6 +5085,10 @@
                 "win_rate": 0.5862
             },
             {
+                "name": "Pixel-AIO",
+                "id": "Pixel-AIO"
+            },
+            {
                 "name": "Q-Aio",
                 "id": "Q_Aio"
             },
