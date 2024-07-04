@@ -5591,6 +5591,10 @@
     "MonkeyKing": {
         "shards": [
             {
+                "name": "Fx",
+                "id": "Fx"
+            },
+            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0084,
@@ -5749,6 +5753,10 @@
                 "id": "CXJ_AIO",
                 "pick_rate": 0.0442,
                 "win_rate": 0.6053
+            },
+            {
+                "name": "Fx",
+                "id": "Fx"
             },
             {
                 "name": "JUST - AIO",
