@@ -6475,6 +6475,10 @@
                 "id": "MasterAio",
                 "pick_rate": 0.0636,
                 "win_rate": 0.6838
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             }
         ],
         "pick_rate": 0.0153,
