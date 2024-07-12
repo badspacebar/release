@@ -6559,6 +6559,10 @@
     "Rell": {
         "shards": [
             {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
+            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.8782,
