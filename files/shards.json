@@ -938,6 +938,10 @@
                 "win_rate": 0.5
             },
             {
+                "name": "Fx",
+                "id": "Fx"
+            },
+            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0018,
@@ -1479,6 +1483,10 @@
     },
     "Ivern": {
         "shards": [
+            {
+                "name": "Fx",
+                "id": "Fx"
+            },
             {
                 "name": "Healer AIO",
                 "id": "Healer_A.I.O.",
