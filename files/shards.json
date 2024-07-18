@@ -5085,6 +5085,10 @@
             {
                 "name": "RXing",
                 "id": "RXing"
+            },
+            {
+                "name": "SP-AIO",
+                "id": "SP-AIO"
             }
         ]
     },
