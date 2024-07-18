@@ -5064,6 +5064,30 @@
         "pick_rate": 0.0106,
         "win_rate": 0.5976
     },
+    "Aurora": {
+        "shards": [
+            {
+                "name": "Fatality",
+                "id": "Fatality"
+            },
+            {
+                "name": "Fx",
+                "id": "Fx"
+            },
+            {
+                "name": "KleeAIO",
+                "id": "Klee_AIO"
+            },
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
+                "name": "RXing",
+                "id": "RXing"
+            }
+        ]
+    },
     "Lucian": {
         "shards": [
             {
