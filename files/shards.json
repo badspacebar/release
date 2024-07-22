@@ -6429,6 +6429,10 @@
                 "id": "RXing",
                 "pick_rate": 0.0954,
                 "win_rate": 0.6053
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             }
         ],
         "pick_rate": 0.0082,
