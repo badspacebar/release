@@ -3385,6 +3385,10 @@
                 "id": "Pixel-AIO",
                 "pick_rate": 0.1633,
                 "win_rate": 0.6364
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             }
         ],
         "pick_rate": 0.0109,
@@ -7047,6 +7051,10 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.9641,
                 "win_rate": 0.6132
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             }
         ],
         "pick_rate": 0.0045,
