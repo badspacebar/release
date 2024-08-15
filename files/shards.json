@@ -8707,6 +8707,10 @@
                 "win_rate": 0.5
             },
             {
+                "name": "Fx",
+                "id": "Fx"
+            },
+            {
                 "name": "Pixel-AIO",
                 "id": "Pixel-AIO",
                 "pick_rate": 0.0253,
