@@ -6817,6 +6817,10 @@
                 "win_rate": 0.5977
             },
             {
+                "name": "Fx",
+                "id": "Fx"
+            },
+            {
                 "name": "Kornis AIO",
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.5106,
