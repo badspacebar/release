@@ -438,6 +438,10 @@
     "Galio": {
         "shards": [
             {
+                "name": "Fx",
+                "id": "Fx"
+            },
+            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0535,
@@ -4463,6 +4467,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0163,
                 "win_rate": 0.5556
+            },
+            {
+                "name": "Fx",
+                "id": "Fx"
             },
             {
                 "name": "IntAIO",
