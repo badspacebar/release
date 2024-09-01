@@ -1122,6 +1122,10 @@
                 "win_rate": 1
             },
             {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            },
+            {
                 "name": "[HGPro]AIO",
                 "id": "[HGPro]AIO",
                 "pick_rate": 0.2646,
