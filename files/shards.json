@@ -2843,6 +2843,10 @@
                 "win_rate": 0
             },
             {
+                "name": "Fx",
+                "id": "Fx"
+            },
+            {
                 "name": "JUST - AIO",
                 "id": "JUST_AIO",
                 "pick_rate": 0.0036,
@@ -6813,6 +6817,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0108,
                 "win_rate": 1
+            },
+            {
+                "name": "Fx",
+                "id": "Fx"
             },
             {
                 "name": "IntAIO",
