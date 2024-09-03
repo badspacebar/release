@@ -2152,6 +2152,10 @@
                 "win_rate": 0.5897
             },
             {
+                "name": "Fx",
+                "id": "Fx"
+            },
+            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0389,
@@ -5581,6 +5585,10 @@
                 "id": "CXJ_AIO",
                 "pick_rate": 0.0334,
                 "win_rate": 0.4103
+            },
+            {
+                "name": "Fx",
+                "id": "Fx"
             },
             {
                 "name": "Kornis AIO",
