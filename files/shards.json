@@ -1548,6 +1548,10 @@
                 "id": "RXing",
                 "pick_rate": 0.234,
                 "win_rate": 0.5909
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             }
         ],
         "pick_rate": 0.0021,
@@ -6859,6 +6863,10 @@
                 "id": "Pixel-AIO",
                 "pick_rate": 0.0108,
                 "win_rate": 1
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             }
         ],
         "pick_rate": 0.0012,
