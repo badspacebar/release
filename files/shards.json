@@ -3075,6 +3075,10 @@
                 "win_rate": 0.5968
             },
             {
+                "name": "Fx",
+                "id": "Fx"
+            },
+            {
                 "name": "JUST - AIO",
                 "id": "JUST_AIO",
                 "pick_rate": 0.1582,
