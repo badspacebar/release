@@ -6771,6 +6771,10 @@
                 "id": "MasterAio",
                 "pick_rate": 0.0325,
                 "win_rate": 0.625
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             }
         ],
         "pick_rate": 0.0106,
@@ -8109,6 +8113,10 @@
                 "id": "intnner_cn",
                 "pick_rate": 0.0729,
                 "win_rate": 0.5287
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             },
             {
                 "name": "[Viktor]AIO",
