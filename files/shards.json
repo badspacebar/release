@@ -7077,6 +7077,10 @@
                 "win_rate": 0.8
             },
             {
+                "name": "Fx",
+                "id": "Fx"
+            },
+            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0063,
@@ -7400,6 +7404,10 @@
     },
     "Sett": {
         "shards": [
+            {
+                "name": "Fx",
+                "id": "Fx"
+            },
             {
                 "name": "Kiri AIO",
                 "id": "KiriAIO",
