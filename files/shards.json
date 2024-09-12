@@ -5577,6 +5577,10 @@
                 "win_rate": 0.6469
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.1108,
@@ -5871,6 +5875,10 @@
                 "win_rate": 0.6136
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "Pixel-AIO",
                 "id": "Pixel-AIO",
                 "pick_rate": 0.0841,
@@ -6047,6 +6055,10 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.4507,
                 "win_rate": 0.6528
+            },
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
             },
             {
                 "name": "SA_AIO",
