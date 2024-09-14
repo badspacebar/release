@@ -2434,6 +2434,10 @@
                 "win_rate": 0.6104
             },
             {
+                "name": "RXing",
+                "id": "RXing"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.3169,
@@ -7167,6 +7171,10 @@
                 "id": "MasterAio",
                 "pick_rate": 0.0024,
                 "win_rate": 0.8333
+            },
+            {
+                "name": "RXing",
+                "id": "RXing"
             },
             {
                 "name": "SA_AIO",
