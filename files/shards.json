@@ -9159,6 +9159,10 @@
                 "win_rate": 0.7733
             },
             {
+                "name": "Pixel-AIO",
+                "id": "Pixel-AIO"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0336,
