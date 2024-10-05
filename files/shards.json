@@ -788,6 +788,10 @@
                 "win_rate": 1
             },
             {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
+            {
                 "name": "DemonAIO",
                 "id": "Demon_Aio_",
                 "pick_rate": 0.0027,
@@ -6285,6 +6289,10 @@
     "Neeko": {
         "shards": [
             {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
+            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0361,
@@ -6547,6 +6555,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0044,
                 "win_rate": 0.7778
+            },
+            {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
             },
             {
                 "name": "Fx",
