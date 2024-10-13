@@ -742,6 +742,10 @@
                 "win_rate": 0.6861
             },
             {
+                "name": "luna-aio",
+                "id": "~ LunaAIO"
+            },
+            {
                 "name": "Mage AIO",
                 "id": "Mage AIO",
                 "pick_rate": 0.0039,
@@ -3025,6 +3029,10 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.1698,
                 "win_rate": 0.6042
+            },
+            {
+                "name": "luna-aio",
+                "id": "~ LunaAIO"
             },
             {
                 "name": "MasterAio",
@@ -5661,6 +5669,10 @@
                 "win_rate": 0.6469
             },
             {
+                "name": "luna-aio",
+                "id": "~ LunaAIO"
+            },
+            {
                 "name": "MasterAio",
                 "id": "MasterAio"
             },
@@ -6477,6 +6489,10 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.0823,
                 "win_rate": 0.7021
+            },
+            {
+                "name": "luna-aio",
+                "id": "~ LunaAIO"
             },
             {
                 "name": "MasterAio",
@@ -8471,6 +8487,10 @@
                 "win_rate": 0.6125
             },
             {
+                "name": "luna-aio",
+                "id": "~ LunaAIO"
+            },
+            {
                 "name": "MasterAio",
                 "id": "MasterAio",
                 "pick_rate": 0.0131,
@@ -9335,6 +9355,10 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.0536,
                 "win_rate": 0.6104
+            },
+            {
+                "name": "luna-aio",
+                "id": "~ LunaAIO"
             },
             {
                 "name": "MasterAio",
