@@ -3374,7 +3374,7 @@
             },
             {
                 "name": "CSX AIO",
-                "id": "~ CSX AIO"
+                "id": "~ c ~ dev"
             },
             {
                 "name": "CXJ AIO",
@@ -4331,6 +4331,10 @@
                 "id": "archer",
                 "pick_rate": 0.0016,
                 "win_rate": 0.4615
+            },
+            {
+                "name": "CSX AIO",
+                "id": "~ c ~ dev"
             },
             {
                 "name": "CXJ AIO",
