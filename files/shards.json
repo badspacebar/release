@@ -1369,9 +1369,7 @@
             },
             {
                 "name": "DanZAIO",
-                "id": "DanZAIO",
-                "pick_rate": 0.0008,
-                "win_rate": 0.5
+                "id": "DanZAIOtest"
             },
             {
                 "name": "DemonAIO",
@@ -8662,9 +8660,7 @@
             },
             {
                 "name": "DanZAIO",
-                "id": "DanZAIO",
-                "pick_rate": 0.0012,
-                "win_rate": 0.625
+                "id": "DanZAIOtest"
             },
             {
                 "name": "Fx",
