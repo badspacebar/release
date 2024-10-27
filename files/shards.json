@@ -80,6 +80,10 @@
                 "win_rate": 0.5948
             },
             {
+                "name": "Pixel-AIO",
+                "id": "Pixel-AIO"
+            },
+            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.0124,
@@ -684,6 +688,10 @@
                 "win_rate": 0.5821
             },
             {
+                "name": "Pixel-AIO",
+                "id": "Pixel-AIO"
+            },
+            {
                 "name": "Q-Aio",
                 "id": "Q_Aio",
                 "pick_rate": 0.0034,
@@ -1132,6 +1140,10 @@
                 "id": "MasterAio",
                 "pick_rate": 0.0626,
                 "win_rate": 0.5551
+            },
+            {
+                "name": "Pixel-AIO",
+                "id": "Pixel-AIO"
             },
             {
                 "name": "Q-Aio",
@@ -2160,6 +2172,10 @@
                 "id": "MasterAio",
                 "pick_rate": 0.0133,
                 "win_rate": 0.6305
+            },
+            {
+                "name": "Pixel-AIO",
+                "id": "Pixel-AIO"
             },
             {
                 "name": "Q-Aio",
@@ -4477,6 +4493,10 @@
                 "win_rate": 0.7013
             },
             {
+                "name": "Pixel-AIO",
+                "id": "Pixel-AIO"
+            },
+            {
                 "name": "Q-Aio",
                 "id": "Q_Aio",
                 "pick_rate": 0.0648,
@@ -5315,6 +5335,10 @@
                 "id": "MasterAio",
                 "pick_rate": 0.0117,
                 "win_rate": 0.5455
+            },
+            {
+                "name": "Pixel-AIO",
+                "id": "Pixel-AIO"
             },
             {
                 "name": "Q-Aio",
@@ -8973,6 +8997,10 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.0284,
                 "win_rate": 0.5
+            },
+            {
+                "name": "Pixel-AIO",
+                "id": "Pixel-AIO"
             },
             {
                 "name": "SA_AIO",
