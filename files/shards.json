@@ -1218,12 +1218,6 @@
                 "win_rate": 0.5377
             },
             {
-                "name": "RXing",
-                "id": "RXing",
-                "pick_rate": 0.0022,
-                "win_rate": 0.6667
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0066,
@@ -9169,12 +9163,6 @@
                 "win_rate": 0.6613
             },
             {
-                "name": "RXing",
-                "id": "RXing",
-                "pick_rate": 0.0005,
-                "win_rate": 0.8333
-            },
-            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0276,
@@ -9669,12 +9657,6 @@
                 "id": "Pixel-AIO",
                 "pick_rate": 0.0235,
                 "win_rate": 0.5262
-            },
-            {
-                "name": "RXing",
-                "id": "RXing",
-                "pick_rate": 0.0014,
-                "win_rate": 0.6316
             },
             {
                 "name": "SA_AIO",
