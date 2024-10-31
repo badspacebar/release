@@ -5,7 +5,7 @@
         "[Viktor]Utility.shard": "95659eecd7801d62ea633e87a35ae70f",
         "GG AIO.shard": "9a9991b2a192ba40703b8f5fe64363ea",
         "CNo1Smite.shard": "4df3aafffe02f991a499f5744e10c0bc",
-        "CNo1AIO.shard": "eae073de66329657a2a4131b47401948",
+        "CNo1AIO.shard": "4fa26b8b2fa6c13ef99a8e2908e9d928",
         "Healer AIO.shard": "e03518d78971fe9a9c3f04d931014ef6",
         "Kornis AIO.shard": "fe45d10253a34089120576c7795a4842",
         "Hanbot Beasty .shard": "acc760b3b3dc989eb5893d14f54a8e23",
@@ -48,5 +48,5 @@
         "CXJ AIO.shard": "d8ec079ee37432e4f725bdf70b01d250"
     },
     "bot_5.dll": "0c65162495113242d190178f604d289e",
-    "shards.json": "81ea1ab73844f8aba811ec5130ec7788"
+    "shards.json": "69c1e1307a7657e4e85e7573160c27fa"
 }
