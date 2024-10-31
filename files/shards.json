@@ -8915,6 +8915,10 @@
                 "win_rate": 0.5755
             },
             {
+                "name": "CSX AIO",
+                "id": "~ CSX AIO"
+            },
+            {
                 "name": "EzAIO",
                 "id": "Ez_AIO",
                 "pick_rate": 0.0002,
