@@ -2678,6 +2678,10 @@
                 "win_rate": 0.5505
             },
             {
+                "name": "Pixel-AIO",
+                "id": "Pixel-AIO"
+            },
+            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.0022,
@@ -3066,6 +3070,10 @@
                 "id": "MasterAio",
                 "pick_rate": 0.1114,
                 "win_rate": 0.6146
+            },
+            {
+                "name": "Pixel-AIO",
+                "id": "Pixel-AIO"
             },
             {
                 "name": "SA_AIO",
@@ -5274,6 +5282,10 @@
                 "win_rate": 0.6253
             },
             {
+                "name": "Pixel-AIO",
+                "id": "Pixel-AIO"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0252,
@@ -7322,6 +7334,10 @@
                 "id": "Fx"
             },
             {
+                "name": "Pixel-AIO",
+                "id": "Pixel-AIO"
+            },
+            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.7593,
@@ -7860,6 +7876,10 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.5254,
                 "win_rate": 0.6364
+            },
+            {
+                "name": "Pixel-AIO",
+                "id": "Pixel-AIO"
             },
             {
                 "name": "SA_AIO",
@@ -9242,6 +9262,10 @@
                 "id": "MasterAio",
                 "pick_rate": 0.0575,
                 "win_rate": 0.6613
+            },
+            {
+                "name": "Pixel-AIO",
+                "id": "Pixel-AIO"
             },
             {
                 "name": "SA_AIO",
