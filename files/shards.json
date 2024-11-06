@@ -3044,6 +3044,10 @@
                 "win_rate": 0.7143
             },
             {
+                "name": "DanZAIO",
+                "id": "DanZAIO"
+            },
+            {
                 "name": "DemonAIO",
                 "id": "Demon_Aio_",
                 "pick_rate": 0.0155,
