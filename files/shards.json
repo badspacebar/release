@@ -10158,6 +10158,10 @@
             {
                 "name": "KleeAIO",
                 "id": "Klee_AIO"
+            },
+            {
+                "name": "RXing",
+                "id": "RXing"
             }
         ]
     }
