@@ -10688,6 +10688,10 @@
     "Ambessa": {
         "shards": [
             {
+                "name": "Fx",
+                "id": "Fx"
+            },
+            {
                 "name": "KleeAIO",
                 "id": "Klee_AIO"
             }
