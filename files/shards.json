@@ -94,6 +94,10 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.6788,
                 "win_rate": 0.5554
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             }
         ],
         "pick_rate": 0.0088,
