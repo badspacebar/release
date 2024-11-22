@@ -1100,10 +1100,6 @@
                 "win_rate": 0.8182
             },
             {
-                "name": "CNo1AIO",
-                "id": "cno1_aio"
-            },
-            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.1407,
