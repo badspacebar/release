@@ -2414,6 +2414,10 @@
                 "win_rate": 0.6349
             },
             {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0819,
