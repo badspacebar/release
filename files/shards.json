@@ -4810,12 +4810,6 @@
                 "win_rate": 0.6157
             },
             {
-                "name": "MasterAio",
-                "id": "MasterAio",
-                "pick_rate": 0.0286,
-                "win_rate": 0.6538
-            },
-            {
                 "name": "Pixel-AIO",
                 "id": "Pixel-AIO",
                 "pick_rate": 0.0009,
