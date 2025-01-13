@@ -1838,6 +1838,10 @@
                 "win_rate": 0.5857
             },
             {
+                "name": "Q-Aio",
+                "id": "Q_Aio"
+            },
+            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.0384,
@@ -7240,6 +7244,10 @@
                 "id": "MasterAio",
                 "pick_rate": 0.0071,
                 "win_rate": 0.5
+            },
+            {
+                "name": "Q-Aio",
+                "id": "Q_Aio"
             },
             {
                 "name": "SA_AIO",
