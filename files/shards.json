@@ -10394,5 +10394,25 @@
         ],
         "pick_rate": 0.0366,
         "win_rate": 0.6203
+    },
+    "Mel": {
+        "shards": [
+            {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
+            {
+                "name": "Fx",
+                "id": "Fx"
+            },
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
+                "name": "Q-Aio",
+                "id": "Q_Aio"
+            }
+        ]
     }
 }
