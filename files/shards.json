@@ -10334,6 +10334,10 @@
                 "id": "RXing",
                 "pick_rate": 0.0077,
                 "win_rate": 0.4773
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             }
         ],
         "pick_rate": 0.0428,
@@ -10412,6 +10416,10 @@
             {
                 "name": "Q-Aio",
                 "id": "Q_Aio"
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             }
         ]
     }
