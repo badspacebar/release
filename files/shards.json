@@ -5486,12 +5486,6 @@
                 "win_rate": 0.6658
             },
             {
-                "name": "DanZAIO",
-                "id": "DanZAIO",
-                "pick_rate": 0.0006,
-                "win_rate": 0
-            },
-            {
                 "name": "Fatality",
                 "id": "Fatality",
                 "pick_rate": 0.0009,
@@ -10160,12 +10154,6 @@
                 "id": "cno1_aio",
                 "pick_rate": 0.0483,
                 "win_rate": 0.6454
-            },
-            {
-                "name": "DanZAIO",
-                "id": "DanZAIO",
-                "pick_rate": 0.0024,
-                "win_rate": 0.6786
             },
             {
                 "name": "Fx",
