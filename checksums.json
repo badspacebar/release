@@ -16,7 +16,7 @@
         "Demon_Activator.shard": "5b7bbba53a5393492ccfad6a231f8fec",
         "Moon Utility.shard": "ce8b2ad14f7d1a8cec426fa4c484c683",
         "luna-utils.shard": "10879a55fb7ca89d5490c94c23ec2757",
-        "KleeAIO.shard": "56e5fcd5c1db9d60a726458859cc8c4e",
+        "KleeAIO.shard": "8e4ce55f834ea353a1d47fa2b4a35e93",
         "CNo1Utility.shard": "76ae627bb823b9de856e65f2e77b2abe",
         "FxLib.shard": "1dec1eefd96cb9fdb9c2e9f39d4b45a1",
         "luna-aio.shard": "53148685d270dd0de86ce3a9a944477c",
@@ -49,5 +49,5 @@
         "CXJ AIO.shard": "c54c53d755e6e2042abc6cc27a325930"
     },
     "bot_5.dll": "433c8318e029eb4636aaa050655e1aa3",
-    "shards.json": "72dc5a9a04490b0c02344be4aba70082"
+    "shards.json": "1ff04ddd36fa38a97f197a61dc98c57b"
 }
