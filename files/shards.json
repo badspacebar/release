@@ -5898,6 +5898,10 @@
                 "win_rate": 0.6732
             },
             {
+                "name": "DanZAIO",
+                "id": "DanZAIO"
+            },
+            {
                 "name": "Fatality",
                 "id": "Fatality",
                 "pick_rate": 0.0045,
