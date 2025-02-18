@@ -10414,12 +10414,6 @@
     "Hwei": {
         "shards": [
             {
-                "name": "CNo1AIO",
-                "id": "cno1_aio",
-                "pick_rate": 0.0081,
-                "win_rate": 0.6122
-            },
-            {
                 "name": "CXJ AIO",
                 "id": "CXJ_AIO",
                 "pick_rate": 0.3767,
