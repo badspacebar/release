@@ -1974,6 +1974,10 @@
                 "win_rate": 0.7059
             },
             {
+                "name": "EzAIO",
+                "id": "Ez_AIO"
+            },
+            {
                 "name": "Fatality",
                 "id": "Fatality",
                 "pick_rate": 0.0007,
