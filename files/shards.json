@@ -3064,6 +3064,10 @@
                 "win_rate": 0.6333
             },
             {
+                "name": "Q-Aio",
+                "id": "Q_Aio"
+            },
+            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.0012,
