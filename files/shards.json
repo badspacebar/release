@@ -3092,6 +3092,10 @@
     "Ekko": {
         "shards": [
             {
+                "name": "Fx",
+                "id": "Fx"
+            },
+            {
                 "name": "Healer AIO",
                 "id": "Healer_A.I.O.",
                 "pick_rate": 0.4977,
