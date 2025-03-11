@@ -656,12 +656,6 @@
                 "win_rate": 0.6038
             },
             {
-                "name": "DanZAIO",
-                "id": "DanZAIO",
-                "pick_rate": 0.0012,
-                "win_rate": 0.4545
-            },
-            {
                 "name": "EzAIO",
                 "id": "Ez_AIO",
                 "pick_rate": 0.0019,
@@ -2164,6 +2158,10 @@
                 "win_rate": 0.6678
             },
             {
+                "name": "DanZAIO",
+                "id": "DanZAIO"
+            },
+            {
                 "name": "DemonAIO",
                 "id": "DS - AIO",
                 "pick_rate": 0.0035,
@@ -3212,10 +3210,6 @@
                 "id": "CXJ_AIO",
                 "pick_rate": 0.0455,
                 "win_rate": 0.5248
-            },
-            {
-                "name": "DanZAIO",
-                "id": "DanZAIO"
             },
             {
                 "name": "Fx",
