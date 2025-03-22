@@ -25,7 +25,7 @@
         "NG-Utility.shard": "c05732e02370b112aab506c3492dd10c",
         "KleeUtils.shard": "e3592e854deba442f84f5b398778fe24",
         "Q-Aio.shard": "dd78cc038a7dc402d5afd5c60f872db6",
-        "Fx.shard": "d1d2c39367ce1761d2f3845c45370973",
+        "Fx.shard": "20cfd6fdde35ef7867d58972b21936da",
         "SA_AIO.shard": "e9293338c1c0bb8b483ac1b111793eb5",
         "Fatality.shard": "29877052fc0383776a5286a3369ffb9e",
         "FxTracker.shard": "e2a0eeb8a0711b49c003ae5c2ca0bc26",
@@ -51,5 +51,5 @@
         "CXJ AIO.shard": "d24ca3a52ec0036e412117e419827c13"
     },
     "bot_5.dll": "57adbd91c39741814f2360e2cd9f2ee2",
-    "shards.json": "d20f7d94c14171799322cb5c6383f0e4"
+    "shards.json": "09578ca294c565783c1b2994b98928e6"
 }
