@@ -1194,6 +1194,10 @@
                 "win_rate": 0.6478
             },
             {
+                "name": "ws",
+                "id": "WS"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.064,
@@ -1512,6 +1516,10 @@
                 "id": "SP-AIO",
                 "pick_rate": 0.0009,
                 "win_rate": 0.7143
+            },
+            {
+                "name": "ws",
+                "id": "WS"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -5574,6 +5582,10 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.021,
                 "win_rate": 0.6982
+            },
+            {
+                "name": "ws",
+                "id": "WS"
             },
             {
                 "name": "[BrianSharp] Successfull",
