@@ -6962,6 +6962,10 @@
                 "win_rate": 0.7258
             },
             {
+                "name": "Q-Aio",
+                "id": "Q_Aio"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.1866,
@@ -9884,6 +9888,10 @@
                 "id": "Pixel-AIO",
                 "pick_rate": 0.0017,
                 "win_rate": 0.6923
+            },
+            {
+                "name": "Q-Aio",
+                "id": "Q_Aio"
             },
             {
                 "name": "SA_AIO",
