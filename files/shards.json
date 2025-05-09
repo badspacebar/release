@@ -92,10 +92,16 @@
                 "win_rate": 0.5
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.005,
                 "win_rate": 1
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -218,10 +224,16 @@
                 "win_rate": 0.619
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0014,
                 "win_rate": 0.5
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -500,10 +512,16 @@
                 "win_rate": 0.623
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0239,
                 "win_rate": 0.6429
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -554,10 +572,16 @@
                 "win_rate": 0.6667
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0087,
                 "win_rate": 0.6
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -728,10 +752,16 @@
                 "win_rate": 0.6154
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0003,
                 "win_rate": 1
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -986,10 +1016,16 @@
                 "win_rate": 0.6
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0017,
                 "win_rate": 0.6667
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -1190,10 +1226,16 @@
                 "win_rate": 0.6712
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.015,
                 "win_rate": 0.6833
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -1520,10 +1562,16 @@
                 "win_rate": 0.6379
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.004,
                 "win_rate": 0.6512
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -1598,10 +1646,16 @@
                 "win_rate": 0.25
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.2,
                 "win_rate": 0.5
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -1694,10 +1748,16 @@
                 "win_rate": 0.6016
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0142,
                 "win_rate": 0.6923
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -1724,10 +1784,16 @@
                 "win_rate": 0.6316
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0654,
                 "win_rate": 0.6
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -1766,10 +1832,16 @@
                 "win_rate": 0.6731
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0176,
                 "win_rate": 0.75
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -1802,10 +1874,16 @@
                 "win_rate": 0.5455
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0093,
                 "win_rate": 0.5
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -1910,10 +1988,16 @@
                 "win_rate": 0.6832
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0031,
                 "win_rate": 0.7143
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -2288,10 +2372,16 @@
                 "win_rate": 0.6316
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0007,
                 "win_rate": 0.8
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -2684,10 +2774,16 @@
                 "win_rate": 0.6629
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0036,
                 "win_rate": 0.5
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -2810,10 +2906,16 @@
                 "win_rate": 0.537
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0014,
                 "win_rate": 0.25
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -2978,10 +3080,16 @@
                 "win_rate": 0.6429
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0046,
                 "win_rate": 0.5217
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -3122,10 +3230,16 @@
                 "win_rate": 0.6613
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0001,
                 "win_rate": 0
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -3626,10 +3740,16 @@
                 "win_rate": 0.4
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0119,
                 "win_rate": 0.8333
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -3848,10 +3968,16 @@
                 "win_rate": 0.5
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.022,
                 "win_rate": 0.7206
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SP-AIO",
@@ -4028,10 +4154,16 @@
                 "win_rate": 0.6479
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0006,
                 "win_rate": 0.3333
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -4136,10 +4268,16 @@
                 "win_rate": 0.4667
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0194,
                 "win_rate": 0.4643
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -4274,10 +4412,16 @@
                 "win_rate": 0.5128
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0061,
                 "win_rate": 0.7778
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -4340,10 +4484,16 @@
                 "win_rate": 0.6667
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0029,
                 "win_rate": 0.6667
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -4460,10 +4610,16 @@
                 "win_rate": 0.7404
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0011,
                 "win_rate": 0.3333
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -4538,10 +4694,16 @@
                 "win_rate": 0.8148
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0148,
                 "win_rate": 0.5789
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -4592,10 +4754,16 @@
                 "win_rate": 0.7681
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0086,
                 "win_rate": 0.6842
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -4844,10 +5012,16 @@
                 "win_rate": 0.7238
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0005,
                 "win_rate": 0.8
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -4904,10 +5078,16 @@
                 "win_rate": 0.7778
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0022,
                 "win_rate": 0
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -5006,10 +5186,16 @@
                 "win_rate": 0.6762
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.002,
                 "win_rate": 0.375
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -5174,10 +5360,16 @@
                 "win_rate": 0.6552
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0035,
                 "win_rate": 0.75
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -5300,10 +5492,16 @@
                 "win_rate": 0.5909
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0073,
                 "win_rate": 0.7143
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -5396,10 +5594,16 @@
                 "win_rate": 0.7955
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0016,
                 "win_rate": 0.8
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -5816,6 +6020,10 @@
                 "win_rate": 0.5
             },
             {
+                "name": "Reborn",
+                "id": "RXing"
+            },
+            {
                 "name": "Rxing",
                 "id": "RXing"
             },
@@ -5880,10 +6088,16 @@
                 "win_rate": 0.25
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0142,
                 "win_rate": 0.2
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SP-AIO",
@@ -6228,10 +6442,16 @@
                 "win_rate": 0.6941
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.004,
                 "win_rate": 0.6154
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -6288,10 +6508,16 @@
                 "win_rate": 0.6111
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0299,
                 "win_rate": 0.6071
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -6618,10 +6844,16 @@
                 "win_rate": 0.5667
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.06,
                 "win_rate": 0.6429
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -6798,10 +7030,16 @@
                 "win_rate": 0.6923
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0221,
                 "win_rate": 0.6154
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -6900,10 +7138,16 @@
                 "win_rate": 0.5611
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0349,
                 "win_rate": 0.6923
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -6972,10 +7216,16 @@
                 "win_rate": 0.5238
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0035,
                 "win_rate": 0.3333
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -7260,10 +7510,16 @@
                 "win_rate": 0.732
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0063,
                 "win_rate": 0.8333
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -7308,10 +7564,16 @@
                 "win_rate": 0.5
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0076,
                 "win_rate": 0.5
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -7482,10 +7744,16 @@
                 "win_rate": 0.6957
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0569,
                 "win_rate": 0.6277
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -7770,10 +8038,16 @@
                 "win_rate": 0.6364
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.2779,
                 "win_rate": 0.6463
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -7878,10 +8152,16 @@
                 "win_rate": 0.6538
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0258,
                 "win_rate": 0.5714
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -7932,10 +8212,16 @@
                 "win_rate": 0.6098
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0036,
                 "win_rate": 0.5556
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -8058,10 +8344,16 @@
                 "win_rate": 0.6147
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0014,
                 "win_rate": 0.5714
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -8232,10 +8524,16 @@
                 "win_rate": 0.68
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0571,
                 "win_rate": 0.8654
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -8286,10 +8584,16 @@
                 "win_rate": 0.5
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0061,
                 "win_rate": 0.6667
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -8526,10 +8830,16 @@
                 "win_rate": 0
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.001,
                 "win_rate": 0.5
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SP-AIO",
@@ -8634,10 +8944,16 @@
                 "win_rate": 0.7385
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0005,
                 "win_rate": 1
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -8694,10 +9010,16 @@
                 "win_rate": 0
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0288,
                 "win_rate": 0.3333
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SP-AIO",
@@ -9090,10 +9412,16 @@
                 "win_rate": 0.75
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0097,
                 "win_rate": 0.6875
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -9246,10 +9574,16 @@
                 "win_rate": 0.6
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0034,
                 "win_rate": 0.75
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -9438,10 +9772,16 @@
                 "win_rate": 0.6531
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0038,
                 "win_rate": 0.5455
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -10086,10 +10426,16 @@
                 "win_rate": 0.5847
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0444,
                 "win_rate": 0.5
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -10200,10 +10546,16 @@
                 "win_rate": 0.654
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0022,
                 "win_rate": 0.4
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -10386,10 +10738,16 @@
                 "win_rate": 0.3333
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0459,
                 "win_rate": 0.8
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -10614,10 +10972,16 @@
                 "win_rate": 0.75
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0079,
                 "win_rate": 0.4286
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -10656,10 +11020,16 @@
                 "win_rate": 0.5385
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0513,
                 "win_rate": 0.8333
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -10698,10 +11068,16 @@
                 "win_rate": 0.6
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0062,
                 "win_rate": 0.5714
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SA_AIO",
@@ -10758,10 +11134,16 @@
                 "win_rate": 0.5625
             },
             {
-                "name": "Rxing",
+                "name": "Reborn",
                 "id": "RXing",
                 "pick_rate": 0.0024,
                 "win_rate": 0.3333
+            },
+            {
+                "name": "Rxing",
+                "id": "RXing",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "SP-AIO",
