@@ -7350,6 +7350,10 @@
                 "win_rate": 0.56
             },
             {
+                "name": "Reborn",
+                "id": "Reborn"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.1123,
@@ -10232,6 +10236,10 @@
                 "id": "Pixel-AIO",
                 "pick_rate": 0.0359,
                 "win_rate": 0.5769
+            },
+            {
+                "name": "Reborn",
+                "id": "Reborn"
             },
             {
                 "name": "SA_AIO",
