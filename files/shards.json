@@ -918,6 +918,10 @@
                 "win_rate": 0.75
             },
             {
+                "name": "Reborn",
+                "id": "Reborn"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0523,
@@ -2134,6 +2138,10 @@
                 "id": "MasterAio",
                 "pick_rate": 0.0688,
                 "win_rate": 0.6859
+            },
+            {
+                "name": "Reborn",
+                "id": "Reborn"
             },
             {
                 "name": "SA_AIO",
@@ -3354,6 +3362,10 @@
                 "id": "MasterAio",
                 "pick_rate": 0.1039,
                 "win_rate": 0.6721
+            },
+            {
+                "name": "Reborn",
+                "id": "Reborn"
             },
             {
                 "name": "SA_AIO",
