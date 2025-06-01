@@ -4493,7 +4493,9 @@
             },
             {
                 "name": "NG-AIO",
-                "id": "NG AIO"
+                "id": "GG AIO",
+                "pick_rate": null,
+                "win_rate": null
             },
             {
                 "name": "Pixel-AIO",
@@ -5037,9 +5039,7 @@
             },
             {
                 "name": "NG-AIO",
-                "id": "NG AIO",
-                "pick_rate": 0.0347,
-                "win_rate": 0.7018
+                "id": "GG AIO"
             },
             {
                 "name": "Pixel-AIO",
