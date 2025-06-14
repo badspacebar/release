@@ -5648,12 +5648,6 @@
                 "win_rate": 0.5303
             },
             {
-                "name": "Reborn",
-                "id": "Reborn",
-                "pick_rate": 0.003,
-                "win_rate": 0.5938
-            },
-            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0157,
