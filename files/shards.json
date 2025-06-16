@@ -3062,6 +3062,10 @@
                 "win_rate": 0.6566
             },
             {
+                "name": "DanZAIO",
+                "id": "DanZAIO"
+            },
+            {
                 "name": "DemonAIO",
                 "id": "DS - AIO",
                 "pick_rate": 0.0116,
@@ -5694,6 +5698,10 @@
                 "id": "CXJ_AIO",
                 "pick_rate": 0.0818,
                 "win_rate": 0.6476
+            },
+            {
+                "name": "DanZAIO",
+                "id": "DanZAIO"
             },
             {
                 "name": "Fatality",
