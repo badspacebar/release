@@ -8336,6 +8336,10 @@
     "Sett": {
         "shards": [
             {
+                "name": "CNo1AIO",
+                "id": "cno1_aio"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.5766,
