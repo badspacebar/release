@@ -464,10 +464,6 @@
                 "win_rate": 0.5
             },
             {
-                "name": "Kisrs_AIO",
-                "id": "Kisrs_AIO"
-            },
-            {
                 "name": "MasterAio",
                 "id": "MasterAio",
                 "pick_rate": 0.0318,
@@ -4882,6 +4878,10 @@
                 "id": "KiriAIO",
                 "pick_rate": 0.0274,
                 "win_rate": 0.732
+            },
+            {
+                "name": "Kisrs_AIO",
+                "id": "Kisrs_AIO"
             },
             {
                 "name": "KleeAIO",
