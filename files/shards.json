@@ -6226,6 +6226,10 @@
                 "win_rate": 0.6667
             },
             {
+                "name": "ws",
+                "id": "WS"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.002,
