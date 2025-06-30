@@ -8054,6 +8054,10 @@
     "Ryze": {
         "shards": [
             {
+                "name": "ArcherAIO",
+                "id": "archer"
+            },
+            {
                 "name": "Fatality",
                 "id": "Fatality",
                 "pick_rate": 0.0028,
@@ -10548,6 +10552,10 @@
                 "win_rate": 0.125
             },
             {
+                "name": "ArcherAIO",
+                "id": "archer"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.6948,
@@ -10644,6 +10652,10 @@
                 "win_rate": 0.65
             },
             {
+                "name": "ArcherAIO",
+                "id": "archer"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.2678,
@@ -10715,6 +10727,10 @@
     },
     "Zoe": {
         "shards": [
+            {
+                "name": "ArcherAIO",
+                "id": "archer"
+            },
             {
                 "name": "Fx",
                 "id": "Fx",
