@@ -3054,7 +3054,12 @@
         "win_rate": 0.6736
     },
     "Yunara": {
-        "shards": []
+        "shards": [
+            {
+                "name": "Fx",
+                "id": "Fx"
+            }
+        ]
     },
     "Xerath": {
         "shards": [
