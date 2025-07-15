@@ -3056,6 +3056,10 @@
     "Yunara": {
         "shards": [
             {
+                "name": "DanZAIO",
+                "id": "DanZAIO"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx"
             },
@@ -5608,6 +5612,10 @@
                 "id": "Gagong Riven",
                 "pick_rate": 0.0659,
                 "win_rate": 0.5741
+            },
+            {
+                "name": "DanZAIO",
+                "id": "DanZAIO"
             },
             {
                 "name": "Fx",
