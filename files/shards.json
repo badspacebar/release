@@ -920,6 +920,10 @@
                 "win_rate": 0
             },
             {
+                "name": "KleeAIO",
+                "id": "Klee_AIO"
+            },
+            {
                 "name": "Kornis AIO",
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.6082,
@@ -3428,6 +3432,10 @@
                 "id": "KiriAIO",
                 "pick_rate": 0.0098,
                 "win_rate": 0.7273
+            },
+            {
+                "name": "KleeAIO",
+                "id": "Klee_AIO"
             },
             {
                 "name": "Kornis AIO",
@@ -10354,6 +10362,10 @@
                 "id": "Fx",
                 "pick_rate": 0.74,
                 "win_rate": 0.6379
+            },
+            {
+                "name": "KleeAIO",
+                "id": "Klee_AIO"
             },
             {
                 "name": "Kornis AIO",
