@@ -3070,6 +3070,10 @@
             {
                 "name": "KleeAIO",
                 "id": "Klee_AIO"
+            },
+            {
+                "name": "ws",
+                "id": "WS"
             }
         ]
     },
