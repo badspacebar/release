@@ -8,6 +8,10 @@
                 "win_rate": 0.6618
             },
             {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
+            {
                 "name": "DemonAIO",
                 "id": "DS - AIO",
                 "pick_rate": 0.004,
@@ -3059,6 +3063,10 @@
     },
     "Yunara": {
         "shards": [
+            {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
             {
                 "name": "DanZAIO",
                 "id": "DanZAIO"
