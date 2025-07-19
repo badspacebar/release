@@ -5372,6 +5372,10 @@
                 "win_rate": 0.5868
             },
             {
+                "name": "Q-Aio",
+                "id": "Q_Aio"
+            },
+            {
                 "name": "Reborn",
                 "id": "Reborn",
                 "pick_rate": 0.0013,
