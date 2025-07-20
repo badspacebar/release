@@ -3252,6 +3252,10 @@
                 "win_rate": 0.6221
             },
             {
+                "name": "SA_AIO",
+                "id": "SA_AIOCN"
+            },
+            {
                 "name": "ws",
                 "id": "WS",
                 "pick_rate": 0.0208,
