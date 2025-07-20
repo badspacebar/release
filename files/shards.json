@@ -4918,6 +4918,10 @@
                 "win_rate": 0.7465
             },
             {
+                "name": "Q-Aio",
+                "id": "Q_Aio"
+            },
+            {
                 "name": "Reborn",
                 "id": "Reborn",
                 "pick_rate": 0.0212,
@@ -5746,6 +5750,10 @@
             {
                 "name": "KleeAIO",
                 "id": "Klee_AIO"
+            },
+            {
+                "name": "Q-Aio",
+                "id": "Q_Aio"
             },
             {
                 "name": "Reborn",
