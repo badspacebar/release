@@ -3120,6 +3120,10 @@
                 "win_rate": 0.6221
             },
             {
+                "name": "Reborn",
+                "id": "Reborn"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN"
             },
