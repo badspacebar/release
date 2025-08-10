@@ -2840,6 +2840,10 @@
                 "win_rate": 0.6772
             },
             {
+                "name": "Fx",
+                "id": "Fx"
+            },
+            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0005,
