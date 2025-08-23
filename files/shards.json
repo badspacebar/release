@@ -7206,6 +7206,10 @@
                 "win_rate": 0.5846
             },
             {
+                "name": "luna-aio",
+                "id": "~ LunaAIO"
+            },
+            {
                 "name": "Reborn",
                 "id": "Reborn",
                 "pick_rate": 0.0066,
