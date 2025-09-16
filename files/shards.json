@@ -2184,6 +2184,10 @@
                 "win_rate": 0.6908
             },
             {
+                "name": "Kisrs_AIO",
+                "id": "Kisrs_AIO"
+            },
+            {
                 "name": "Kornis AIO",
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.0169,
