@@ -16,7 +16,7 @@
         "CSX AIO.shard": "5a66f8c9e059bb126ba23c5ac9486b37",
         "SP-AIO.shard": "75e31899ebfcd358c43b372cb633f97b",
         "JUST - AIO.shard": "44a4ce3d50c4a3735dd64979421da1bf",
-        "MasterCore.shard": "72f229dfe584c6e3785e0b22c7673530",
+        "MasterCore.shard": "3eb02430c192cfd1fff5ed5428511e5d",
         "Demon_Activator.shard": "5b7bbba53a5393492ccfad6a231f8fec",
         "Moon Utility.shard": "ce8b2ad14f7d1a8cec426fa4c484c683",
         "ws.shard": "b09a4552bb9758e99c8c335a0e469452",
@@ -56,5 +56,5 @@
         "CXJ AIO.shard": "30caa64a1f4884c00bcf294ed503eb8d"
     },
     "bot_5.dll": "8af25ac0c0e1de86ed41f9723197b0f5",
-    "shards.json": "08aa92b686a867e044c9e5291a5bde7f"
+    "shards.json": "e01474f5dcab4a3a74fd3e2348984cd5"
 }
