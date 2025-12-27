@@ -11040,6 +11040,10 @@
                 "win_rate": 0.5679
             },
             {
+                "name": "NG-AIO",
+                "id": "NG AIO"
+            },
+            {
                 "name": "Pixel-AIO",
                 "id": "Pixel-AIO",
                 "pick_rate": 0.0045,
