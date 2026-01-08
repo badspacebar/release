@@ -9608,6 +9608,10 @@
                 "win_rate": 0.3333
             },
             {
+                "name": "Void3",
+                "id": "Void3"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0032,
