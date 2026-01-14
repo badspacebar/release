@@ -1478,12 +1478,6 @@
                 "win_rate": 0.375
             },
             {
-                "name": "CSX AIO",
-                "id": "~ CSX AIO",
-                "pick_rate": 0.0013,
-                "win_rate": 0.6
-            },
-            {
                 "name": "CXJ AIO",
                 "id": "CXJ_AIO",
                 "pick_rate": 0.0096,
@@ -3750,6 +3744,10 @@
     "Yuumi": {
         "shards": [
             {
+                "name": "CSX AIO",
+                "id": "~ c ~ dev"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.5817,
@@ -3981,9 +3979,7 @@
             },
             {
                 "name": "CSX AIO",
-                "id": "~ CSX AIO",
-                "pick_rate": 0.0007,
-                "win_rate": 0.9091
+                "id": "~ c ~ dev"
             },
             {
                 "name": "CXJ AIO",
@@ -5100,12 +5096,6 @@
                 "id": "archer",
                 "pick_rate": 0.0013,
                 "win_rate": 0.7273
-            },
-            {
-                "name": "CSX AIO",
-                "id": "~ CSX AIO",
-                "pick_rate": 0.0008,
-                "win_rate": 0.5714
             },
             {
                 "name": "CXJ AIO",
@@ -8522,12 +8512,6 @@
                 "win_rate": 0.75
             },
             {
-                "name": "CSX AIO",
-                "id": "~ CSX AIO",
-                "pick_rate": 0.0005,
-                "win_rate": 0.875
-            },
-            {
                 "name": "CXJ AIO",
                 "id": "CXJ_AIO",
                 "pick_rate": 0.105,
@@ -9150,12 +9134,6 @@
                 "id": "archer",
                 "pick_rate": 0.001,
                 "win_rate": 0.4545
-            },
-            {
-                "name": "CSX AIO",
-                "id": "~ CSX AIO",
-                "pick_rate": 0.0054,
-                "win_rate": 0.7
             },
             {
                 "name": "DanZAIO",
@@ -10078,12 +10056,6 @@
                 "id": "archer",
                 "pick_rate": 0.0005,
                 "win_rate": 0.5
-            },
-            {
-                "name": "CSX AIO",
-                "id": "~ CSX AIO",
-                "pick_rate": 0.0139,
-                "win_rate": 0.6352
             },
             {
                 "name": "DanZAIO",
