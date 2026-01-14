@@ -3745,7 +3745,7 @@
         "shards": [
             {
                 "name": "CSX AIO",
-                "id": "~ c ~ dev"
+                "id": "~ CSX AIO"
             },
             {
                 "name": "Fx",
@@ -3979,7 +3979,7 @@
             },
             {
                 "name": "CSX AIO",
-                "id": "~ c ~ dev"
+                "id": "~ CSX AIO"
             },
             {
                 "name": "CXJ AIO",
