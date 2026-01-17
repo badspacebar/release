@@ -345,7 +345,7 @@
             },
             {
                 "name": "Void3",
-                "id": "Void3"
+                "id": "void3"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -1457,7 +1457,7 @@
             },
             {
                 "name": "Void3",
-                "id": "Void3"
+                "id": "void3"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -1611,7 +1611,7 @@
             },
             {
                 "name": "Void3",
-                "id": "Void3"
+                "id": "void3"
             },
             {
                 "name": "ws",
@@ -2257,7 +2257,7 @@
             },
             {
                 "name": "Void3",
-                "id": "Void3"
+                "id": "void3"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -4341,7 +4341,7 @@
             },
             {
                 "name": "Void3",
-                "id": "Void3"
+                "id": "void3"
             },
             {
                 "name": "ws",
@@ -6703,7 +6703,7 @@
             },
             {
                 "name": "Void3",
-                "id": "Void3"
+                "id": "void3"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -7341,7 +7341,7 @@
             },
             {
                 "name": "Void3",
-                "id": "Void3"
+                "id": "void3"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -9912,6 +9912,10 @@
                 "win_rate": 0.5818
             },
             {
+                "name": "Void3",
+                "id": "void3"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0116,
@@ -11569,7 +11573,7 @@
             },
             {
                 "name": "Void3",
-                "id": "Void3"
+                "id": "void3"
             },
             {
                 "name": "ws",
