@@ -2872,10 +2872,6 @@
                 "win_rate": 0.6087
             },
             {
-                "name": "Void3",
-                "id": "Void3"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0212,
@@ -3822,10 +3818,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.1644,
                 "win_rate": 0.5909
-            },
-            {
-                "name": "Void3",
-                "id": "Void3"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -7348,6 +7340,10 @@
                 "win_rate": 0.6063
             },
             {
+                "name": "Void3",
+                "id": "Void3"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.003,
@@ -9610,10 +9606,6 @@
                 "win_rate": 0.3333
             },
             {
-                "name": "Void3",
-                "id": "Void3"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0032,
@@ -11192,10 +11184,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0463,
                 "win_rate": 0.6053
-            },
-            {
-                "name": "Void3",
-                "id": "Void3"
             },
             {
                 "name": "[BrianSharp] Successfull",
