@@ -10000,6 +10000,10 @@
     "TwistedFate": {
         "shards": [
             {
+                "name": "CSX AIO",
+                "id": "~ CSX AIO"
+            },
+            {
                 "name": "DemonAIO",
                 "id": "DS - AIO",
                 "pick_rate": 0.002,
