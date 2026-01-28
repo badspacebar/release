@@ -3772,6 +3772,10 @@
                 "id": "~ CSX AIO"
             },
             {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.5817,
