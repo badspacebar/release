@@ -13,7 +13,7 @@
         "Kornis AIO.shard": "fe45d10253a34089120576c7795a4842",
         "Hanbot Beasty .shard": "acc760b3b3dc989eb5893d14f54a8e23",
         "IntAIO.shard": "c293e1f2a56194c42431aa573393b600",
-        "CSX AIO.shard": "3fb2ba7259ba44303ed7efe4c28afea3",
+        "CSX AIO.shard": "bc3b105de23ac777709ad2c5bfc18ca6",
         "SP-AIO.shard": "dbc6fec205674eee4618c8e9dd63437b",
         "JUST - AIO.shard": "44a4ce3d50c4a3735dd64979421da1bf",
         "MasterCore.shard": "a17072774959d75d55836237aebf3c22",
@@ -56,5 +56,5 @@
         "CXJ AIO.shard": "f6c74a2c8b7483df19c724870d84c198"
     },
     "bot_5.dll": "13c5b9b8f3f99df2c8d0c06165ba845f",
-    "shards.json": "03c16a9ea42e5f44b7e46ef30cc801a3"
+    "shards.json": "239e48b01cfb0cc29e30ecc3bef262f9"
 }
