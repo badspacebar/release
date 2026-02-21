@@ -1228,6 +1228,10 @@
                 "win_rate": 0.7222
             },
             {
+                "name": "DanZAIO",
+                "id": "DanZAIO"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.1892,
@@ -6036,12 +6040,6 @@
                 "id": "CXJ_AIO",
                 "pick_rate": 0.1507,
                 "win_rate": 0.5785
-            },
-            {
-                "name": "DanZAIO",
-                "id": "DanZAIO",
-                "pick_rate": 0.0025,
-                "win_rate": 0.5
             },
             {
                 "name": "Fx",
