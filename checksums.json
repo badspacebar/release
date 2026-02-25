@@ -1,6 +1,6 @@
 {
     "shards": {
-        "[Viktor]Evade.shard": "c8f1ed5e808fd41dc2390e6d7da52d67",
+        "[Viktor]Evade.shard": "919d70c327fef4f1013bc43b178e466a",
         "NG-AIO.shard": "949623b47497b217fd11ebacf2ab7ab1",
         "Pixel-AIO.shard": "ed04712d1fc608ef52e43368bacda448",
         "[Viktor]Utility.shard": "680b9307acc325e04c248fb746f888a8",
@@ -56,5 +56,5 @@
         "CXJ AIO.shard": "59b08376135917b7508feeecdc4f2674"
     },
     "bot_5.dll": "13c5b9b8f3f99df2c8d0c06165ba845f",
-    "shards.json": "7ff75adfb9a8d7be22e49332fd8ba657"
+    "shards.json": "d33eff191f168f5bdefbc11248928b13"
 }
