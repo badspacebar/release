@@ -8794,6 +8794,10 @@
                 "win_rate": 0.6667
             },
             {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
+            {
                 "name": "DanZAIO",
                 "id": "DanZAIO",
                 "pick_rate": 0.0016,
