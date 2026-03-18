@@ -33,7 +33,7 @@
         "Fatality.shard": "64d38bbfbca9e1ebb151510cb572b94a",
         "AXAIO.shard": "3226efd64d26a508880f79cdf321acd3",
         "Alexis AIO .shard": "f2de2a5b6628121ee30746114da899cb",
-        "Kisrs_AIO.shard": "bc0ed8b74b6e71c6a7806419c3e8a6b7",
+        "Kisrs_AIO.shard": "298828941b9ed6acb22a40c6c8dec82a",
         "[BrianSharp] Activator.shard": "bcdefa97bd5a051e1ca2e9750dd0d1ae",
         "Reborn.shard": "4086ca71e7a9fb701fdbe45959fe9eb7",
         "DanZAIO.shard": "052d0f517bf4131feba375d6a41661bb",
@@ -56,5 +56,5 @@
         "CXJ AIO.shard": "32769c006c3251b1a617396c4a6695fd"
     },
     "bot_5.dll": "13c5b9b8f3f99df2c8d0c06165ba845f",
-    "shards.json": "205c840fab876afdbeb8fe44f12e3fab"
+    "shards.json": "954ff548d5d7cc8f72daa96ca1226dfe"
 }
