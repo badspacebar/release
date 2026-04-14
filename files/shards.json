@@ -2488,6 +2488,10 @@
                 "win_rate": 0.4667
             },
             {
+                "name": "SP-AIO",
+                "id": "SP-AIO"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0159,
