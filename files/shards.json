@@ -11668,6 +11668,10 @@
                 "win_rate": 0.6053
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "Reborn",
                 "id": "Reborn",
                 "pick_rate": 0.0009,
