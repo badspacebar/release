@@ -11174,6 +11174,10 @@
                 "win_rate": 0.5333
             },
             {
+                "name": "NG-AIO",
+                "id": "NG AIO"
+            },
+            {
                 "name": "Pixel-AIO",
                 "id": "Pixel-AIO",
                 "pick_rate": 0.0188,
@@ -11302,10 +11306,6 @@
                 "id": "MasterAio",
                 "pick_rate": 0.0126,
                 "win_rate": 0.7
-            },
-            {
-                "name": "NG-AIO",
-                "id": "NG AIO"
             },
             {
                 "name": "Pixel-AIO",
