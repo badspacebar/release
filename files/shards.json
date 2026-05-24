@@ -390,6 +390,10 @@
                 "win_rate": 0.6449
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "Pixel-AIO",
                 "id": "Pixel-AIO",
                 "pick_rate": 0.1378,
@@ -6954,6 +6958,10 @@
                 "win_rate": 0.6667
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "Pixel-AIO",
                 "id": "Pixel-AIO",
                 "pick_rate": 0.0529,
@@ -7978,6 +7986,10 @@
                 "id": "intnner_cn",
                 "pick_rate": 0.0189,
                 "win_rate": 1
+            },
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
             },
             {
                 "name": "Reborn",
@@ -11544,6 +11556,10 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.0238,
                 "win_rate": 0.3333
+            },
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
             },
             {
                 "name": "Pixel-AIO",
