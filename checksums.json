@@ -48,7 +48,7 @@
         "ArcherAIO.shard": "97ef514ee91b4e2e1f16e8e7fc7b65a6",
         "Mage AIO.shard": "a66416392793c455e25e755598f3a90f",
         "Custom Permashow.shard": "a8ae30b95f3a8580dc70fe3887b0e429",
-        "MasterAio.shard": "d1800608f1e5bcb98a54ec8957f92435",
+        "MasterAio.shard": "af2ad4fbce7766f265c7e6681eaf34b5",
         "Kiri AIO.shard": "35466d795da0c355f8e1d5de4771be92",
         "DemonAIO.shard": "5df3c517a758b695afcb15e42127fffe",
         "EzAIO.shard": "8ddd9b9c1ef933eb7429f8e3c6dcbba2",
@@ -56,5 +56,5 @@
         "CXJ AIO.shard": "fb03450f7e61d083e6955b5fa798cfc6"
     },
     "bot_5.dll": "8194f1f38d8e8957a8ec99ea98ed41a5",
-    "shards.json": "0bf4b241b2928b32e197e36eb00ac481"
+    "shards.json": "86a98b2a29e99d3abdb49195e8673145"
 }
