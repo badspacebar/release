@@ -28,7 +28,7 @@
         "Q-Aio.shard": "4bde6751f4696c4d8636b3bef81365a3",
         "Fx.shard": "f3d2845a72764fd462167477b70d3652",
         "SA_AIO.shard": "9cab553d03f682bc4a7c8fddb059e828",
-        "Fatality.shard": "7b39499a9b9b360cbccdf75cc5df44bb",
+        "Fatality.shard": "cb9678e56a2d397eba28a7ec284c7364",
         "AXAIO.shard": "3226efd64d26a508880f79cdf321acd3",
         "Alexis AIO .shard": "f2de2a5b6628121ee30746114da899cb",
         "Kisrs_AIO.shard": "33d64a56e0d4dec9ba882c055584f7fa",
@@ -54,5 +54,5 @@
         "CXJ AIO.shard": "b157647e4bb0e25ed52e79d4ed2d111f"
     },
     "bot_5.dll": "56ceca74d4e6b1836128a05dbc334868",
-    "shards.json": "ae7f375796ead77ab98a7aca02082ed8"
+    "shards.json": "64cbeaed4525d016407ec824459ca20b"
 }
