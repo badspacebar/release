@@ -10216,7 +10216,12 @@
         "win_rate": 0.5884
     },
     "Locke": {
-        "shards": []
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
     },
     "Teemo": {
         "shards": [
