@@ -1881,6 +1881,14 @@
         "pick_rate": 0.0162,
         "win_rate": 0.5711
     },
+    "Jade_Zilean": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
     "Ivern": {
         "shards": [
             {
@@ -4551,6 +4559,14 @@
         "pick_rate": 0.0646,
         "win_rate": 0.6096
     },
+    "Jade_Nunu": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
     "Rumble": {
         "shards": [
             {
@@ -5997,6 +6013,14 @@
         "pick_rate": 0.0132,
         "win_rate": 0.5628
     },
+    "Jade_Twitch": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
     "KogMaw": {
         "shards": [
             {
@@ -7231,6 +7255,22 @@
         "pick_rate": 0.0388,
         "win_rate": 0.6428
     },
+    "Jade_Evelynn": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Annie": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
     "Milio": {
         "shards": [
             {
@@ -7991,6 +8031,14 @@
         "pick_rate": 0.0121,
         "win_rate": 0.6776
     },
+    "Jade_DrMundo": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
     "Nocturne": {
         "shards": [
             {
@@ -8591,6 +8639,18 @@
         "pick_rate": 0.0019,
         "win_rate": 0.5068
     },
+    "Jade_Karthus": {
+        "shards": [
+            {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
     "Rammus": {
         "shards": [
             {
@@ -8632,6 +8692,14 @@
         ],
         "pick_rate": 0.0027,
         "win_rate": 0.5061
+    },
+    "Jade_Lulu": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
     },
     "Rell": {
         "shards": [
@@ -9135,6 +9203,14 @@
         "pick_rate": 0.0514,
         "win_rate": 0.6576
     },
+    "Jade_Gangplank": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
     "Sett": {
         "shards": [
             {
@@ -9194,6 +9270,14 @@
         ],
         "pick_rate": 0.0193,
         "win_rate": 0.5953
+    },
+    "Jade_Jax": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
     },
     "Shaco": {
         "shards": [
@@ -9745,6 +9829,14 @@
         "pick_rate": 0.0041,
         "win_rate": 0.5989
     },
+    "Jade_Singed": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
     "Soraka": {
         "shards": [
             {
@@ -10179,6 +10271,14 @@
         "pick_rate": 0.0084,
         "win_rate": 0.5762
     },
+    "Jade_Alistar": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
     "Taric": {
         "shards": [
             {
@@ -10342,6 +10442,18 @@
         ],
         "pick_rate": 0.0239,
         "win_rate": 0.6073
+    },
+    "Jade_Ashe": {
+        "shards": [
+            {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
     },
     "Thresh": {
         "shards": [
@@ -11865,6 +11977,14 @@
         "pick_rate": 0.0122,
         "win_rate": 0.5808
     },
+    "Jade_Rammus": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
     "Briar": {
         "shards": [
             {
@@ -12170,5 +12290,437 @@
         ],
         "pick_rate": 0.0163,
         "win_rate": 0.6936
+    },
+    "Jade_Ahri": {
+        "shards": [
+            {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Amumu": {
+        "shards": [
+            {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Anivia": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Blitzcrank": {
+        "shards": [
+            {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Brand": {
+        "shards": [
+            {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Chogath": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Corki": {
+        "shards": [
+            {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Ezreal": {
+        "shards": [
+            {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Fiddlesticks": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Garen": {
+        "shards": [
+            {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Gragas": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Heimerdinger": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Janna": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_JarvanIV": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Nidalee": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Kassadin": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Katarina": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Kayle": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_KogMaw": {
+        "shards": [
+            {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_LeeSin": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Leona": {
+        "shards": [
+            {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Lux": {
+        "shards": [
+            {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Malphite": {
+        "shards": [
+            {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Malzahar": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_MasterYi": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_MissFortune": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Morgana": {
+        "shards": [
+            {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Nasus": {
+        "shards": [
+            {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Olaf": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Soraka": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Pantheon": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Ryze": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Shaco": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Sion": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Sivir": {
+        "shards": [
+            {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Skarner": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Sona": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Taric": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Teemo": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Tristana": {
+        "shards": [
+            {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Tryndamere": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_TwistedFate": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Vayne": {
+        "shards": [
+            {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Veigar": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Warwick": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Wukong": {
+        "shards": [
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
     }
 }
