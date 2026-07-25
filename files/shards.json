@@ -1896,6 +1896,10 @@
                 "id": "Fx"
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian"
             }
@@ -6044,6 +6048,10 @@
                 "id": "Fx"
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 1,
@@ -7312,6 +7320,10 @@
                 "id": "Fx"
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian"
             }
@@ -8082,6 +8094,10 @@
     "Jade_DrMundo": {
         "shards": [
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 1,
@@ -8702,6 +8718,10 @@
                 "id": "Fx"
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 1,
@@ -8758,6 +8778,10 @@
             {
                 "name": "Fx",
                 "id": "Fx"
+            },
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -9346,6 +9370,10 @@
             {
                 "name": "Fx",
                 "id": "Fx"
+            },
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -10366,6 +10394,10 @@
                 "id": "Fx"
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian"
             }
@@ -10566,6 +10598,10 @@
             {
                 "name": "Fx",
                 "id": "Fx"
+            },
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -12436,6 +12472,10 @@
                 "id": "Fx"
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 1,
@@ -12456,6 +12496,10 @@
                 "id": "Fx"
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian"
             }
@@ -12466,6 +12510,10 @@
             {
                 "name": "Fx",
                 "id": "Fx"
+            },
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -12490,6 +12538,10 @@
                 "id": "Fx"
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.875,
@@ -12510,6 +12562,10 @@
                 "id": "Fx"
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 1,
@@ -12521,6 +12577,10 @@
     },
     "Jade_Chogath": {
         "shards": [
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
             {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian"
@@ -12536,6 +12596,10 @@
             {
                 "name": "Fx",
                 "id": "Fx"
+            },
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -12554,6 +12618,10 @@
             {
                 "name": "Fx",
                 "id": "Fx"
+            },
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -12586,6 +12654,10 @@
             {
                 "name": "Fx",
                 "id": "Fx"
+            },
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -12632,6 +12704,10 @@
                 "id": "Fx"
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian"
             }
@@ -12644,6 +12720,10 @@
                 "id": "Fx"
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian"
             }
@@ -12654,6 +12734,10 @@
             {
                 "name": "Fx",
                 "id": "Fx"
+            },
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -12680,6 +12764,10 @@
                 "id": "Fx"
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 1,
@@ -12702,6 +12790,10 @@
                 "id": "Fx"
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.8824,
@@ -12716,6 +12808,10 @@
             {
                 "name": "Fx",
                 "id": "Fx"
+            },
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -12738,6 +12834,10 @@
                 "id": "Fx"
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian"
             }
@@ -12754,6 +12854,10 @@
             {
                 "name": "Fx",
                 "id": "Fx"
+            },
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -12776,6 +12880,10 @@
                 "id": "Fx"
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian"
             }
@@ -12788,6 +12896,10 @@
                 "id": "Fx"
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian"
             }
@@ -12798,6 +12910,10 @@
             {
                 "name": "Fx",
                 "id": "Fx"
+            },
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -12814,6 +12930,10 @@
             {
                 "name": "Fx",
                 "id": "Fx"
+            },
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -12836,6 +12956,10 @@
                 "id": "Fx"
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 1,
@@ -12856,6 +12980,10 @@
                 "id": "Fx"
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian"
             }
@@ -12866,6 +12994,10 @@
             {
                 "name": "Fx",
                 "id": "Fx"
+            },
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -12880,6 +13012,10 @@
                 "id": "Fx"
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian"
             }
@@ -12892,6 +13028,10 @@
                 "id": "Fx"
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian"
             }
@@ -12902,6 +13042,10 @@
             {
                 "name": "Fx",
                 "id": "Fx"
+            },
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -12952,6 +13096,10 @@
                 "id": "Fx"
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian"
             }
@@ -12970,6 +13118,10 @@
             {
                 "name": "Fx",
                 "id": "Fx"
+            },
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -12996,6 +13148,10 @@
                 "id": "Fx"
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 1,
@@ -13018,6 +13174,10 @@
                 "id": "Fx"
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.8182,
@@ -13034,6 +13194,10 @@
                 "id": "Fx"
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 1,
@@ -13048,6 +13212,10 @@
             {
                 "name": "Fx",
                 "id": "Fx"
+            },
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -13070,6 +13238,10 @@
             {
                 "name": "Fx",
                 "id": "Fx"
+            },
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -13114,6 +13286,10 @@
             {
                 "name": "Fx",
                 "id": "Fx"
+            },
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
             },
             {
                 "name": "[BrianSharp] Successfull",
