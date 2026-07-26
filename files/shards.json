@@ -4584,6 +4584,10 @@
     "Jade_Nunu": {
         "shards": [
             {
+                "name": "Fx",
+                "id": "Fx"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian"
             }
