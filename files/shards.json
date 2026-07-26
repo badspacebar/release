@@ -12586,6 +12586,10 @@
     "Jade_Chogath": {
         "shards": [
             {
+                "name": "Fx",
+                "id": "Fx"
+            },
+            {
                 "name": "MasterAio",
                 "id": "MasterAio"
             },
@@ -12643,6 +12647,10 @@
     },
     "Jade_Fiddlesticks": {
         "shards": [
+            {
+                "name": "Fx",
+                "id": "Fx"
+            },
             {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
