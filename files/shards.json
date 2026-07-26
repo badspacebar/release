@@ -8094,6 +8094,10 @@
     "Jade_DrMundo": {
         "shards": [
             {
+                "name": "Fx",
+                "id": "Fx"
+            },
+            {
                 "name": "MasterAio",
                 "id": "MasterAio"
             },
@@ -12751,6 +12755,10 @@
     },
     "Jade_Katarina": {
         "shards": [
+            {
+                "name": "Fx",
+                "id": "Fx"
+            },
             {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian"
