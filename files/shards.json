@@ -12696,6 +12696,10 @@
     "Jade_Heimerdinger": {
         "shards": [
             {
+                "name": "Fx",
+                "id": "Fx"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian"
             }
@@ -13127,6 +13131,10 @@
     },
     "Jade_Skarner": {
         "shards": [
+            {
+                "name": "Fx",
+                "id": "Fx"
+            },
             {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian"
