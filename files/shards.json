@@ -8098,6 +8098,10 @@
     "Jade_DrMundo": {
         "shards": [
             {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx"
             },
@@ -10398,6 +10402,10 @@
     "Jade_Alistar": {
         "shards": [
             {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx"
             },
@@ -12590,6 +12598,10 @@
     "Jade_Chogath": {
         "shards": [
             {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx"
             },
@@ -12834,6 +12846,10 @@
     "Jade_LeeSin": {
         "shards": [
             {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx"
             },
@@ -12919,6 +12935,10 @@
     },
     "Jade_Malzahar": {
         "shards": [
+            {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
             {
                 "name": "Fx",
                 "id": "Fx"
