@@ -3788,6 +3788,10 @@
     "Jax": {
         "shards": [
             {
+                "name": "CSX AIO",
+                "id": "~ CSX AIO"
+            },
+            {
                 "name": "DemonAIO",
                 "id": "DS - AIO",
                 "pick_rate": 0.0084,
@@ -5398,6 +5402,10 @@
                 "win_rate": 0.7
             },
             {
+                "name": "CSX AIO",
+                "id": "~ CSX AIO"
+            },
+            {
                 "name": "CXJ AIO",
                 "id": "CXJ_AIO",
                 "pick_rate": 0.2052,
@@ -5608,6 +5616,10 @@
                 "win_rate": 0.8571
             },
             {
+                "name": "CSX AIO",
+                "id": "~ CSX AIO"
+            },
+            {
                 "name": "CXJ AIO",
                 "id": "CXJ_AIO",
                 "pick_rate": 0.0152,
@@ -5720,6 +5732,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0057,
                 "win_rate": 0.4925
+            },
+            {
+                "name": "CSX AIO",
+                "id": "~ CSX AIO"
             },
             {
                 "name": "CXJ AIO",
@@ -6106,6 +6122,10 @@
                 "id": "archer",
                 "pick_rate": 0.0024,
                 "win_rate": 0.7647
+            },
+            {
+                "name": "CSX AIO",
+                "id": "~ CSX AIO"
             },
             {
                 "name": "CXJ AIO",
@@ -7029,6 +7049,10 @@
     },
     "Lux": {
         "shards": [
+            {
+                "name": "CSX AIO",
+                "id": "~ CSX AIO"
+            },
             {
                 "name": "CXJ AIO",
                 "id": "CXJ_AIO",
@@ -10518,6 +10542,10 @@
                 "id": "cno1_aio",
                 "pick_rate": 0.0214,
                 "win_rate": 0.4683
+            },
+            {
+                "name": "CSX AIO",
+                "id": "~ CSX AIO"
             },
             {
                 "name": "CXJ AIO",
