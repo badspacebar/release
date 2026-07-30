@@ -6108,6 +6108,10 @@
     "Jade_Twitch": {
         "shards": [
             {
+                "name": "CSX AIO",
+                "id": "~ CSX AIO"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.2199,
@@ -11040,6 +11044,10 @@
                 "id": "archer",
                 "pick_rate": 0.0003,
                 "win_rate": 0.5
+            },
+            {
+                "name": "CSX AIO",
+                "id": "~ CSX AIO"
             },
             {
                 "name": "DanZAIO",
