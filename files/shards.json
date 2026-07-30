@@ -12916,6 +12916,10 @@
                 "win_rate": 0.4444
             },
             {
+                "name": "Reborn",
+                "id": "Reborn"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.4681,
@@ -13288,6 +13292,10 @@
                 "id": "MasterAio"
             },
             {
+                "name": "Reborn",
+                "id": "Reborn"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian"
             }
@@ -13440,6 +13448,10 @@
             {
                 "name": "Q-Aio",
                 "id": "Q_Aio"
+            },
+            {
+                "name": "Reborn",
+                "id": "Reborn"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -13686,6 +13698,10 @@
                 "id": "Q_Aio"
             },
             {
+                "name": "Reborn",
+                "id": "Reborn"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.1875,
@@ -13848,6 +13864,10 @@
                 "id": "MasterAio",
                 "pick_rate": 0.0625,
                 "win_rate": 0
+            },
+            {
+                "name": "Reborn",
+                "id": "Reborn"
             },
             {
                 "name": "[BrianSharp] Successfull",
