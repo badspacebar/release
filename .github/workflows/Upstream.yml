@@ -1,0 +1,46 @@
+name: Sync Fork with Upstream (Keep Workflow)
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout your fork (with full history)
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+          ref: master
+
+      - name: Set up Git user
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+      - name: Add upstream and fetch
+        run: |
+          git remote add upstream https://github.com/badspacebar/release.git
+          git fetch upstream
+          git fetch upstream --tags
+      - name: Sync upstream content but keep workflow file
+        run: |
+          # 暂存你自己的工作流文件（整个 .github 目录也可以）
+          git stash push -- .github/workflows/sync-upstream.yml
+          # 将分支强制重置为上游的 master
+          git reset --hard upstream/master
+          # 恢复之前保存的工作流文件（不会覆盖上游已有文件，因为上游没有）
+          git stash pop || echo "No stash to pop, continue"
+          # 如果有恢复的文件变更，则提交
+          if ! git diff --quiet; then
+            git add .
+            git commit -m "Keep sync workflow file after upstream sync"
+          fi
+      - name: Force push to fork
+        run: |
+          git push origin master --force
+          git push origin --tags --force
