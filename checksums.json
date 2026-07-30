@@ -18,7 +18,7 @@
         "JUST - AIO.shard": "44a4ce3d50c4a3735dd64979421da1bf",
         "MasterCore.shard": "a744552eb7c82c2f81ccf2fbc94c9184",
         "ws.shard": "318a64dbdfb2541df15d8fbfe26464d6",
-        "KleeAIO.shard": "c7f1a8a4e84f0bf5df6516cd022ab94c",
+        "KleeAIO.shard": "3665af77fe8e13ec80d4ea1132624184",
         "CNo1Utility.shard": "cdf8dc037f9a298b2f93d27dbcfe6e6c",
         "FxLib.shard": "ab4091e52ae2d1c79c231e98e2607e02",
         "luna-aio.shard": "416114f7b27db86d6d644aca05b40b3d",
@@ -53,5 +53,5 @@
         "CXJ AIO.shard": "800bae51c0fd864125b0af129197c59d"
     },
     "bot_5.dll": "b520616283d964b190f27a41a344980c",
-    "shards.json": "faef7ad9bf730a37cf9ce643ea1e8c1d"
+    "shards.json": "e58e0f0f14d16dacdc487b7829db47d8"
 }
