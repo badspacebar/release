@@ -8254,6 +8254,10 @@
     "Jade_DrMundo": {
         "shards": [
             {
+                "name": "CSX AIO",
+                "id": "~ CSX AIO"
+            },
+            {
                 "name": "CXJ AIO",
                 "id": "CXJ_AIO",
                 "pick_rate": 0.1111,
@@ -10900,6 +10904,10 @@
     "Jade_Ashe": {
         "shards": [
             {
+                "name": "CSX AIO",
+                "id": "~ CSX AIO"
+            },
+            {
                 "name": "CXJ AIO",
                 "id": "CXJ_AIO",
                 "pick_rate": 0.0972,
@@ -13258,6 +13266,10 @@
     "Jade_Kayle": {
         "shards": [
             {
+                "name": "CSX AIO",
+                "id": "~ CSX AIO"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.4091,
@@ -13281,6 +13293,10 @@
     },
     "Jade_KogMaw": {
         "shards": [
+            {
+                "name": "CSX AIO",
+                "id": "~ CSX AIO"
+            },
             {
                 "name": "CXJ AIO",
                 "id": "CXJ_AIO",
@@ -13580,6 +13596,10 @@
     "Jade_Soraka": {
         "shards": [
             {
+                "name": "CSX AIO",
+                "id": "~ CSX AIO"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.8,
@@ -13682,6 +13702,10 @@
     "Jade_Sivir": {
         "shards": [
             {
+                "name": "CSX AIO",
+                "id": "~ CSX AIO"
+            },
+            {
                 "name": "CXJ AIO",
                 "id": "CXJ_AIO",
                 "pick_rate": 0.3043,
@@ -13734,6 +13758,10 @@
     "Jade_Sona": {
         "shards": [
             {
+                "name": "CSX AIO",
+                "id": "~ CSX AIO"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx"
             },
@@ -13768,6 +13796,10 @@
     "Jade_Teemo": {
         "shards": [
             {
+                "name": "CSX AIO",
+                "id": "~ CSX AIO"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.6552,
@@ -13795,6 +13827,10 @@
     },
     "Jade_Tristana": {
         "shards": [
+            {
+                "name": "CSX AIO",
+                "id": "~ CSX AIO"
+            },
             {
                 "name": "CXJ AIO",
                 "id": "CXJ_AIO",
