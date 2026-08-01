@@ -4,7 +4,7 @@
         "NG-AIO.shard": "86fd4a851f76ffa363ab7711a4a14890",
         "Pixel-AIO.shard": "955175e1cc541e84416c609baf38d27c",
         "[Viktor]Utility.shard": "680b9307acc325e04c248fb746f888a8",
-        "CSXAIO_Utility.shard": "e21c2eec033b905f29dadc9423fdfc37",
+        "CSXAIO_Utility.shard": "7f72dfa84d52a30b747ee57893d5e236",
         "GG AIO.shard": "9a9991b2a192ba40703b8f5fe64363ea",
         "CNo1Smite.shard": "eba968b3260d70f6a051757e7f84fe20",
         "CNo1AIO.shard": "17983f36c012ac774ae0f87ad95265eb",
@@ -53,5 +53,5 @@
         "CXJ AIO.shard": "a0049b8d031c40f3665497c8997659f5"
     },
     "bot_5.dll": "b520616283d964b190f27a41a344980c",
-    "shards.json": "0d65dd7b2f5a9ae0d6d7bb97d7abb0ef"
+    "shards.json": "f8e439ed594721e5e09874603153002c"
 }
