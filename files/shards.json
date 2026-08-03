@@ -3260,6 +3260,10 @@
                 "win_rate": 1
             },
             {
+                "name": "CSX AIO",
+                "id": "~ CSX AIO"
+            },
+            {
                 "name": "CXJ AIO",
                 "id": "CXJ_AIO",
                 "pick_rate": 0.1021,
@@ -9004,6 +9008,10 @@
                 "win_rate": 0
             },
             {
+                "name": "CSX AIO",
+                "id": "~ CSX AIO"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.7209,
@@ -12567,6 +12575,10 @@
     },
     "Jade_Rammus": {
         "shards": [
+            {
+                "name": "CSX AIO",
+                "id": "~ CSX AIO"
+            },
             {
                 "name": "Fx",
                 "id": "Fx"
