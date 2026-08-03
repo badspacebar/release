@@ -6776,6 +6776,10 @@
                 "win_rate": 0.5909
             },
             {
+                "name": "CSX AIO",
+                "id": "~ CSX AIO"
+            },
+            {
                 "name": "CXJ AIO",
                 "id": "CXJ_AIO",
                 "pick_rate": 0.5966,
@@ -13747,6 +13751,10 @@
     },
     "Jade_Leona": {
         "shards": [
+            {
+                "name": "CSX AIO",
+                "id": "~ CSX AIO"
+            },
             {
                 "name": "CXJ AIO",
                 "id": "CXJ_AIO",
