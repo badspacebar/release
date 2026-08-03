@@ -8374,6 +8374,10 @@
                 "id": "MasterAio"
             },
             {
+                "name": "Reborn",
+                "id": "Reborn"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.7222,
@@ -12994,6 +12998,10 @@
                 "win_rate": 0.3333
             },
             {
+                "name": "Reborn",
+                "id": "Reborn"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.6,
@@ -13090,6 +13098,10 @@
                 "id": "Q_Aio",
                 "pick_rate": 0.0133,
                 "win_rate": 0
+            },
+            {
+                "name": "Reborn",
+                "id": "Reborn"
             },
             {
                 "name": "[BrianSharp] Successfull",
