@@ -92,6 +92,10 @@
                 "win_rate": 0.7059
             },
             {
+                "name": "CSX AIO",
+                "id": "~ CSX AIO"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.6435,
@@ -1308,6 +1312,10 @@
                 "id": "archer",
                 "pick_rate": 0.0018,
                 "win_rate": 0.5714
+            },
+            {
+                "name": "CSX AIO",
+                "id": "~ CSX AIO"
             },
             {
                 "name": "CXJ AIO",
@@ -13074,6 +13082,10 @@
                 "id": "cno1_aio",
                 "pick_rate": 0.0345,
                 "win_rate": 0.6087
+            },
+            {
+                "name": "CSX AIO",
+                "id": "~ CSX AIO"
             },
             {
                 "name": "CXJ AIO",
