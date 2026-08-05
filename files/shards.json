@@ -7778,6 +7778,10 @@
                 "win_rate": 0.2857
             },
             {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.6569,
@@ -13929,6 +13933,10 @@
     },
     "Jade_MissFortune": {
         "shards": [
+            {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
             {
                 "name": "Fx",
                 "id": "Fx",
