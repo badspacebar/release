@@ -214,6 +214,10 @@
                 "id": "~ CSX AIO"
             },
             {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
+            {
                 "name": "DanZAIO",
                 "id": "DanZAIO",
                 "pick_rate": 0.0004,
@@ -14023,6 +14027,10 @@
     },
     "Jade_Olaf": {
         "shards": [
+            {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
             {
                 "name": "Fx",
                 "id": "Fx",
