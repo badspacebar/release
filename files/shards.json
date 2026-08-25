@@ -7360,6 +7360,10 @@
                 "win_rate": 0.7368
             },
             {
+                "name": "CSX AIO",
+                "id": "~ CSX AIO"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.5446,
