@@ -18,6 +18,10 @@
                 "win_rate": 0.6175
             },
             {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.071,
@@ -148,6 +152,10 @@
                 "win_rate": 0.6268
             },
             {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.7,
@@ -214,6 +222,10 @@
                 "id": "DanZAIO",
                 "pick_rate": 0.0004,
                 "win_rate": 0
+            },
+            {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
             },
             {
                 "name": "Fx",
@@ -298,6 +310,10 @@
                 "id": "CXJ_AIO",
                 "pick_rate": 0.1901,
                 "win_rate": 0.66
+            },
+            {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
             },
             {
                 "name": "Fatality",
@@ -490,6 +506,10 @@
                 "win_rate": 0.3333
             },
             {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.7435,
@@ -658,6 +678,10 @@
                 "id": "CXJ_AIO",
                 "pick_rate": 0.0796,
                 "win_rate": 0.54
+            },
+            {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
             },
             {
                 "name": "Fx",
@@ -964,6 +988,10 @@
                 "win_rate": 0.6194
             },
             {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
+            },
+            {
                 "name": "Fatality",
                 "id": "Fatality",
                 "pick_rate": 0.001,
@@ -1058,6 +1086,10 @@
                 "id": "CXJ_AIO",
                 "pick_rate": 0.0101,
                 "win_rate": 0.55
+            },
+            {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
             },
             {
                 "name": "Fx",
@@ -1212,6 +1244,10 @@
             {
                 "name": "CXJ AIO",
                 "id": "CXJ_AIO"
+            },
+            {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
             },
             {
                 "name": "Fx",
@@ -1480,6 +1516,10 @@
                 "win_rate": 0.6325
             },
             {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
+            },
+            {
                 "name": "Fatality",
                 "id": "Fatality",
                 "pick_rate": 0.0008,
@@ -1614,6 +1654,10 @@
                 "id": "DanZAIO",
                 "pick_rate": 0.0045,
                 "win_rate": 0.6667
+            },
+            {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
             },
             {
                 "name": "EzAIO",
@@ -2394,6 +2438,10 @@
                 "win_rate": 0.6132
             },
             {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
+            },
+            {
                 "name": "Fatality",
                 "id": "Fatality",
                 "pick_rate": 0.0028,
@@ -2512,6 +2560,10 @@
                 "id": "DanZAIO",
                 "pick_rate": 0.0004,
                 "win_rate": 0.5
+            },
+            {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
             },
             {
                 "name": "EzAIO",
@@ -2688,6 +2740,10 @@
                 "win_rate": 0.6333
             },
             {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.8539,
@@ -2734,6 +2790,10 @@
                 "id": "CXJ_AIO",
                 "pick_rate": 0.6766,
                 "win_rate": 0.5775
+            },
+            {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
             },
             {
                 "name": "Fatality",
@@ -2818,6 +2878,10 @@
                 "id": "DanZAIO",
                 "pick_rate": 0.0005,
                 "win_rate": 0.3333
+            },
+            {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
             },
             {
                 "name": "Fatality",
@@ -2908,6 +2972,10 @@
                 "id": "CXJ_AIO",
                 "pick_rate": 0.0096,
                 "win_rate": 0.5185
+            },
+            {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
             },
             {
                 "name": "Fx",
@@ -3540,6 +3608,10 @@
                 "win_rate": 0.1667
             },
             {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
+            },
+            {
                 "name": "EzAIO",
                 "id": "Ez_AIO",
                 "pick_rate": 0.0002,
@@ -3878,6 +3950,10 @@
                 "win_rate": 0
             },
             {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.4666,
@@ -4142,6 +4218,10 @@
     "Heimerdinger": {
         "shards": [
             {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.1564,
@@ -4182,6 +4262,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0534,
                 "win_rate": 0.5254
+            },
+            {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
             },
             {
                 "name": "Fx",
@@ -4310,6 +4394,10 @@
                 "win_rate": 0.4561
             },
             {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
+            },
+            {
                 "name": "Fatality",
                 "id": "Fatality",
                 "pick_rate": 0.0035,
@@ -4417,6 +4505,10 @@
     },
     "JarvanIV": {
         "shards": [
+            {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
+            },
             {
                 "name": "Fx",
                 "id": "Fx",
@@ -5546,6 +5638,10 @@
                 "id": "DanZAIO",
                 "pick_rate": 0.0008,
                 "win_rate": 0.7692
+            },
+            {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
             },
             {
                 "name": "EzAIO",
@@ -6980,6 +7076,10 @@
                 "id": "CXJ_AIO",
                 "pick_rate": 0.0526,
                 "win_rate": 0.6631
+            },
+            {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
             },
             {
                 "name": "Fx",
@@ -8580,6 +8680,10 @@
                 "win_rate": 1
             },
             {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.7158,
@@ -9286,6 +9390,10 @@
                 "win_rate": 0
             },
             {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.7736,
@@ -9496,6 +9604,10 @@
                 "id": "DanZAIO",
                 "pick_rate": 0.0005,
                 "win_rate": 0.5714
+            },
+            {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
             },
             {
                 "name": "Fx",
@@ -10028,6 +10140,10 @@
                 "win_rate": 0.6291
             },
             {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.5216,
@@ -10178,6 +10294,10 @@
                 "win_rate": 0.5676
             },
             {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
+            },
+            {
                 "name": "Fatality",
                 "id": "Fatality",
                 "pick_rate": 0.0116,
@@ -10266,6 +10386,10 @@
                 "id": "DanZAIO",
                 "pick_rate": 0.0003,
                 "win_rate": 0.75
+            },
+            {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
             },
             {
                 "name": "Fatality",
@@ -10368,6 +10492,10 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0332,
                 "win_rate": 0.7
+            },
+            {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
             },
             {
                 "name": "Fx",
@@ -11288,6 +11416,10 @@
                 "id": "CXJ_AIO"
             },
             {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.7865,
@@ -11328,6 +11460,10 @@
                 "id": "~ CSX AIO",
                 "pick_rate": 0.0031,
                 "win_rate": 0.5217
+            },
+            {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
             },
             {
                 "name": "EzAIO",
@@ -11678,6 +11814,10 @@
                 "win_rate": 0.6673
             },
             {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
+            },
+            {
                 "name": "EzAIO",
                 "id": "Ez_AIO",
                 "pick_rate": 0.0005,
@@ -11810,6 +11950,10 @@
     "Velkoz": {
         "shards": [
             {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
+            },
+            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.6468,
@@ -11920,6 +12064,10 @@
             {
                 "name": "CXJ AIO",
                 "id": "CXJ_AIO"
+            },
+            {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
             },
             {
                 "name": "Fx",
@@ -12292,6 +12440,10 @@
                 "id": "CXJ_AIO",
                 "pick_rate": 0.3864,
                 "win_rate": 0.6619
+            },
+            {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
             },
             {
                 "name": "EzAIO",
@@ -12900,6 +13052,10 @@
                 "id": "CXJ_AIO",
                 "pick_rate": 0.1311,
                 "win_rate": 0.624
+            },
+            {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
             },
             {
                 "name": "Fatality",
