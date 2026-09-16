@@ -22,6 +22,8 @@ concurrency:
   # If this is enabled it will cancel current running and start latest
   cancel-in-progress: true
 
+permissions:
+  contents: write
 
 jobs:
   generate_shards_json:
