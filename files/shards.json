@@ -462,6 +462,10 @@
                 "win_rate": 0.6165
             },
             {
+                "name": "Reborn",
+                "id": "Reborn"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0088,
@@ -568,6 +572,10 @@
                 "id": "Pixel-AIO",
                 "pick_rate": 0.0238,
                 "win_rate": 0.4355
+            },
+            {
+                "name": "Reborn",
+                "id": "Reborn"
             },
             {
                 "name": "SA_AIO",
@@ -1374,6 +1382,10 @@
                 "win_rate": 0.6875
             },
             {
+                "name": "Reborn",
+                "id": "Reborn"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0279,
@@ -1690,6 +1702,10 @@
                 "id": "Q_Aio",
                 "pick_rate": 0.1007,
                 "win_rate": 0.6286
+            },
+            {
+                "name": "Reborn",
+                "id": "Reborn"
             },
             {
                 "name": "SA_AIO",
@@ -3024,6 +3040,10 @@
                 "id": "MasterAio",
                 "pick_rate": 0.0047,
                 "win_rate": 0.6087
+            },
+            {
+                "name": "Reborn",
+                "id": "Reborn"
             },
             {
                 "name": "SA_AIO",
@@ -4362,6 +4382,10 @@
                 "id": "Pixel-AIO",
                 "pick_rate": 0.0141,
                 "win_rate": 0.6489
+            },
+            {
+                "name": "Reborn",
+                "id": "Reborn"
             },
             {
                 "name": "SA_AIO",
