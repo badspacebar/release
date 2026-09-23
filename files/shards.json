@@ -8329,6 +8329,26 @@
         "pick_rate": 0.0085,
         "win_rate": 0.6185
     },
+    "Jade_Graves": {
+        "shards": [
+            {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
+            },
+            {
+                "name": "Fx",
+                "id": "Fx"
+            },
+            {
+                "name": "JUST - AIO",
+                "id": "JUST_AIO"
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
     "Lux": {
         "shards": [
             {
@@ -13087,6 +13107,26 @@
         "pick_rate": 0.0135,
         "win_rate": 0.6135
     },
+    "Jade_Nami": {
+        "shards": [
+            {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
+            },
+            {
+                "name": "Fx",
+                "id": "Fx"
+            },
+            {
+                "name": "JUST - AIO",
+                "id": "JUST_AIO"
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
     "TwistedFate": {
         "shards": [
             {
@@ -16971,6 +17011,26 @@
             }
         ]
     },
+    "Jade_Fizz": {
+        "shards": [
+            {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
+            },
+            {
+                "name": "Fx",
+                "id": "Fx"
+            },
+            {
+                "name": "JUST - AIO",
+                "id": "JUST_AIO"
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
     "Jade_XinZhao": {
         "shards": [
             {
@@ -16996,5 +17056,25 @@
         ],
         "pick_rate": 0,
         "win_rate": 0.6429
+    },
+    "Jade_Nautilus": {
+        "shards": [
+            {
+                "name": "DemonAIO",
+                "id": "DS - AIO"
+            },
+            {
+                "name": "Fx",
+                "id": "Fx"
+            },
+            {
+                "name": "JUST - AIO",
+                "id": "JUST_AIO"
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
     }
 }
