@@ -2998,6 +2998,10 @@
                 "win_rate": 0.5283
             },
             {
+                "name": "SA_AIO",
+                "id": "SA_AIOCN"
+            },
+            {
                 "name": "SP-AIO",
                 "id": "SP-AIO",
                 "pick_rate": 0.0444,
@@ -4310,6 +4314,10 @@
                 "id": "Pixel-AIO",
                 "pick_rate": 0.0789,
                 "win_rate": 0.6071
+            },
+            {
+                "name": "SA_AIO",
+                "id": "SA_AIOCN"
             },
             {
                 "name": "[BrianSharp] Successfull",
