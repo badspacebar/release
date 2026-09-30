@@ -1868,6 +1868,10 @@
                 "win_rate": 0.6226
             },
             {
+                "name": "LoliAIO",
+                "id": "LoliAIO"
+            },
+            {
                 "name": "luna-aio",
                 "id": "~ LunaAIO",
                 "pick_rate": 0.0002,
@@ -3560,6 +3564,10 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.0053,
                 "win_rate": 0.566
+            },
+            {
+                "name": "LoliAIO",
+                "id": "LoliAIO"
             },
             {
                 "name": "luna-aio",
@@ -6598,6 +6606,10 @@
                 "win_rate": 0.5714
             },
             {
+                "name": "LoliAIO",
+                "id": "LoliAIO"
+            },
+            {
                 "name": "luna-aio",
                 "id": "~ LunaAIO",
                 "pick_rate": 0.0019,
@@ -8156,6 +8168,10 @@
                 "id": "Klee_AIO",
                 "pick_rate": 0.0079,
                 "win_rate": 0.7329
+            },
+            {
+                "name": "LoliAIO",
+                "id": "LoliAIO"
             },
             {
                 "name": "Mage AIO",
