@@ -5664,6 +5664,10 @@
                 "win_rate": 0.5901
             },
             {
+                "name": "SP-AIO",
+                "id": "SP-AIO"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0067,
@@ -8076,6 +8080,10 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0182,
                 "win_rate": 0.6378
+            },
+            {
+                "name": "SP-AIO",
+                "id": "SP-AIO"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -12292,6 +12300,10 @@
                 "win_rate": 0.5993
             },
             {
+                "name": "SP-AIO",
+                "id": "SP-AIO"
+            },
+            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0074,
@@ -13960,6 +13972,10 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0103,
                 "win_rate": 0.6938
+            },
+            {
+                "name": "SP-AIO",
+                "id": "SP-AIO"
             },
             {
                 "name": "[BrianSharp] Successfull",
