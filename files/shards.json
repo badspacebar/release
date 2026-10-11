@@ -2951,6 +2951,18 @@
         "pick_rate": 0.1025,
         "win_rate": 0.6595
     },
+    "Jade_Aatrox": {
+        "shards": [
+            {
+                "name": "Fx",
+                "id": "Fx"
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
     "Janna": {
         "shards": [
             {
@@ -9272,6 +9284,18 @@
         ],
         "pick_rate": 0.0098,
         "win_rate": 0.5671
+    },
+    "Jade_Caitlyn": {
+        "shards": [
+            {
+                "name": "Fx",
+                "id": "Fx"
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
     },
     "Nautilus": {
         "shards": [
@@ -17060,6 +17084,30 @@
             {
                 "name": "JUST - AIO",
                 "id": "JUST_AIO"
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Irelia": {
+        "shards": [
+            {
+                "name": "Fx",
+                "id": "Fx"
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
+    },
+    "Jade_Karma": {
+        "shards": [
+            {
+                "name": "Fx",
+                "id": "Fx"
             },
             {
                 "name": "[BrianSharp] Successfull",
