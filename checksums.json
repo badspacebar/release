@@ -20,7 +20,7 @@
         "LoliAIO.shard": "d0a164db50d877a93fcbbb3ab96f0b4e",
         "ws.shard": "ae355b26c7a55fe3c1af7459ec32eb1d",
         "KleeAIO.shard": "dab33be35b0d7f3c95ddb297615996ea",
-        "CNo1Utility.shard": "06bf32002de15be08951c9a4d525d570",
+        "CNo1Utility.shard": "33c1e56b2020d1a9783ce73e4ac260fb",
         "FxLib.shard": "fa500e929671c64d42528a137508cd01",
         "luna-aio.shard": "416114f7b27db86d6d644aca05b40b3d",
         "NG-Utility.shard": "cababccd30a73ce7b064a2019f31e5af",
@@ -56,5 +56,5 @@
         "CXJ AIO.shard": "5086eab1ef3cb6e8d31bb765b12a0a72"
     },
     "bot_5.dll": "66dfbd1c6423c9e084740eb3af6535ab",
-    "shards.json": "0df6cc08ac0e84ea5a8606a79e12f82d"
+    "shards.json": "6f554b8b511025af237b370fd4278a6e"
 }
