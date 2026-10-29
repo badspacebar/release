@@ -1482,6 +1482,10 @@
                 "win_rate": 0.4524
             },
             {
+                "name": "LoliAIO",
+                "id": "LoliAIO"
+            },
+            {
                 "name": "MasterAio",
                 "id": "MasterAio",
                 "pick_rate": 0.0927,
