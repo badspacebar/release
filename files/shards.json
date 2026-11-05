@@ -644,6 +644,10 @@
                 "win_rate": 0.5263
             },
             {
+                "name": "LoliAIO",
+                "id": "LoliAIO"
+            },
+            {
                 "name": "Reborn",
                 "id": "Reborn",
                 "pick_rate": 0.0363,
@@ -4626,6 +4630,10 @@
                 "win_rate": 0.449
             },
             {
+                "name": "LoliAIO",
+                "id": "LoliAIO"
+            },
+            {
                 "name": "Pixel-AIO",
                 "id": "Pixel-AIO",
                 "pick_rate": 0.3143,
@@ -8314,6 +8322,10 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.0517,
                 "win_rate": 0.7327
+            },
+            {
+                "name": "LoliAIO",
+                "id": "LoliAIO"
             },
             {
                 "name": "luna-aio",
