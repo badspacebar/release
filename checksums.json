@@ -6,7 +6,7 @@
         "[Viktor]Utility.shard": "cd7c6357931e61bc81ae7bfeb9c92165",
         "GG AIO.shard": "9a9991b2a192ba40703b8f5fe64363ea",
         "CNo1Smite.shard": "7dd64931b544b3fad83ccb5593d20408",
-        "CNo1AIO.shard": "57d6f7c06f80e086d82c12f69e9c102f",
+        "CNo1AIO.shard": "9379829d72b5f7641641006cb8044a02",
         "Healer AIO.shard": "e03518d78971fe9a9c3f04d931014ef6",
         "Q-Utils.shard": "b73968218fe1c2f63d8089cf575ba795",
         "Kornis AIO.shard": "fe45d10253a34089120576c7795a4842",
@@ -56,5 +56,5 @@
         "CXJ AIO.shard": "c06d30b6376ace66c9a250bcc44c40bd"
     },
     "bot_5.dll": "c627122c605255b1853223a34ad63b6e",
-    "shards.json": "52bcfbb4b6892833279da5586814568d"
+    "shards.json": "99b3c57a97c73429188db86f1b010d3b"
 }
