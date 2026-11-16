@@ -7222,6 +7222,10 @@
                 "id": "Kisrs_AIO"
             },
             {
+                "name": "LoliAIO",
+                "id": "LoliAIO"
+            },
+            {
                 "name": "Mage AIO",
                 "id": "Mage AIO",
                 "pick_rate": 0.0341,
