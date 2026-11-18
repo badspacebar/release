@@ -1718,12 +1718,6 @@
                 "win_rate": 0.5333
             },
             {
-                "name": "Bow",
-                "id": "Bow",
-                "pick_rate": 0.0007,
-                "win_rate": 0.5556
-            },
-            {
                 "name": "CSX AIO",
                 "id": "~ CSX AIO",
                 "pick_rate": 0.0198,
@@ -3737,12 +3731,6 @@
     },
     "Yunara": {
         "shards": [
-            {
-                "name": "Bow",
-                "id": "Bow",
-                "pick_rate": 0.0006,
-                "win_rate": 0.5556
-            },
             {
                 "name": "CSX AIO",
                 "id": "~ CSX AIO",
@@ -6122,12 +6110,6 @@
                 "win_rate": 1
             },
             {
-                "name": "Bow",
-                "id": "Bow",
-                "pick_rate": 0.0007,
-                "win_rate": 0.625
-            },
-            {
                 "name": "CSX AIO",
                 "id": "~ CSX AIO",
                 "pick_rate": 0.006,
@@ -7380,12 +7362,6 @@
                 "win_rate": 0.5
             },
             {
-                "name": "Bow",
-                "id": "Bow",
-                "pick_rate": 0.0006,
-                "win_rate": 0.625
-            },
-            {
                 "name": "CSX AIO",
                 "id": "~ CSX AIO",
                 "pick_rate": 0.0016,
@@ -7888,12 +7864,6 @@
                 "id": "archer",
                 "pick_rate": 0.0001,
                 "win_rate": 1
-            },
-            {
-                "name": "Bow",
-                "id": "Bow",
-                "pick_rate": 0.0005,
-                "win_rate": 0.625
             },
             {
                 "name": "CSX AIO",
